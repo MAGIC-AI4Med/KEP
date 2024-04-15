@@ -14,7 +14,7 @@ pip install -r requirements.txt
 
 #### **Training Dataset**  
 
-1. Pathology Knowledge Tree (can be found in `./datasets/knowledge_encoder_dataset/`) for knowledge encoding. Based on the structure of OncoTree, we construct a pathology knowledge tree, which contains disease names/synonyms, disease definitions, histology and cytology features. 
+1. Pathology Knowledge Tree (can be found in `./dataset/knowledge_encoder_dataset/`) for knowledge encoding. Based on the structure of OncoTree, we construct a pathology knowledge tree, which contains disease names/synonyms, disease definitions, histology and cytology features. 
 
 <div align=center><img src="resources/knowledge_tree.png" width="800px"/></div>
 
