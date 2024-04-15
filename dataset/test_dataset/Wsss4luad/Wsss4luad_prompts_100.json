@@ -1,0 +1,802 @@
+{
+  "0": {
+    "classnames": {
+      "normal": "non-tumor",
+      "stroma": "tumor-associated stromal tissue",
+      "tumor": "cancerous tissue"
+    },
+    "templates": "an H&E stained image showing CLASSNAME."
+  },
+  "1": {
+    "classnames": {
+      "normal": "non-cancerous tissue",
+      "stroma": "tumor-associated stroma",
+      "tumor": "tumor epithelial tissue"
+    },
+    "templates": "shows CLASSNAME."
+  },
+  "2": {
+    "classnames": {
+      "normal": "non-cancerous tissue",
+      "stroma": "cancer-associated stromal tissue",
+      "tumor": "tumor epithelial tissue"
+    },
+    "templates": "a histopathological photograph of CLASSNAME."
+  },
+  "3": {
+    "classnames": {
+      "normal": "non-tumor",
+      "stroma": "tumor-associated stromal tissue",
+      "tumor": "tumor epithelial tissue"
+    },
+    "templates": "an H&E image showing CLASSNAME."
+  },
+  "4": {
+    "classnames": {
+      "normal": "non-tumor",
+      "stroma": "cancer-associated stromal tissue",
+      "tumor": "tumor tissue"
+    },
+    "templates": "CLASSNAME, H&E."
+  },
+  "5": {
+    "classnames": {
+      "normal": "normal tissue",
+      "stroma": "cancer-associated stroma",
+      "tumor": "tumor tissue"
+    },
+    "templates": "CLASSNAME."
+  },
+  "6": {
+    "classnames": {
+      "normal": "normal tissue",
+      "stroma": "cancer-associated stromal tissue",
+      "tumor": "tumor tissue"
+    },
+    "templates": "a histopathological photograph of CLASSNAME."
+  },
+  "7": {
+    "classnames": {
+      "normal": "non-cancerous tissue",
+      "stroma": "cancer-associated stromal tissue",
+      "tumor": "tumor tissue"
+    },
+    "templates": "a histopathological photograph of CLASSNAME."
+  },
+  "8": {
+    "classnames": {
+      "normal": "non-tumor",
+      "stroma": "tumor-associated stroma",
+      "tumor": "tumor epithelial tissue"
+    },
+    "templates": "an example of CLASSNAME."
+  },
+  "9": {
+    "classnames": {
+      "normal": "non-cancerous tissue",
+      "stroma": "tumor-associated stroma",
+      "tumor": "cancerous tissue"
+    },
+    "templates": "an example of CLASSNAME."
+  },
+  "10": {
+    "classnames": {
+      "normal": "non-tumor",
+      "stroma": "tumor-associated stromal tissue",
+      "tumor": "tumor epithelial tissue"
+    },
+    "templates": "a photomicrograph of CLASSNAME."
+  },
+  "11": {
+    "classnames": {
+      "normal": "non-tumor",
+      "stroma": "tumor-associated stroma",
+      "tumor": "cancerous tissue"
+    },
+    "templates": "this is CLASSNAME."
+  },
+  "12": {
+    "classnames": {
+      "normal": "non-tumor",
+      "stroma": "cancer-associated stroma",
+      "tumor": "cancerous tissue"
+    },
+    "templates": "CLASSNAME, H&E."
+  },
+  "13": {
+    "classnames": {
+      "normal": "non-tumor",
+      "stroma": "tumor-associated stroma",
+      "tumor": "cancerous tissue"
+    },
+    "templates": "CLASSNAME, H&E."
+  },
+  "14": {
+    "classnames": {
+      "normal": "non-cancerous tissue",
+      "stroma": "cancer-associated stromal tissue",
+      "tumor": "tumor epithelial tissue"
+    },
+    "templates": "shows CLASSNAME."
+  },
+  "15": {
+    "classnames": {
+      "normal": "non-tumor",
+      "stroma": "tumor-associated stroma",
+      "tumor": "tumor epithelial tissue"
+    },
+    "templates": "this is CLASSNAME."
+  },
+  "16": {
+    "classnames": {
+      "normal": "normal tissue",
+      "stroma": "tumor-associated stromal tissue",
+      "tumor": "tumor tissue"
+    },
+    "templates": "CLASSNAME, H&E stain."
+  },
+  "17": {
+    "classnames": {
+      "normal": "non-tumor",
+      "stroma": "tumor-associated stromal tissue",
+      "tumor": "tumor epithelial tissue"
+    },
+    "templates": "CLASSNAME, H&E stain."
+  },
+  "18": {
+    "classnames": {
+      "normal": "non-cancerous tissue",
+      "stroma": "tumor-associated stroma",
+      "tumor": "tumor epithelial tissue"
+    },
+    "templates": "an H&E image showing CLASSNAME."
+  },
+  "19": {
+    "classnames": {
+      "normal": "non-tumor",
+      "stroma": "tumor-associated stroma",
+      "tumor": "tumor epithelial tissue"
+    },
+    "templates": "CLASSNAME, H&E."
+  },
+  "20": {
+    "classnames": {
+      "normal": "non-cancerous tissue",
+      "stroma": "cancer-associated stromal tissue",
+      "tumor": "cancerous tissue"
+    },
+    "templates": "presence of CLASSNAME."
+  },
+  "21": {
+    "classnames": {
+      "normal": "normal tissue",
+      "stroma": "tumor-associated stromal tissue",
+      "tumor": "tumor tissue"
+    },
+    "templates": "CLASSNAME, H&E stain."
+  },
+  "22": {
+    "classnames": {
+      "normal": "non-cancerous tissue",
+      "stroma": "tumor-associated stromal tissue",
+      "tumor": "cancerous tissue"
+    },
+    "templates": "CLASSNAME, H&E."
+  },
+  "23": {
+    "classnames": {
+      "normal": "non-cancerous tissue",
+      "stroma": "tumor-associated stromal tissue",
+      "tumor": "tumor tissue"
+    },
+    "templates": "a histopathological photograph showing CLASSNAME."
+  },
+  "24": {
+    "classnames": {
+      "normal": "non-cancerous tissue",
+      "stroma": "tumor-associated stroma",
+      "tumor": "cancerous tissue"
+    },
+    "templates": "CLASSNAME is shown."
+  },
+  "25": {
+    "classnames": {
+      "normal": "normal tissue",
+      "stroma": "cancer-associated stromal tissue",
+      "tumor": "cancerous tissue"
+    },
+    "templates": "CLASSNAME."
+  },
+  "26": {
+    "classnames": {
+      "normal": "normal tissue",
+      "stroma": "cancer-associated stroma",
+      "tumor": "tumor tissue"
+    },
+    "templates": "presence of CLASSNAME."
+  },
+  "27": {
+    "classnames": {
+      "normal": "normal tissue",
+      "stroma": "cancer-associated stroma",
+      "tumor": "tumor tissue"
+    },
+    "templates": "a histopathological photograph showing CLASSNAME."
+  },
+  "28": {
+    "classnames": {
+      "normal": "non-tumor",
+      "stroma": "tumor-associated stroma",
+      "tumor": "tumor epithelial tissue"
+    },
+    "templates": "an H&E stained image showing CLASSNAME."
+  },
+  "29": {
+    "classnames": {
+      "normal": "non-cancerous tissue",
+      "stroma": "cancer-associated stromal tissue",
+      "tumor": "tumor tissue"
+    },
+    "templates": "CLASSNAME is present."
+  },
+  "30": {
+    "classnames": {
+      "normal": "non-cancerous tissue",
+      "stroma": "cancer-associated stroma",
+      "tumor": "tumor tissue"
+    },
+    "templates": "CLASSNAME is shown."
+  },
+  "31": {
+    "classnames": {
+      "normal": "non-cancerous tissue",
+      "stroma": "tumor-associated stroma",
+      "tumor": "tumor tissue"
+    },
+    "templates": "a photomicrograph of CLASSNAME."
+  },
+  "32": {
+    "classnames": {
+      "normal": "non-cancerous tissue",
+      "stroma": "cancer-associated stroma",
+      "tumor": "tumor epithelial tissue"
+    },
+    "templates": "CLASSNAME is shown."
+  },
+  "33": {
+    "classnames": {
+      "normal": "non-cancerous tissue",
+      "stroma": "tumor-associated stroma",
+      "tumor": "tumor epithelial tissue"
+    },
+    "templates": "CLASSNAME, H&E stain."
+  },
+  "34": {
+    "classnames": {
+      "normal": "non-tumor",
+      "stroma": "cancer-associated stroma",
+      "tumor": "cancerous tissue"
+    },
+    "templates": "an H&E stained image showing CLASSNAME."
+  },
+  "35": {
+    "classnames": {
+      "normal": "non-tumor",
+      "stroma": "cancer-associated stromal tissue",
+      "tumor": "tumor tissue"
+    },
+    "templates": "CLASSNAME is shown."
+  },
+  "36": {
+    "classnames": {
+      "normal": "non-tumor",
+      "stroma": "cancer-associated stroma",
+      "tumor": "tumor epithelial tissue"
+    },
+    "templates": "an image showing CLASSNAME."
+  },
+  "37": {
+    "classnames": {
+      "normal": "non-cancerous tissue",
+      "stroma": "tumor-associated stromal tissue",
+      "tumor": "tumor epithelial tissue"
+    },
+    "templates": "a histopathological photograph showing CLASSNAME."
+  },
+  "38": {
+    "classnames": {
+      "normal": "normal tissue",
+      "stroma": "tumor-associated stromal tissue",
+      "tumor": "cancerous tissue"
+    },
+    "templates": "an H&E image showing CLASSNAME."
+  },
+  "39": {
+    "classnames": {
+      "normal": "non-tumor",
+      "stroma": "tumor-associated stromal tissue",
+      "tumor": "tumor tissue"
+    },
+    "templates": "there is CLASSNAME."
+  },
+  "40": {
+    "classnames": {
+      "normal": "non-cancerous tissue",
+      "stroma": "cancer-associated stroma",
+      "tumor": "tumor tissue"
+    },
+    "templates": "a photomicrograph showing CLASSNAME."
+  },
+  "41": {
+    "classnames": {
+      "normal": "non-tumor",
+      "stroma": "cancer-associated stromal tissue",
+      "tumor": "tumor tissue"
+    },
+    "templates": "a histopathological photograph showing CLASSNAME."
+  },
+  "42": {
+    "classnames": {
+      "normal": "non-cancerous tissue",
+      "stroma": "tumor-associated stromal tissue",
+      "tumor": "tumor tissue"
+    },
+    "templates": "a histopathological image showing CLASSNAME."
+  },
+  "43": {
+    "classnames": {
+      "normal": "non-tumor",
+      "stroma": "tumor-associated stromal tissue",
+      "tumor": "cancerous tissue"
+    },
+    "templates": "presence of CLASSNAME."
+  },
+  "44": {
+    "classnames": {
+      "normal": "non-cancerous tissue",
+      "stroma": "tumor-associated stromal tissue",
+      "tumor": "cancerous tissue"
+    },
+    "templates": "a histopathological photograph of CLASSNAME."
+  },
+  "45": {
+    "classnames": {
+      "normal": "normal tissue",
+      "stroma": "tumor-associated stromal tissue",
+      "tumor": "tumor epithelial tissue"
+    },
+    "templates": "an H&E image of CLASSNAME."
+  },
+  "46": {
+    "classnames": {
+      "normal": "non-cancerous tissue",
+      "stroma": "cancer-associated stromal tissue",
+      "tumor": "cancerous tissue"
+    },
+    "templates": "an image of CLASSNAME."
+  },
+  "47": {
+    "classnames": {
+      "normal": "non-tumor",
+      "stroma": "cancer-associated stromal tissue",
+      "tumor": "tumor epithelial tissue"
+    },
+    "templates": "there is CLASSNAME."
+  },
+  "48": {
+    "classnames": {
+      "normal": "non-tumor",
+      "stroma": "cancer-associated stromal tissue",
+      "tumor": "cancerous tissue"
+    },
+    "templates": "CLASSNAME."
+  },
+  "49": {
+    "classnames": {
+      "normal": "non-tumor",
+      "stroma": "cancer-associated stroma",
+      "tumor": "cancerous tissue"
+    },
+    "templates": "an example of CLASSNAME."
+  },
+  "50": {
+    "classnames": {
+      "normal": "non-cancerous tissue",
+      "stroma": "cancer-associated stromal tissue",
+      "tumor": "tumor epithelial tissue"
+    },
+    "templates": "an example of CLASSNAME."
+  },
+  "51": {
+    "classnames": {
+      "normal": "normal tissue",
+      "stroma": "tumor-associated stroma",
+      "tumor": "tumor tissue"
+    },
+    "templates": "CLASSNAME, H&E."
+  },
+  "52": {
+    "classnames": {
+      "normal": "non-tumor",
+      "stroma": "tumor-associated stroma",
+      "tumor": "tumor tissue"
+    },
+    "templates": "an image of CLASSNAME."
+  },
+  "53": {
+    "classnames": {
+      "normal": "normal tissue",
+      "stroma": "tumor-associated stroma",
+      "tumor": "tumor tissue"
+    },
+    "templates": "a photomicrograph showing CLASSNAME."
+  },
+  "54": {
+    "classnames": {
+      "normal": "non-cancerous tissue",
+      "stroma": "tumor-associated stromal tissue",
+      "tumor": "cancerous tissue"
+    },
+    "templates": "there is CLASSNAME."
+  },
+  "55": {
+    "classnames": {
+      "normal": "non-tumor",
+      "stroma": "cancer-associated stroma",
+      "tumor": "cancerous tissue"
+    },
+    "templates": "this is CLASSNAME."
+  },
+  "56": {
+    "classnames": {
+      "normal": "non-tumor",
+      "stroma": "cancer-associated stroma",
+      "tumor": "cancerous tissue"
+    },
+    "templates": "a photomicrograph of CLASSNAME."
+  },
+  "57": {
+    "classnames": {
+      "normal": "non-cancerous tissue",
+      "stroma": "tumor-associated stromal tissue",
+      "tumor": "tumor tissue"
+    },
+    "templates": "an H&E image of CLASSNAME."
+  },
+  "58": {
+    "classnames": {
+      "normal": "normal tissue",
+      "stroma": "tumor-associated stroma",
+      "tumor": "cancerous tissue"
+    },
+    "templates": "a photomicrograph of CLASSNAME."
+  },
+  "59": {
+    "classnames": {
+      "normal": "non-cancerous tissue",
+      "stroma": "cancer-associated stroma",
+      "tumor": "tumor tissue"
+    },
+    "templates": "a histopathological photograph showing CLASSNAME."
+  },
+  "60": {
+    "classnames": {
+      "normal": "non-cancerous tissue",
+      "stroma": "tumor-associated stromal tissue",
+      "tumor": "tumor epithelial tissue"
+    },
+    "templates": "an H&E image of CLASSNAME."
+  },
+  "61": {
+    "classnames": {
+      "normal": "normal tissue",
+      "stroma": "cancer-associated stroma",
+      "tumor": "tumor tissue"
+    },
+    "templates": "a photomicrograph of CLASSNAME."
+  },
+  "62": {
+    "classnames": {
+      "normal": "normal tissue",
+      "stroma": "cancer-associated stroma",
+      "tumor": "tumor tissue"
+    },
+    "templates": "CLASSNAME is shown."
+  },
+  "63": {
+    "classnames": {
+      "normal": "non-cancerous tissue",
+      "stroma": "cancer-associated stromal tissue",
+      "tumor": "tumor tissue"
+    },
+    "templates": "an H&E image showing CLASSNAME."
+  },
+  "64": {
+    "classnames": {
+      "normal": "non-cancerous tissue",
+      "stroma": "cancer-associated stroma",
+      "tumor": "cancerous tissue"
+    },
+    "templates": "a histopathological photograph showing CLASSNAME."
+  },
+  "65": {
+    "classnames": {
+      "normal": "non-tumor",
+      "stroma": "tumor-associated stromal tissue",
+      "tumor": "tumor epithelial tissue"
+    },
+    "templates": "a photomicrograph of CLASSNAME."
+  },
+  "66": {
+    "classnames": {
+      "normal": "non-tumor",
+      "stroma": "cancer-associated stromal tissue",
+      "tumor": "tumor epithelial tissue"
+    },
+    "templates": "CLASSNAME is shown."
+  },
+  "67": {
+    "classnames": {
+      "normal": "non-cancerous tissue",
+      "stroma": "cancer-associated stroma",
+      "tumor": "tumor tissue"
+    },
+    "templates": "a histopathological image showing CLASSNAME."
+  },
+  "68": {
+    "classnames": {
+      "normal": "non-tumor",
+      "stroma": "tumor-associated stroma",
+      "tumor": "cancerous tissue"
+    },
+    "templates": "an H&E stained image showing CLASSNAME."
+  },
+  "69": {
+    "classnames": {
+      "normal": "normal tissue",
+      "stroma": "cancer-associated stroma",
+      "tumor": "cancerous tissue"
+    },
+    "templates": "a photomicrograph showing CLASSNAME."
+  },
+  "70": {
+    "classnames": {
+      "normal": "normal tissue",
+      "stroma": "tumor-associated stromal tissue",
+      "tumor": "cancerous tissue"
+    },
+    "templates": "there is CLASSNAME."
+  },
+  "71": {
+    "classnames": {
+      "normal": "normal tissue",
+      "stroma": "tumor-associated stromal tissue",
+      "tumor": "tumor tissue"
+    },
+    "templates": "presence of CLASSNAME."
+  },
+  "72": {
+    "classnames": {
+      "normal": "non-cancerous tissue",
+      "stroma": "cancer-associated stroma",
+      "tumor": "cancerous tissue"
+    },
+    "templates": "shows CLASSNAME."
+  },
+  "73": {
+    "classnames": {
+      "normal": "non-tumor",
+      "stroma": "cancer-associated stromal tissue",
+      "tumor": "cancerous tissue"
+    },
+    "templates": "an image showing CLASSNAME."
+  },
+  "74": {
+    "classnames": {
+      "normal": "normal tissue",
+      "stroma": "cancer-associated stroma",
+      "tumor": "cancerous tissue"
+    },
+    "templates": "a photomicrograph of CLASSNAME."
+  },
+  "75": {
+    "classnames": {
+      "normal": "normal tissue",
+      "stroma": "tumor-associated stroma",
+      "tumor": "cancerous tissue"
+    },
+    "templates": "an H&E image showing CLASSNAME."
+  },
+  "76": {
+    "classnames": {
+      "normal": "non-cancerous tissue",
+      "stroma": "cancer-associated stroma",
+      "tumor": "cancerous tissue"
+    },
+    "templates": "CLASSNAME is present."
+  },
+  "77": {
+    "classnames": {
+      "normal": "normal tissue",
+      "stroma": "cancer-associated stromal tissue",
+      "tumor": "cancerous tissue"
+    },
+    "templates": "an image showing CLASSNAME."
+  },
+  "78": {
+    "classnames": {
+      "normal": "non-cancerous tissue",
+      "stroma": "tumor-associated stroma",
+      "tumor": "cancerous tissue"
+    },
+    "templates": "an H&E image of CLASSNAME."
+  },
+  "79": {
+    "classnames": {
+      "normal": "normal tissue",
+      "stroma": "tumor-associated stroma",
+      "tumor": "cancerous tissue"
+    },
+    "templates": "shows CLASSNAME."
+  },
+  "80": {
+    "classnames": {
+      "normal": "non-tumor",
+      "stroma": "tumor-associated stromal tissue",
+      "tumor": "tumor tissue"
+    },
+    "templates": "CLASSNAME, H&E stain."
+  },
+  "81": {
+    "classnames": {
+      "normal": "non-cancerous tissue",
+      "stroma": "tumor-associated stromal tissue",
+      "tumor": "tumor epithelial tissue"
+    },
+    "templates": "an H&E stained image of CLASSNAME."
+  },
+  "82": {
+    "classnames": {
+      "normal": "non-cancerous tissue",
+      "stroma": "tumor-associated stromal tissue",
+      "tumor": "tumor epithelial tissue"
+    },
+    "templates": "this is CLASSNAME."
+  },
+  "83": {
+    "classnames": {
+      "normal": "non-cancerous tissue",
+      "stroma": "cancer-associated stroma",
+      "tumor": "tumor epithelial tissue"
+    },
+    "templates": "a histopathological image showing CLASSNAME."
+  },
+  "84": {
+    "classnames": {
+      "normal": "non-cancerous tissue",
+      "stroma": "tumor-associated stromal tissue",
+      "tumor": "tumor epithelial tissue"
+    },
+    "templates": "an image of CLASSNAME."
+  },
+  "85": {
+    "classnames": {
+      "normal": "non-cancerous tissue",
+      "stroma": "tumor-associated stromal tissue",
+      "tumor": "tumor epithelial tissue"
+    },
+    "templates": "an H&E stained image showing CLASSNAME."
+  },
+  "86": {
+    "classnames": {
+      "normal": "non-tumor",
+      "stroma": "tumor-associated stromal tissue",
+      "tumor": "tumor epithelial tissue"
+    },
+    "templates": "this is CLASSNAME."
+  },
+  "87": {
+    "classnames": {
+      "normal": "non-cancerous tissue",
+      "stroma": "tumor-associated stromal tissue",
+      "tumor": "tumor tissue"
+    },
+    "templates": "CLASSNAME is shown."
+  },
+  "88": {
+    "classnames": {
+      "normal": "non-cancerous tissue",
+      "stroma": "tumor-associated stroma",
+      "tumor": "tumor tissue"
+    },
+    "templates": "an H&E stained image of CLASSNAME."
+  },
+  "89": {
+    "classnames": {
+      "normal": "non-cancerous tissue",
+      "stroma": "cancer-associated stromal tissue",
+      "tumor": "tumor tissue"
+    },
+    "templates": "a photomicrograph of CLASSNAME."
+  },
+  "90": {
+    "classnames": {
+      "normal": "normal tissue",
+      "stroma": "cancer-associated stroma",
+      "tumor": "tumor epithelial tissue"
+    },
+    "templates": "a photomicrograph of CLASSNAME."
+  },
+  "91": {
+    "classnames": {
+      "normal": "non-tumor",
+      "stroma": "cancer-associated stroma",
+      "tumor": "tumor tissue"
+    },
+    "templates": "an image showing CLASSNAME."
+  },
+  "92": {
+    "classnames": {
+      "normal": "non-cancerous tissue",
+      "stroma": "cancer-associated stroma",
+      "tumor": "tumor epithelial tissue"
+    },
+    "templates": "there is CLASSNAME."
+  },
+  "93": {
+    "classnames": {
+      "normal": "non-cancerous tissue",
+      "stroma": "tumor-associated stroma",
+      "tumor": "cancerous tissue"
+    },
+    "templates": "a histopathological photograph showing CLASSNAME."
+  },
+  "94": {
+    "classnames": {
+      "normal": "normal tissue",
+      "stroma": "tumor-associated stromal tissue",
+      "tumor": "tumor tissue"
+    },
+    "templates": "an image of CLASSNAME."
+  },
+  "95": {
+    "classnames": {
+      "normal": "non-tumor",
+      "stroma": "cancer-associated stroma",
+      "tumor": "cancerous tissue"
+    },
+    "templates": "shows CLASSNAME."
+  },
+  "96": {
+    "classnames": {
+      "normal": "normal tissue",
+      "stroma": "tumor-associated stroma",
+      "tumor": "tumor tissue"
+    },
+    "templates": "an H&E image of CLASSNAME."
+  },
+  "97": {
+    "classnames": {
+      "normal": "normal tissue",
+      "stroma": "cancer-associated stroma",
+      "tumor": "cancerous tissue"
+    },
+    "templates": "there is CLASSNAME."
+  },
+  "98": {
+    "classnames": {
+      "normal": "non-tumor",
+      "stroma": "tumor-associated stroma",
+      "tumor": "cancerous tissue"
+    },
+    "templates": "CLASSNAME, H&E."
+  },
+  "99": {
+    "classnames": {
+      "normal": "normal tissue",
+      "stroma": "cancer-associated stroma",
+      "tumor": "tumor tissue"
+    },
+    "templates": "CLASSNAME is present."
+  }
+}

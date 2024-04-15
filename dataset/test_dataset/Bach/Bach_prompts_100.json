@@ -1,0 +1,902 @@
+{
+  "0": {
+    "classnames": {
+      "Benign": "breast non-malignant benign tissue",
+      "InSitu": "breast in-situ carcinoma",
+      "Invasive": "invasive carcinoma of breast",
+      "Normal": "breast normal breast tissue"
+    },
+    "templates": "shows CLASSNAME."
+  },
+  "1": {
+    "classnames": {
+      "Benign": "breast non-malignant benign tissue",
+      "InSitu": "malignant carcinoma in-situ of breast",
+      "Invasive": "breast invasive carcinoma",
+      "Normal": "breast normal breast tissue"
+    },
+    "templates": "an example of CLASSNAME."
+  },
+  "2": {
+    "classnames": {
+      "Benign": "breast benign tissue",
+      "InSitu": "malignant carcinoma in-situ of breast",
+      "Invasive": "invasive carcinoma of breast",
+      "Normal": "breast normal tissue"
+    },
+    "templates": "CLASSNAME is shown."
+  },
+  "3": {
+    "classnames": {
+      "Benign": "breast non-malignant benign tissue",
+      "InSitu": "breast in-situ carcinoma",
+      "Invasive": "breast invasive carcinoma",
+      "Normal": "breast non-cancerous tissue"
+    },
+    "templates": "an H&E image showing CLASSNAME."
+  },
+  "4": {
+    "classnames": {
+      "Benign": "non-malignant benign tissue of breast",
+      "InSitu": "breast malignant in-situ carcinoma",
+      "Invasive": "breast invasive carcinoma",
+      "Normal": "breast non-cancerous tissue"
+    },
+    "templates": "CLASSNAME is present."
+  },
+  "5": {
+    "classnames": {
+      "Benign": "breast benign tissue",
+      "InSitu": "breast in-situ carcinoma",
+      "Invasive": "breast invasive carcinoma",
+      "Normal": "breast normal breast tissue"
+    },
+    "templates": "this is CLASSNAME."
+  },
+  "6": {
+    "classnames": {
+      "Benign": "breast benign tissue",
+      "InSitu": "breast in-situ carcinoma",
+      "Invasive": "breast malignant invasive carcinoma",
+      "Normal": "breast normal tissue"
+    },
+    "templates": "a histopathological image showing CLASSNAME."
+  },
+  "7": {
+    "classnames": {
+      "Benign": "non-malignant benign tissue of breast",
+      "InSitu": "breast malignant in-situ carcinoma",
+      "Invasive": "breast invasive carcinoma",
+      "Normal": "breast normal tissue"
+    },
+    "templates": "presence of CLASSNAME."
+  },
+  "8": {
+    "classnames": {
+      "Benign": "breast non-malignant benign tissue",
+      "InSitu": "malignant carcinoma in-situ of breast",
+      "Invasive": "breast invasive carcinoma",
+      "Normal": "normal breast tissue"
+    },
+    "templates": "an image showing CLASSNAME."
+  },
+  "9": {
+    "classnames": {
+      "Benign": "non-malignant benign tissue of breast",
+      "InSitu": "malignant carcinoma in-situ of breast",
+      "Invasive": "breast malignant invasive carcinoma",
+      "Normal": "breast normal tissue"
+    },
+    "templates": "this is CLASSNAME."
+  },
+  "10": {
+    "classnames": {
+      "Benign": "breast benign tissue",
+      "InSitu": "malignant carcinoma in-situ of breast",
+      "Invasive": "invasive carcinoma of breast",
+      "Normal": "breast normal tissue"
+    },
+    "templates": "an example of CLASSNAME."
+  },
+  "11": {
+    "classnames": {
+      "Benign": "breast benign tissue",
+      "InSitu": "breast malignant in-situ carcinoma",
+      "Invasive": "invasive carcinoma of breast",
+      "Normal": "normal breast tissue"
+    },
+    "templates": "a histopathological photograph showing CLASSNAME."
+  },
+  "12": {
+    "classnames": {
+      "Benign": "breast non-malignant benign tissue",
+      "InSitu": "breast in-situ carcinoma",
+      "Invasive": "breast malignant invasive carcinoma",
+      "Normal": "breast non-cancerous tissue"
+    },
+    "templates": "there is CLASSNAME."
+  },
+  "13": {
+    "classnames": {
+      "Benign": "breast benign tissue",
+      "InSitu": "breast malignant in-situ carcinoma",
+      "Invasive": "invasive carcinoma of breast",
+      "Normal": "breast normal breast tissue"
+    },
+    "templates": "presence of CLASSNAME."
+  },
+  "14": {
+    "classnames": {
+      "Benign": "breast non-malignant benign tissue",
+      "InSitu": "breast in-situ carcinoma",
+      "Invasive": "invasive carcinoma of breast",
+      "Normal": "breast normal tissue"
+    },
+    "templates": "shows CLASSNAME."
+  },
+  "15": {
+    "classnames": {
+      "Benign": "breast non-malignant benign tissue",
+      "InSitu": "breast in-situ carcinoma",
+      "Invasive": "breast malignant invasive carcinoma",
+      "Normal": "breast normal tissue"
+    },
+    "templates": "CLASSNAME is shown."
+  },
+  "16": {
+    "classnames": {
+      "Benign": "breast benign tissue",
+      "InSitu": "breast in-situ carcinoma",
+      "Invasive": "breast invasive carcinoma",
+      "Normal": "breast normal breast tissue"
+    },
+    "templates": "an image showing CLASSNAME."
+  },
+  "17": {
+    "classnames": {
+      "Benign": "breast benign tissue",
+      "InSitu": "breast malignant in-situ carcinoma",
+      "Invasive": "breast invasive carcinoma",
+      "Normal": "breast non-cancerous tissue"
+    },
+    "templates": "an H&E image of CLASSNAME."
+  },
+  "18": {
+    "classnames": {
+      "Benign": "breast non-malignant benign tissue",
+      "InSitu": "breast malignant in-situ carcinoma",
+      "Invasive": "invasive carcinoma of breast",
+      "Normal": "breast non-cancerous tissue"
+    },
+    "templates": "there is CLASSNAME."
+  },
+  "19": {
+    "classnames": {
+      "Benign": "non-malignant benign tissue of breast",
+      "InSitu": "malignant carcinoma in-situ of breast",
+      "Invasive": "breast invasive carcinoma",
+      "Normal": "normal breast tissue"
+    },
+    "templates": "a histopathological image showing CLASSNAME."
+  },
+  "20": {
+    "classnames": {
+      "Benign": "breast non-malignant benign tissue",
+      "InSitu": "breast malignant in-situ carcinoma",
+      "Invasive": "invasive carcinoma of breast",
+      "Normal": "breast normal breast tissue"
+    },
+    "templates": "a photomicrograph showing CLASSNAME."
+  },
+  "21": {
+    "classnames": {
+      "Benign": "non-malignant benign tissue of breast",
+      "InSitu": "breast malignant in-situ carcinoma",
+      "Invasive": "invasive carcinoma of breast",
+      "Normal": "breast non-cancerous tissue"
+    },
+    "templates": "a photomicrograph of CLASSNAME."
+  },
+  "22": {
+    "classnames": {
+      "Benign": "non-malignant benign tissue of breast",
+      "InSitu": "breast in-situ carcinoma",
+      "Invasive": "breast malignant invasive carcinoma",
+      "Normal": "breast non-cancerous tissue"
+    },
+    "templates": "an image showing CLASSNAME."
+  },
+  "23": {
+    "classnames": {
+      "Benign": "non-malignant benign tissue of breast",
+      "InSitu": "breast in-situ carcinoma",
+      "Invasive": "breast malignant invasive carcinoma",
+      "Normal": "breast normal breast tissue"
+    },
+    "templates": "CLASSNAME."
+  },
+  "24": {
+    "classnames": {
+      "Benign": "breast non-malignant benign tissue",
+      "InSitu": "breast malignant in-situ carcinoma",
+      "Invasive": "invasive carcinoma of breast",
+      "Normal": "breast normal tissue"
+    },
+    "templates": "an H&E image of CLASSNAME."
+  },
+  "25": {
+    "classnames": {
+      "Benign": "breast non-malignant benign tissue",
+      "InSitu": "breast malignant in-situ carcinoma",
+      "Invasive": "breast invasive carcinoma",
+      "Normal": "breast normal tissue"
+    },
+    "templates": "a histopathological photograph showing CLASSNAME."
+  },
+  "26": {
+    "classnames": {
+      "Benign": "breast non-malignant benign tissue",
+      "InSitu": "malignant carcinoma in-situ of breast",
+      "Invasive": "breast invasive carcinoma",
+      "Normal": "breast normal breast tissue"
+    },
+    "templates": "a histopathological photograph showing CLASSNAME."
+  },
+  "27": {
+    "classnames": {
+      "Benign": "breast benign tissue",
+      "InSitu": "breast in-situ carcinoma",
+      "Invasive": "invasive carcinoma of breast",
+      "Normal": "normal breast tissue"
+    },
+    "templates": "CLASSNAME is shown."
+  },
+  "28": {
+    "classnames": {
+      "Benign": "non-malignant benign tissue of breast",
+      "InSitu": "malignant carcinoma in-situ of breast",
+      "Invasive": "breast malignant invasive carcinoma",
+      "Normal": "normal breast tissue"
+    },
+    "templates": "CLASSNAME, H&E."
+  },
+  "29": {
+    "classnames": {
+      "Benign": "breast benign tissue",
+      "InSitu": "breast malignant in-situ carcinoma",
+      "Invasive": "invasive carcinoma of breast",
+      "Normal": "normal breast tissue"
+    },
+    "templates": "there is CLASSNAME."
+  },
+  "30": {
+    "classnames": {
+      "Benign": "breast benign tissue",
+      "InSitu": "malignant carcinoma in-situ of breast",
+      "Invasive": "breast malignant invasive carcinoma",
+      "Normal": "normal breast tissue"
+    },
+    "templates": "there is CLASSNAME."
+  },
+  "31": {
+    "classnames": {
+      "Benign": "non-malignant benign tissue of breast",
+      "InSitu": "breast in-situ carcinoma",
+      "Invasive": "invasive carcinoma of breast",
+      "Normal": "breast normal breast tissue"
+    },
+    "templates": "presence of CLASSNAME."
+  },
+  "32": {
+    "classnames": {
+      "Benign": "breast non-malignant benign tissue",
+      "InSitu": "malignant carcinoma in-situ of breast",
+      "Invasive": "breast malignant invasive carcinoma",
+      "Normal": "normal breast tissue"
+    },
+    "templates": "an H&E stained image of CLASSNAME."
+  },
+  "33": {
+    "classnames": {
+      "Benign": "non-malignant benign tissue of breast",
+      "InSitu": "malignant carcinoma in-situ of breast",
+      "Invasive": "invasive carcinoma of breast",
+      "Normal": "breast normal tissue"
+    },
+    "templates": "a histopathological photograph of CLASSNAME."
+  },
+  "34": {
+    "classnames": {
+      "Benign": "breast benign tissue",
+      "InSitu": "breast malignant in-situ carcinoma",
+      "Invasive": "invasive carcinoma of breast",
+      "Normal": "normal breast tissue"
+    },
+    "templates": "an H&E stained image of CLASSNAME."
+  },
+  "35": {
+    "classnames": {
+      "Benign": "non-malignant benign tissue of breast",
+      "InSitu": "breast in-situ carcinoma",
+      "Invasive": "breast invasive carcinoma",
+      "Normal": "normal breast tissue"
+    },
+    "templates": "shows CLASSNAME."
+  },
+  "36": {
+    "classnames": {
+      "Benign": "breast benign tissue",
+      "InSitu": "breast malignant in-situ carcinoma",
+      "Invasive": "invasive carcinoma of breast",
+      "Normal": "breast normal tissue"
+    },
+    "templates": "an H&E stained image of CLASSNAME."
+  },
+  "37": {
+    "classnames": {
+      "Benign": "breast benign tissue",
+      "InSitu": "malignant carcinoma in-situ of breast",
+      "Invasive": "breast malignant invasive carcinoma",
+      "Normal": "normal breast tissue"
+    },
+    "templates": "shows CLASSNAME."
+  },
+  "38": {
+    "classnames": {
+      "Benign": "breast benign tissue",
+      "InSitu": "breast in-situ carcinoma",
+      "Invasive": "breast malignant invasive carcinoma",
+      "Normal": "breast non-cancerous tissue"
+    },
+    "templates": "a photomicrograph of CLASSNAME."
+  },
+  "39": {
+    "classnames": {
+      "Benign": "breast benign tissue",
+      "InSitu": "breast in-situ carcinoma",
+      "Invasive": "breast malignant invasive carcinoma",
+      "Normal": "normal breast tissue"
+    },
+    "templates": "a photomicrograph of CLASSNAME."
+  },
+  "40": {
+    "classnames": {
+      "Benign": "non-malignant benign tissue of breast",
+      "InSitu": "breast malignant in-situ carcinoma",
+      "Invasive": "invasive carcinoma of breast",
+      "Normal": "normal breast tissue"
+    },
+    "templates": "CLASSNAME."
+  },
+  "41": {
+    "classnames": {
+      "Benign": "breast benign tissue",
+      "InSitu": "malignant carcinoma in-situ of breast",
+      "Invasive": "breast invasive carcinoma",
+      "Normal": "breast non-cancerous tissue"
+    },
+    "templates": "CLASSNAME is shown."
+  },
+  "42": {
+    "classnames": {
+      "Benign": "breast benign tissue",
+      "InSitu": "breast malignant in-situ carcinoma",
+      "Invasive": "breast invasive carcinoma",
+      "Normal": "normal breast tissue"
+    },
+    "templates": "CLASSNAME, H&E."
+  },
+  "43": {
+    "classnames": {
+      "Benign": "breast non-malignant benign tissue",
+      "InSitu": "malignant carcinoma in-situ of breast",
+      "Invasive": "breast malignant invasive carcinoma",
+      "Normal": "breast normal breast tissue"
+    },
+    "templates": "CLASSNAME."
+  },
+  "44": {
+    "classnames": {
+      "Benign": "breast non-malignant benign tissue",
+      "InSitu": "breast malignant in-situ carcinoma",
+      "Invasive": "breast invasive carcinoma",
+      "Normal": "breast normal tissue"
+    },
+    "templates": "a histopathological photograph showing CLASSNAME."
+  },
+  "45": {
+    "classnames": {
+      "Benign": "breast non-malignant benign tissue",
+      "InSitu": "breast in-situ carcinoma",
+      "Invasive": "breast invasive carcinoma",
+      "Normal": "breast normal breast tissue"
+    },
+    "templates": "an example of CLASSNAME."
+  },
+  "46": {
+    "classnames": {
+      "Benign": "non-malignant benign tissue of breast",
+      "InSitu": "breast in-situ carcinoma",
+      "Invasive": "breast malignant invasive carcinoma",
+      "Normal": "breast normal tissue"
+    },
+    "templates": "this is CLASSNAME."
+  },
+  "47": {
+    "classnames": {
+      "Benign": "breast benign tissue",
+      "InSitu": "malignant carcinoma in-situ of breast",
+      "Invasive": "invasive carcinoma of breast",
+      "Normal": "breast non-cancerous tissue"
+    },
+    "templates": "this is CLASSNAME."
+  },
+  "48": {
+    "classnames": {
+      "Benign": "non-malignant benign tissue of breast",
+      "InSitu": "malignant carcinoma in-situ of breast",
+      "Invasive": "breast invasive carcinoma",
+      "Normal": "breast normal tissue"
+    },
+    "templates": "a photomicrograph showing CLASSNAME."
+  },
+  "49": {
+    "classnames": {
+      "Benign": "breast non-malignant benign tissue",
+      "InSitu": "malignant carcinoma in-situ of breast",
+      "Invasive": "invasive carcinoma of breast",
+      "Normal": "breast normal breast tissue"
+    },
+    "templates": "a histopathological image showing CLASSNAME."
+  },
+  "50": {
+    "classnames": {
+      "Benign": "breast non-malignant benign tissue",
+      "InSitu": "breast malignant in-situ carcinoma",
+      "Invasive": "breast malignant invasive carcinoma",
+      "Normal": "normal breast tissue"
+    },
+    "templates": "this is CLASSNAME."
+  },
+  "51": {
+    "classnames": {
+      "Benign": "breast non-malignant benign tissue",
+      "InSitu": "malignant carcinoma in-situ of breast",
+      "Invasive": "breast malignant invasive carcinoma",
+      "Normal": "breast non-cancerous tissue"
+    },
+    "templates": "CLASSNAME."
+  },
+  "52": {
+    "classnames": {
+      "Benign": "non-malignant benign tissue of breast",
+      "InSitu": "malignant carcinoma in-situ of breast",
+      "Invasive": "breast malignant invasive carcinoma",
+      "Normal": "breast non-cancerous tissue"
+    },
+    "templates": "an example of CLASSNAME."
+  },
+  "53": {
+    "classnames": {
+      "Benign": "breast benign tissue",
+      "InSitu": "breast malignant in-situ carcinoma",
+      "Invasive": "invasive carcinoma of breast",
+      "Normal": "breast normal breast tissue"
+    },
+    "templates": "CLASSNAME, H&E stain."
+  },
+  "54": {
+    "classnames": {
+      "Benign": "non-malignant benign tissue of breast",
+      "InSitu": "breast malignant in-situ carcinoma",
+      "Invasive": "invasive carcinoma of breast",
+      "Normal": "normal breast tissue"
+    },
+    "templates": "an H&E stained image of CLASSNAME."
+  },
+  "55": {
+    "classnames": {
+      "Benign": "breast benign tissue",
+      "InSitu": "breast in-situ carcinoma",
+      "Invasive": "breast invasive carcinoma",
+      "Normal": "breast non-cancerous tissue"
+    },
+    "templates": "there is CLASSNAME."
+  },
+  "56": {
+    "classnames": {
+      "Benign": "non-malignant benign tissue of breast",
+      "InSitu": "breast malignant in-situ carcinoma",
+      "Invasive": "breast invasive carcinoma",
+      "Normal": "breast normal breast tissue"
+    },
+    "templates": "there is CLASSNAME."
+  },
+  "57": {
+    "classnames": {
+      "Benign": "breast benign tissue",
+      "InSitu": "breast malignant in-situ carcinoma",
+      "Invasive": "invasive carcinoma of breast",
+      "Normal": "breast non-cancerous tissue"
+    },
+    "templates": "a photomicrograph showing CLASSNAME."
+  },
+  "58": {
+    "classnames": {
+      "Benign": "breast non-malignant benign tissue",
+      "InSitu": "breast in-situ carcinoma",
+      "Invasive": "invasive carcinoma of breast",
+      "Normal": "normal breast tissue"
+    },
+    "templates": "presence of CLASSNAME."
+  },
+  "59": {
+    "classnames": {
+      "Benign": "breast benign tissue",
+      "InSitu": "malignant carcinoma in-situ of breast",
+      "Invasive": "breast invasive carcinoma",
+      "Normal": "normal breast tissue"
+    },
+    "templates": "a histopathological photograph of CLASSNAME."
+  },
+  "60": {
+    "classnames": {
+      "Benign": "non-malignant benign tissue of breast",
+      "InSitu": "breast malignant in-situ carcinoma",
+      "Invasive": "breast invasive carcinoma",
+      "Normal": "breast non-cancerous tissue"
+    },
+    "templates": "an H&E image of CLASSNAME."
+  },
+  "61": {
+    "classnames": {
+      "Benign": "breast non-malignant benign tissue",
+      "InSitu": "breast malignant in-situ carcinoma",
+      "Invasive": "breast malignant invasive carcinoma",
+      "Normal": "breast non-cancerous tissue"
+    },
+    "templates": "CLASSNAME, H&E stain."
+  },
+  "62": {
+    "classnames": {
+      "Benign": "non-malignant benign tissue of breast",
+      "InSitu": "malignant carcinoma in-situ of breast",
+      "Invasive": "breast malignant invasive carcinoma",
+      "Normal": "normal breast tissue"
+    },
+    "templates": "this is CLASSNAME."
+  },
+  "63": {
+    "classnames": {
+      "Benign": "breast benign tissue",
+      "InSitu": "breast in-situ carcinoma",
+      "Invasive": "invasive carcinoma of breast",
+      "Normal": "normal breast tissue"
+    },
+    "templates": "CLASSNAME is shown."
+  },
+  "64": {
+    "classnames": {
+      "Benign": "non-malignant benign tissue of breast",
+      "InSitu": "breast malignant in-situ carcinoma",
+      "Invasive": "invasive carcinoma of breast",
+      "Normal": "breast normal tissue"
+    },
+    "templates": "an H&E stained image of CLASSNAME."
+  },
+  "65": {
+    "classnames": {
+      "Benign": "breast benign tissue",
+      "InSitu": "breast in-situ carcinoma",
+      "Invasive": "invasive carcinoma of breast",
+      "Normal": "breast normal breast tissue"
+    },
+    "templates": "a histopathological image of CLASSNAME."
+  },
+  "66": {
+    "classnames": {
+      "Benign": "breast non-malignant benign tissue",
+      "InSitu": "breast malignant in-situ carcinoma",
+      "Invasive": "invasive carcinoma of breast",
+      "Normal": "breast normal tissue"
+    },
+    "templates": "CLASSNAME."
+  },
+  "67": {
+    "classnames": {
+      "Benign": "breast benign tissue",
+      "InSitu": "breast malignant in-situ carcinoma",
+      "Invasive": "breast malignant invasive carcinoma",
+      "Normal": "breast normal tissue"
+    },
+    "templates": "an H&E stained image showing CLASSNAME."
+  },
+  "68": {
+    "classnames": {
+      "Benign": "breast non-malignant benign tissue",
+      "InSitu": "malignant carcinoma in-situ of breast",
+      "Invasive": "breast invasive carcinoma",
+      "Normal": "breast normal breast tissue"
+    },
+    "templates": "an H&E stained image showing CLASSNAME."
+  },
+  "69": {
+    "classnames": {
+      "Benign": "non-malignant benign tissue of breast",
+      "InSitu": "breast malignant in-situ carcinoma",
+      "Invasive": "invasive carcinoma of breast",
+      "Normal": "breast normal tissue"
+    },
+    "templates": "this is CLASSNAME."
+  },
+  "70": {
+    "classnames": {
+      "Benign": "non-malignant benign tissue of breast",
+      "InSitu": "breast in-situ carcinoma",
+      "Invasive": "breast invasive carcinoma",
+      "Normal": "normal breast tissue"
+    },
+    "templates": "CLASSNAME."
+  },
+  "71": {
+    "classnames": {
+      "Benign": "non-malignant benign tissue of breast",
+      "InSitu": "malignant carcinoma in-situ of breast",
+      "Invasive": "breast invasive carcinoma",
+      "Normal": "breast normal tissue"
+    },
+    "templates": "an H&E stained image showing CLASSNAME."
+  },
+  "72": {
+    "classnames": {
+      "Benign": "breast benign tissue",
+      "InSitu": "breast malignant in-situ carcinoma",
+      "Invasive": "invasive carcinoma of breast",
+      "Normal": "breast normal breast tissue"
+    },
+    "templates": "presence of CLASSNAME."
+  },
+  "73": {
+    "classnames": {
+      "Benign": "breast non-malignant benign tissue",
+      "InSitu": "breast in-situ carcinoma",
+      "Invasive": "breast invasive carcinoma",
+      "Normal": "breast normal tissue"
+    },
+    "templates": "an H&E stained image of CLASSNAME."
+  },
+  "74": {
+    "classnames": {
+      "Benign": "non-malignant benign tissue of breast",
+      "InSitu": "breast malignant in-situ carcinoma",
+      "Invasive": "invasive carcinoma of breast",
+      "Normal": "breast normal tissue"
+    },
+    "templates": "an H&E stained image of CLASSNAME."
+  },
+  "75": {
+    "classnames": {
+      "Benign": "breast benign tissue",
+      "InSitu": "breast malignant in-situ carcinoma",
+      "Invasive": "invasive carcinoma of breast",
+      "Normal": "breast non-cancerous tissue"
+    },
+    "templates": "an H&E stained image of CLASSNAME."
+  },
+  "76": {
+    "classnames": {
+      "Benign": "breast non-malignant benign tissue",
+      "InSitu": "breast in-situ carcinoma",
+      "Invasive": "invasive carcinoma of breast",
+      "Normal": "breast normal breast tissue"
+    },
+    "templates": "a photomicrograph showing CLASSNAME."
+  },
+  "77": {
+    "classnames": {
+      "Benign": "breast benign tissue",
+      "InSitu": "breast malignant in-situ carcinoma",
+      "Invasive": "breast invasive carcinoma",
+      "Normal": "breast normal tissue"
+    },
+    "templates": "shows CLASSNAME."
+  },
+  "78": {
+    "classnames": {
+      "Benign": "non-malignant benign tissue of breast",
+      "InSitu": "malignant carcinoma in-situ of breast",
+      "Invasive": "breast invasive carcinoma",
+      "Normal": "breast non-cancerous tissue"
+    },
+    "templates": "a photomicrograph of CLASSNAME."
+  },
+  "79": {
+    "classnames": {
+      "Benign": "breast benign tissue",
+      "InSitu": "breast in-situ carcinoma",
+      "Invasive": "invasive carcinoma of breast",
+      "Normal": "breast normal tissue"
+    },
+    "templates": "CLASSNAME."
+  },
+  "80": {
+    "classnames": {
+      "Benign": "breast benign tissue",
+      "InSitu": "breast malignant in-situ carcinoma",
+      "Invasive": "breast malignant invasive carcinoma",
+      "Normal": "normal breast tissue"
+    },
+    "templates": "a histopathological photograph of CLASSNAME."
+  },
+  "81": {
+    "classnames": {
+      "Benign": "breast non-malignant benign tissue",
+      "InSitu": "malignant carcinoma in-situ of breast",
+      "Invasive": "breast malignant invasive carcinoma",
+      "Normal": "breast normal breast tissue"
+    },
+    "templates": "a histopathological photograph of CLASSNAME."
+  },
+  "82": {
+    "classnames": {
+      "Benign": "non-malignant benign tissue of breast",
+      "InSitu": "breast in-situ carcinoma",
+      "Invasive": "breast malignant invasive carcinoma",
+      "Normal": "breast non-cancerous tissue"
+    },
+    "templates": "CLASSNAME is present."
+  },
+  "83": {
+    "classnames": {
+      "Benign": "breast non-malignant benign tissue",
+      "InSitu": "breast in-situ carcinoma",
+      "Invasive": "invasive carcinoma of breast",
+      "Normal": "breast non-cancerous tissue"
+    },
+    "templates": "CLASSNAME is shown."
+  },
+  "84": {
+    "classnames": {
+      "Benign": "breast benign tissue",
+      "InSitu": "breast malignant in-situ carcinoma",
+      "Invasive": "invasive carcinoma of breast",
+      "Normal": "breast normal breast tissue"
+    },
+    "templates": "a photomicrograph showing CLASSNAME."
+  },
+  "85": {
+    "classnames": {
+      "Benign": "breast non-malignant benign tissue",
+      "InSitu": "breast malignant in-situ carcinoma",
+      "Invasive": "breast invasive carcinoma",
+      "Normal": "breast non-cancerous tissue"
+    },
+    "templates": "this is CLASSNAME."
+  },
+  "86": {
+    "classnames": {
+      "Benign": "non-malignant benign tissue of breast",
+      "InSitu": "breast malignant in-situ carcinoma",
+      "Invasive": "breast invasive carcinoma",
+      "Normal": "breast normal breast tissue"
+    },
+    "templates": "presence of CLASSNAME."
+  },
+  "87": {
+    "classnames": {
+      "Benign": "non-malignant benign tissue of breast",
+      "InSitu": "breast in-situ carcinoma",
+      "Invasive": "invasive carcinoma of breast",
+      "Normal": "breast non-cancerous tissue"
+    },
+    "templates": "a histopathological image of CLASSNAME."
+  },
+  "88": {
+    "classnames": {
+      "Benign": "breast benign tissue",
+      "InSitu": "malignant carcinoma in-situ of breast",
+      "Invasive": "invasive carcinoma of breast",
+      "Normal": "normal breast tissue"
+    },
+    "templates": "a photomicrograph of CLASSNAME."
+  },
+  "89": {
+    "classnames": {
+      "Benign": "breast benign tissue",
+      "InSitu": "malignant carcinoma in-situ of breast",
+      "Invasive": "breast invasive carcinoma",
+      "Normal": "breast normal breast tissue"
+    },
+    "templates": "CLASSNAME, H&E."
+  },
+  "90": {
+    "classnames": {
+      "Benign": "non-malignant benign tissue of breast",
+      "InSitu": "breast in-situ carcinoma",
+      "Invasive": "invasive carcinoma of breast",
+      "Normal": "normal breast tissue"
+    },
+    "templates": "a photomicrograph of CLASSNAME."
+  },
+  "91": {
+    "classnames": {
+      "Benign": "breast benign tissue",
+      "InSitu": "breast in-situ carcinoma",
+      "Invasive": "breast invasive carcinoma",
+      "Normal": "breast non-cancerous tissue"
+    },
+    "templates": "an H&E stained image showing CLASSNAME."
+  },
+  "92": {
+    "classnames": {
+      "Benign": "non-malignant benign tissue of breast",
+      "InSitu": "breast in-situ carcinoma",
+      "Invasive": "breast malignant invasive carcinoma",
+      "Normal": "breast normal breast tissue"
+    },
+    "templates": "an H&E image showing CLASSNAME."
+  },
+  "93": {
+    "classnames": {
+      "Benign": "breast non-malignant benign tissue",
+      "InSitu": "breast malignant in-situ carcinoma",
+      "Invasive": "invasive carcinoma of breast",
+      "Normal": "normal breast tissue"
+    },
+    "templates": "a photomicrograph showing CLASSNAME."
+  },
+  "94": {
+    "classnames": {
+      "Benign": "breast non-malignant benign tissue",
+      "InSitu": "breast in-situ carcinoma",
+      "Invasive": "invasive carcinoma of breast",
+      "Normal": "breast non-cancerous tissue"
+    },
+    "templates": "an H&E image showing CLASSNAME."
+  },
+  "95": {
+    "classnames": {
+      "Benign": "non-malignant benign tissue of breast",
+      "InSitu": "malignant carcinoma in-situ of breast",
+      "Invasive": "breast invasive carcinoma",
+      "Normal": "breast non-cancerous tissue"
+    },
+    "templates": "an H&E image showing CLASSNAME."
+  },
+  "96": {
+    "classnames": {
+      "Benign": "breast non-malignant benign tissue",
+      "InSitu": "breast malignant in-situ carcinoma",
+      "Invasive": "invasive carcinoma of breast",
+      "Normal": "breast normal breast tissue"
+    },
+    "templates": "CLASSNAME is shown."
+  },
+  "97": {
+    "classnames": {
+      "Benign": "non-malignant benign tissue of breast",
+      "InSitu": "breast malignant in-situ carcinoma",
+      "Invasive": "breast invasive carcinoma",
+      "Normal": "breast non-cancerous tissue"
+    },
+    "templates": "an H&E image showing CLASSNAME."
+  },
+  "98": {
+    "classnames": {
+      "Benign": "breast benign tissue",
+      "InSitu": "breast in-situ carcinoma",
+      "Invasive": "breast invasive carcinoma",
+      "Normal": "breast normal breast tissue"
+    },
+    "templates": "an example of CLASSNAME."
+  },
+  "99": {
+    "classnames": {
+      "Benign": "breast benign tissue",
+      "InSitu": "breast in-situ carcinoma",
+      "Invasive": "breast malignant invasive carcinoma",
+      "Normal": "breast normal breast tissue"
+    },
+    "templates": "a histopathological photograph showing CLASSNAME."
+  }
+}

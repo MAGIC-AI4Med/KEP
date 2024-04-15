@@ -1,0 +1,1002 @@
+{
+  "0": {
+    "classnames": {
+      "blood": "erythroid cells",
+      "cancer": "renal cancer",
+      "normal": "non-cancerous tissue",
+      "other": "torn adipose necrotic tissue",
+      "stroma": "muscle fibrous stroma blood vessels"
+    },
+    "templates": "an example of CLASSNAME."
+  },
+  "1": {
+    "classnames": {
+      "blood": "red cells",
+      "cancer": "renal neoplasm",
+      "normal": "non-tumor",
+      "other": "adipose necrotic tissue",
+      "stroma": "muscle fibrous stroma blood vessels"
+    },
+    "templates": "a photomicrograph showing CLASSNAME."
+  },
+  "2": {
+    "classnames": {
+      "blood": "red blood cells",
+      "cancer": "renal neoplasm",
+      "normal": "normal tissue",
+      "other": "torn adipose necrotic tissue",
+      "stroma": "muscle fibers and blood vessels in stroma"
+    },
+    "templates": "CLASSNAME, H&E stain."
+  },
+  "3": {
+    "classnames": {
+      "blood": "red cells",
+      "cancer": "renal neoplasm",
+      "normal": "non-tumor",
+      "other": "torn adipose necrotic tissue",
+      "stroma": "muscle fibers and blood vessels in stroma"
+    },
+    "templates": "a photomicrograph showing CLASSNAME."
+  },
+  "4": {
+    "classnames": {
+      "blood": "red blood cells",
+      "cancer": "renal neoplasm",
+      "normal": "normal tissue",
+      "other": "torn adipose tissue, necrosis",
+      "stroma": "muscle fibrous stroma blood vessels"
+    },
+    "templates": "CLASSNAME, H&E stain."
+  },
+  "5": {
+    "classnames": {
+      "blood": "red cells",
+      "cancer": "renal tumor",
+      "normal": "normal tissue",
+      "other": "torn adipose tissue, necrosis",
+      "stroma": "muscle fibrous stroma blood vessels"
+    },
+    "templates": "this is CLASSNAME."
+  },
+  "6": {
+    "classnames": {
+      "blood": "red blood corpuscles",
+      "cancer": "renal tumor",
+      "normal": "non-cancerous tissue",
+      "other": "torn adipose tissue, necrosis",
+      "stroma": "blood vessels, muscle fibrous stroma"
+    },
+    "templates": "CLASSNAME."
+  },
+  "7": {
+    "classnames": {
+      "blood": "erythroid cells",
+      "cancer": "renal cancer",
+      "normal": "non-cancerous tissue",
+      "other": "adipose necrotic tissue",
+      "stroma": "blood vessels, muscle fibrous stroma"
+    },
+    "templates": "this is CLASSNAME."
+  },
+  "8": {
+    "classnames": {
+      "blood": "erythroid cells",
+      "cancer": "renal neoplasm",
+      "normal": "non-tumor",
+      "other": "adipose necrotic tissue",
+      "stroma": "blood vessels, muscle fibrous stroma"
+    },
+    "templates": "CLASSNAME is shown."
+  },
+  "9": {
+    "classnames": {
+      "blood": "red blood cells",
+      "cancer": "renal neoplasm",
+      "normal": "non-cancerous tissue",
+      "other": "adipose necrotic tissue",
+      "stroma": "muscle fibers and blood vessels in stroma"
+    },
+    "templates": "a histopathological photograph of CLASSNAME."
+  },
+  "10": {
+    "classnames": {
+      "blood": "erythroid cells",
+      "cancer": "renal carcinoma",
+      "normal": "non-tumor",
+      "other": "torn adipose necrotic tissue",
+      "stroma": "muscle fibrous stroma blood vessels"
+    },
+    "templates": "an H&E stained image showing CLASSNAME."
+  },
+  "11": {
+    "classnames": {
+      "blood": "red cells",
+      "cancer": "renal carcinoma",
+      "normal": "non-cancerous tissue",
+      "other": "adipose necrotic tissue",
+      "stroma": "muscle fibers and blood vessels in stroma"
+    },
+    "templates": "a histopathological photograph showing CLASSNAME."
+  },
+  "12": {
+    "classnames": {
+      "blood": "red cells",
+      "cancer": "renal tumor",
+      "normal": "normal tissue",
+      "other": "torn adipose tissue, necrosis",
+      "stroma": "muscle fibrous stroma blood vessels"
+    },
+    "templates": "there is CLASSNAME."
+  },
+  "13": {
+    "classnames": {
+      "blood": "erythroid cells",
+      "cancer": "renal carcinoma",
+      "normal": "non-cancerous tissue",
+      "other": "torn adipose necrotic tissue",
+      "stroma": "muscle fibrous stroma blood vessels"
+    },
+    "templates": "a histopathological image showing CLASSNAME."
+  },
+  "14": {
+    "classnames": {
+      "blood": "red blood corpuscles",
+      "cancer": "renal cancer",
+      "normal": "non-cancerous tissue",
+      "other": "torn adipose necrotic tissue",
+      "stroma": "blood vessels, muscle fibrous stroma"
+    },
+    "templates": "CLASSNAME, H&E."
+  },
+  "15": {
+    "classnames": {
+      "blood": "red blood cells",
+      "cancer": "renal neoplasm",
+      "normal": "non-tumor",
+      "other": "adipose necrotic tissue",
+      "stroma": "muscle fibers and blood vessels in stroma"
+    },
+    "templates": "CLASSNAME, H&E."
+  },
+  "16": {
+    "classnames": {
+      "blood": "erythroid cells",
+      "cancer": "renal neoplasm",
+      "normal": "non-cancerous tissue",
+      "other": "torn adipose necrotic tissue",
+      "stroma": "muscle fibers and blood vessels in stroma"
+    },
+    "templates": "an image showing CLASSNAME."
+  },
+  "17": {
+    "classnames": {
+      "blood": "erythroid cells",
+      "cancer": "renal tumor",
+      "normal": "non-tumor",
+      "other": "torn adipose tissue, necrosis",
+      "stroma": "muscle fibers and blood vessels in stroma"
+    },
+    "templates": "an H&E stained image of CLASSNAME."
+  },
+  "18": {
+    "classnames": {
+      "blood": "erythroid cells",
+      "cancer": "renal tumor",
+      "normal": "normal tissue",
+      "other": "torn adipose necrotic tissue",
+      "stroma": "muscle fibrous stroma blood vessels"
+    },
+    "templates": "CLASSNAME, H&E."
+  },
+  "19": {
+    "classnames": {
+      "blood": "erythroid cells",
+      "cancer": "renal tumor",
+      "normal": "non-cancerous tissue",
+      "other": "torn adipose necrotic tissue",
+      "stroma": "muscle fibers and blood vessels in stroma"
+    },
+    "templates": "an H&E image showing CLASSNAME."
+  },
+  "20": {
+    "classnames": {
+      "blood": "erythroid cells",
+      "cancer": "renal cancer",
+      "normal": "non-tumor",
+      "other": "torn adipose necrotic tissue",
+      "stroma": "muscle fibrous stroma blood vessels"
+    },
+    "templates": "an example of CLASSNAME."
+  },
+  "21": {
+    "classnames": {
+      "blood": "red blood cells",
+      "cancer": "renal neoplasm",
+      "normal": "normal tissue",
+      "other": "torn adipose tissue, necrosis",
+      "stroma": "muscle fibers and blood vessels in stroma"
+    },
+    "templates": "there is CLASSNAME."
+  },
+  "22": {
+    "classnames": {
+      "blood": "red blood cells",
+      "cancer": "renal cancer",
+      "normal": "non-tumor",
+      "other": "adipose necrotic tissue",
+      "stroma": "muscle fibers and blood vessels in stroma"
+    },
+    "templates": "CLASSNAME is shown."
+  },
+  "23": {
+    "classnames": {
+      "blood": "red blood cells",
+      "cancer": "renal cancer",
+      "normal": "normal tissue",
+      "other": "torn adipose necrotic tissue",
+      "stroma": "muscle fibrous stroma blood vessels"
+    },
+    "templates": "an H&E stained image of CLASSNAME."
+  },
+  "24": {
+    "classnames": {
+      "blood": "red blood cells",
+      "cancer": "renal cancer",
+      "normal": "non-cancerous tissue",
+      "other": "adipose necrotic tissue",
+      "stroma": "blood vessels, muscle fibrous stroma"
+    },
+    "templates": "an image showing CLASSNAME."
+  },
+  "25": {
+    "classnames": {
+      "blood": "red blood corpuscles",
+      "cancer": "renal cancer",
+      "normal": "non-tumor",
+      "other": "torn adipose tissue, necrosis",
+      "stroma": "blood vessels, muscle fibrous stroma"
+    },
+    "templates": "an image of CLASSNAME."
+  },
+  "26": {
+    "classnames": {
+      "blood": "red cells",
+      "cancer": "renal tumor",
+      "normal": "normal tissue",
+      "other": "adipose necrotic tissue",
+      "stroma": "muscle fibrous stroma blood vessels"
+    },
+    "templates": "CLASSNAME, H&E stain."
+  },
+  "27": {
+    "classnames": {
+      "blood": "red blood corpuscles",
+      "cancer": "renal tumor",
+      "normal": "non-tumor",
+      "other": "adipose necrotic tissue",
+      "stroma": "blood vessels, muscle fibrous stroma"
+    },
+    "templates": "a histopathological image showing CLASSNAME."
+  },
+  "28": {
+    "classnames": {
+      "blood": "red blood corpuscles",
+      "cancer": "renal carcinoma",
+      "normal": "non-tumor",
+      "other": "adipose necrotic tissue",
+      "stroma": "muscle fibrous stroma blood vessels"
+    },
+    "templates": "a histopathological image of CLASSNAME."
+  },
+  "29": {
+    "classnames": {
+      "blood": "red blood corpuscles",
+      "cancer": "renal tumor",
+      "normal": "normal tissue",
+      "other": "adipose necrotic tissue",
+      "stroma": "muscle fibrous stroma blood vessels"
+    },
+    "templates": "shows CLASSNAME."
+  },
+  "30": {
+    "classnames": {
+      "blood": "red cells",
+      "cancer": "renal tumor",
+      "normal": "non-cancerous tissue",
+      "other": "torn adipose tissue, necrosis",
+      "stroma": "muscle fibrous stroma blood vessels"
+    },
+    "templates": "CLASSNAME is present."
+  },
+  "31": {
+    "classnames": {
+      "blood": "erythroid cells",
+      "cancer": "renal tumor",
+      "normal": "non-tumor",
+      "other": "adipose necrotic tissue",
+      "stroma": "muscle fibrous stroma blood vessels"
+    },
+    "templates": "CLASSNAME."
+  },
+  "32": {
+    "classnames": {
+      "blood": "red blood cells",
+      "cancer": "renal tumor",
+      "normal": "non-tumor",
+      "other": "torn adipose tissue, necrosis",
+      "stroma": "blood vessels, muscle fibrous stroma"
+    },
+    "templates": "a histopathological image showing CLASSNAME."
+  },
+  "33": {
+    "classnames": {
+      "blood": "erythroid cells",
+      "cancer": "renal cancer",
+      "normal": "normal tissue",
+      "other": "adipose necrotic tissue",
+      "stroma": "muscle fibers and blood vessels in stroma"
+    },
+    "templates": "an image of CLASSNAME."
+  },
+  "34": {
+    "classnames": {
+      "blood": "red blood corpuscles",
+      "cancer": "renal neoplasm",
+      "normal": "normal tissue",
+      "other": "torn adipose necrotic tissue",
+      "stroma": "blood vessels, muscle fibrous stroma"
+    },
+    "templates": "an image of CLASSNAME."
+  },
+  "35": {
+    "classnames": {
+      "blood": "erythroid cells",
+      "cancer": "renal neoplasm",
+      "normal": "non-tumor",
+      "other": "adipose necrotic tissue",
+      "stroma": "muscle fibrous stroma blood vessels"
+    },
+    "templates": "a histopathological image of CLASSNAME."
+  },
+  "36": {
+    "classnames": {
+      "blood": "red blood corpuscles",
+      "cancer": "renal carcinoma",
+      "normal": "normal tissue",
+      "other": "adipose necrotic tissue",
+      "stroma": "muscle fibers and blood vessels in stroma"
+    },
+    "templates": "CLASSNAME."
+  },
+  "37": {
+    "classnames": {
+      "blood": "red cells",
+      "cancer": "renal cancer",
+      "normal": "normal tissue",
+      "other": "adipose necrotic tissue",
+      "stroma": "muscle fibers and blood vessels in stroma"
+    },
+    "templates": "a histopathological image of CLASSNAME."
+  },
+  "38": {
+    "classnames": {
+      "blood": "erythroid cells",
+      "cancer": "renal tumor",
+      "normal": "normal tissue",
+      "other": "torn adipose tissue, necrosis",
+      "stroma": "muscle fibrous stroma blood vessels"
+    },
+    "templates": "an H&E image of CLASSNAME."
+  },
+  "39": {
+    "classnames": {
+      "blood": "red cells",
+      "cancer": "renal neoplasm",
+      "normal": "non-tumor",
+      "other": "torn adipose necrotic tissue",
+      "stroma": "muscle fibers and blood vessels in stroma"
+    },
+    "templates": "a histopathological image of CLASSNAME."
+  },
+  "40": {
+    "classnames": {
+      "blood": "red blood cells",
+      "cancer": "renal carcinoma",
+      "normal": "non-cancerous tissue",
+      "other": "torn adipose necrotic tissue",
+      "stroma": "muscle fibrous stroma blood vessels"
+    },
+    "templates": "a photomicrograph showing CLASSNAME."
+  },
+  "41": {
+    "classnames": {
+      "blood": "erythroid cells",
+      "cancer": "renal carcinoma",
+      "normal": "non-tumor",
+      "other": "torn adipose tissue, necrosis",
+      "stroma": "muscle fibrous stroma blood vessels"
+    },
+    "templates": "an image of CLASSNAME."
+  },
+  "42": {
+    "classnames": {
+      "blood": "red blood corpuscles",
+      "cancer": "renal carcinoma",
+      "normal": "normal tissue",
+      "other": "torn adipose tissue, necrosis",
+      "stroma": "blood vessels, muscle fibrous stroma"
+    },
+    "templates": "a photomicrograph of CLASSNAME."
+  },
+  "43": {
+    "classnames": {
+      "blood": "erythroid cells",
+      "cancer": "renal tumor",
+      "normal": "non-cancerous tissue",
+      "other": "adipose necrotic tissue",
+      "stroma": "blood vessels, muscle fibrous stroma"
+    },
+    "templates": "a histopathological photograph showing CLASSNAME."
+  },
+  "44": {
+    "classnames": {
+      "blood": "red cells",
+      "cancer": "renal carcinoma",
+      "normal": "non-tumor",
+      "other": "torn adipose necrotic tissue",
+      "stroma": "blood vessels, muscle fibrous stroma"
+    },
+    "templates": "an H&E stained image showing CLASSNAME."
+  },
+  "45": {
+    "classnames": {
+      "blood": "red blood corpuscles",
+      "cancer": "renal neoplasm",
+      "normal": "non-tumor",
+      "other": "torn adipose tissue, necrosis",
+      "stroma": "muscle fibers and blood vessels in stroma"
+    },
+    "templates": "a photomicrograph showing CLASSNAME."
+  },
+  "46": {
+    "classnames": {
+      "blood": "red cells",
+      "cancer": "renal neoplasm",
+      "normal": "non-tumor",
+      "other": "torn adipose tissue, necrosis",
+      "stroma": "muscle fibrous stroma blood vessels"
+    },
+    "templates": "an example of CLASSNAME."
+  },
+  "47": {
+    "classnames": {
+      "blood": "red cells",
+      "cancer": "renal cancer",
+      "normal": "non-tumor",
+      "other": "torn adipose tissue, necrosis",
+      "stroma": "muscle fibers and blood vessels in stroma"
+    },
+    "templates": "a photomicrograph of CLASSNAME."
+  },
+  "48": {
+    "classnames": {
+      "blood": "red cells",
+      "cancer": "renal tumor",
+      "normal": "non-tumor",
+      "other": "adipose necrotic tissue",
+      "stroma": "muscle fibers and blood vessels in stroma"
+    },
+    "templates": "there is CLASSNAME."
+  },
+  "49": {
+    "classnames": {
+      "blood": "red cells",
+      "cancer": "renal cancer",
+      "normal": "normal tissue",
+      "other": "torn adipose necrotic tissue",
+      "stroma": "muscle fibrous stroma blood vessels"
+    },
+    "templates": "a histopathological photograph showing CLASSNAME."
+  },
+  "50": {
+    "classnames": {
+      "blood": "erythroid cells",
+      "cancer": "renal carcinoma",
+      "normal": "normal tissue",
+      "other": "torn adipose necrotic tissue",
+      "stroma": "blood vessels, muscle fibrous stroma"
+    },
+    "templates": "CLASSNAME."
+  },
+  "51": {
+    "classnames": {
+      "blood": "erythroid cells",
+      "cancer": "renal neoplasm",
+      "normal": "normal tissue",
+      "other": "torn adipose tissue, necrosis",
+      "stroma": "blood vessels, muscle fibrous stroma"
+    },
+    "templates": "a histopathological image of CLASSNAME."
+  },
+  "52": {
+    "classnames": {
+      "blood": "red cells",
+      "cancer": "renal carcinoma",
+      "normal": "non-tumor",
+      "other": "adipose necrotic tissue",
+      "stroma": "muscle fibrous stroma blood vessels"
+    },
+    "templates": "an image showing CLASSNAME."
+  },
+  "53": {
+    "classnames": {
+      "blood": "erythroid cells",
+      "cancer": "renal cancer",
+      "normal": "non-cancerous tissue",
+      "other": "adipose necrotic tissue",
+      "stroma": "muscle fibrous stroma blood vessels"
+    },
+    "templates": "a photomicrograph showing CLASSNAME."
+  },
+  "54": {
+    "classnames": {
+      "blood": "red blood cells",
+      "cancer": "renal neoplasm",
+      "normal": "non-cancerous tissue",
+      "other": "torn adipose tissue, necrosis",
+      "stroma": "blood vessels, muscle fibrous stroma"
+    },
+    "templates": "a histopathological photograph of CLASSNAME."
+  },
+  "55": {
+    "classnames": {
+      "blood": "erythroid cells",
+      "cancer": "renal carcinoma",
+      "normal": "normal tissue",
+      "other": "torn adipose necrotic tissue",
+      "stroma": "muscle fibrous stroma blood vessels"
+    },
+    "templates": "there is CLASSNAME."
+  },
+  "56": {
+    "classnames": {
+      "blood": "red blood corpuscles",
+      "cancer": "renal carcinoma",
+      "normal": "non-tumor",
+      "other": "torn adipose tissue, necrosis",
+      "stroma": "muscle fibers and blood vessels in stroma"
+    },
+    "templates": "a photomicrograph showing CLASSNAME."
+  },
+  "57": {
+    "classnames": {
+      "blood": "red blood corpuscles",
+      "cancer": "renal cancer",
+      "normal": "normal tissue",
+      "other": "adipose necrotic tissue",
+      "stroma": "muscle fibrous stroma blood vessels"
+    },
+    "templates": "presence of CLASSNAME."
+  },
+  "58": {
+    "classnames": {
+      "blood": "red blood cells",
+      "cancer": "renal tumor",
+      "normal": "non-cancerous tissue",
+      "other": "torn adipose tissue, necrosis",
+      "stroma": "muscle fibers and blood vessels in stroma"
+    },
+    "templates": "a histopathological image of CLASSNAME."
+  },
+  "59": {
+    "classnames": {
+      "blood": "erythroid cells",
+      "cancer": "renal carcinoma",
+      "normal": "non-cancerous tissue",
+      "other": "adipose necrotic tissue",
+      "stroma": "muscle fibrous stroma blood vessels"
+    },
+    "templates": "a histopathological photograph showing CLASSNAME."
+  },
+  "60": {
+    "classnames": {
+      "blood": "erythroid cells",
+      "cancer": "renal neoplasm",
+      "normal": "normal tissue",
+      "other": "torn adipose tissue, necrosis",
+      "stroma": "muscle fibers and blood vessels in stroma"
+    },
+    "templates": "CLASSNAME, H&E stain."
+  },
+  "61": {
+    "classnames": {
+      "blood": "erythroid cells",
+      "cancer": "renal tumor",
+      "normal": "non-tumor",
+      "other": "adipose necrotic tissue",
+      "stroma": "muscle fibrous stroma blood vessels"
+    },
+    "templates": "CLASSNAME, H&E."
+  },
+  "62": {
+    "classnames": {
+      "blood": "red blood cells",
+      "cancer": "renal carcinoma",
+      "normal": "non-tumor",
+      "other": "torn adipose tissue, necrosis",
+      "stroma": "muscle fibrous stroma blood vessels"
+    },
+    "templates": "an H&E stained image of CLASSNAME."
+  },
+  "63": {
+    "classnames": {
+      "blood": "red blood cells",
+      "cancer": "renal tumor",
+      "normal": "non-cancerous tissue",
+      "other": "adipose necrotic tissue",
+      "stroma": "muscle fibers and blood vessels in stroma"
+    },
+    "templates": "CLASSNAME is present."
+  },
+  "64": {
+    "classnames": {
+      "blood": "red cells",
+      "cancer": "renal carcinoma",
+      "normal": "non-cancerous tissue",
+      "other": "torn adipose tissue, necrosis",
+      "stroma": "muscle fibers and blood vessels in stroma"
+    },
+    "templates": "a histopathological image of CLASSNAME."
+  },
+  "65": {
+    "classnames": {
+      "blood": "red blood corpuscles",
+      "cancer": "renal cancer",
+      "normal": "non-tumor",
+      "other": "torn adipose necrotic tissue",
+      "stroma": "muscle fibers and blood vessels in stroma"
+    },
+    "templates": "an H&E image showing CLASSNAME."
+  },
+  "66": {
+    "classnames": {
+      "blood": "red blood corpuscles",
+      "cancer": "renal cancer",
+      "normal": "normal tissue",
+      "other": "torn adipose necrotic tissue",
+      "stroma": "blood vessels, muscle fibrous stroma"
+    },
+    "templates": "an image of CLASSNAME."
+  },
+  "67": {
+    "classnames": {
+      "blood": "red blood cells",
+      "cancer": "renal tumor",
+      "normal": "non-tumor",
+      "other": "adipose necrotic tissue",
+      "stroma": "blood vessels, muscle fibrous stroma"
+    },
+    "templates": "CLASSNAME is shown."
+  },
+  "68": {
+    "classnames": {
+      "blood": "red blood corpuscles",
+      "cancer": "renal carcinoma",
+      "normal": "normal tissue",
+      "other": "adipose necrotic tissue",
+      "stroma": "muscle fibrous stroma blood vessels"
+    },
+    "templates": "CLASSNAME, H&E."
+  },
+  "69": {
+    "classnames": {
+      "blood": "red cells",
+      "cancer": "renal cancer",
+      "normal": "non-tumor",
+      "other": "torn adipose tissue, necrosis",
+      "stroma": "muscle fibrous stroma blood vessels"
+    },
+    "templates": "presence of CLASSNAME."
+  },
+  "70": {
+    "classnames": {
+      "blood": "red blood corpuscles",
+      "cancer": "renal cancer",
+      "normal": "non-tumor",
+      "other": "torn adipose tissue, necrosis",
+      "stroma": "muscle fibrous stroma blood vessels"
+    },
+    "templates": "CLASSNAME."
+  },
+  "71": {
+    "classnames": {
+      "blood": "red blood corpuscles",
+      "cancer": "renal neoplasm",
+      "normal": "non-cancerous tissue",
+      "other": "adipose necrotic tissue",
+      "stroma": "blood vessels, muscle fibrous stroma"
+    },
+    "templates": "a histopathological image showing CLASSNAME."
+  },
+  "72": {
+    "classnames": {
+      "blood": "red blood corpuscles",
+      "cancer": "renal cancer",
+      "normal": "normal tissue",
+      "other": "torn adipose necrotic tissue",
+      "stroma": "muscle fibers and blood vessels in stroma"
+    },
+    "templates": "a histopathological image of CLASSNAME."
+  },
+  "73": {
+    "classnames": {
+      "blood": "red cells",
+      "cancer": "renal neoplasm",
+      "normal": "non-cancerous tissue",
+      "other": "torn adipose necrotic tissue",
+      "stroma": "blood vessels, muscle fibrous stroma"
+    },
+    "templates": "CLASSNAME is present."
+  },
+  "74": {
+    "classnames": {
+      "blood": "red blood cells",
+      "cancer": "renal carcinoma",
+      "normal": "non-cancerous tissue",
+      "other": "adipose necrotic tissue",
+      "stroma": "muscle fibrous stroma blood vessels"
+    },
+    "templates": "a histopathological image showing CLASSNAME."
+  },
+  "75": {
+    "classnames": {
+      "blood": "red cells",
+      "cancer": "renal carcinoma",
+      "normal": "non-cancerous tissue",
+      "other": "torn adipose necrotic tissue",
+      "stroma": "muscle fibrous stroma blood vessels"
+    },
+    "templates": "an H&E image of CLASSNAME."
+  },
+  "76": {
+    "classnames": {
+      "blood": "red blood cells",
+      "cancer": "renal cancer",
+      "normal": "normal tissue",
+      "other": "torn adipose necrotic tissue",
+      "stroma": "blood vessels, muscle fibrous stroma"
+    },
+    "templates": "an example of CLASSNAME."
+  },
+  "77": {
+    "classnames": {
+      "blood": "red cells",
+      "cancer": "renal tumor",
+      "normal": "normal tissue",
+      "other": "torn adipose tissue, necrosis",
+      "stroma": "muscle fibrous stroma blood vessels"
+    },
+    "templates": "an H&E stained image of CLASSNAME."
+  },
+  "78": {
+    "classnames": {
+      "blood": "red cells",
+      "cancer": "renal cancer",
+      "normal": "non-tumor",
+      "other": "torn adipose tissue, necrosis",
+      "stroma": "blood vessels, muscle fibrous stroma"
+    },
+    "templates": "CLASSNAME is present."
+  },
+  "79": {
+    "classnames": {
+      "blood": "red cells",
+      "cancer": "renal cancer",
+      "normal": "normal tissue",
+      "other": "adipose necrotic tissue",
+      "stroma": "blood vessels, muscle fibrous stroma"
+    },
+    "templates": "an H&E stained image of CLASSNAME."
+  },
+  "80": {
+    "classnames": {
+      "blood": "erythroid cells",
+      "cancer": "renal carcinoma",
+      "normal": "normal tissue",
+      "other": "torn adipose necrotic tissue",
+      "stroma": "blood vessels, muscle fibrous stroma"
+    },
+    "templates": "shows CLASSNAME."
+  },
+  "81": {
+    "classnames": {
+      "blood": "erythroid cells",
+      "cancer": "renal tumor",
+      "normal": "normal tissue",
+      "other": "torn adipose necrotic tissue",
+      "stroma": "blood vessels, muscle fibrous stroma"
+    },
+    "templates": "a histopathological image of CLASSNAME."
+  },
+  "82": {
+    "classnames": {
+      "blood": "red cells",
+      "cancer": "renal cancer",
+      "normal": "non-cancerous tissue",
+      "other": "torn adipose necrotic tissue",
+      "stroma": "muscle fibers and blood vessels in stroma"
+    },
+    "templates": "an H&E stained image showing CLASSNAME."
+  },
+  "83": {
+    "classnames": {
+      "blood": "red blood corpuscles",
+      "cancer": "renal cancer",
+      "normal": "non-tumor",
+      "other": "torn adipose necrotic tissue",
+      "stroma": "muscle fibrous stroma blood vessels"
+    },
+    "templates": "CLASSNAME is shown."
+  },
+  "84": {
+    "classnames": {
+      "blood": "red blood cells",
+      "cancer": "renal cancer",
+      "normal": "normal tissue",
+      "other": "adipose necrotic tissue",
+      "stroma": "blood vessels, muscle fibrous stroma"
+    },
+    "templates": "CLASSNAME is shown."
+  },
+  "85": {
+    "classnames": {
+      "blood": "red blood corpuscles",
+      "cancer": "renal cancer",
+      "normal": "non-tumor",
+      "other": "torn adipose necrotic tissue",
+      "stroma": "muscle fibrous stroma blood vessels"
+    },
+    "templates": "an H&E image of CLASSNAME."
+  },
+  "86": {
+    "classnames": {
+      "blood": "red blood cells",
+      "cancer": "renal cancer",
+      "normal": "non-cancerous tissue",
+      "other": "torn adipose necrotic tissue",
+      "stroma": "blood vessels, muscle fibrous stroma"
+    },
+    "templates": "a photomicrograph of CLASSNAME."
+  },
+  "87": {
+    "classnames": {
+      "blood": "erythroid cells",
+      "cancer": "renal cancer",
+      "normal": "non-tumor",
+      "other": "torn adipose necrotic tissue",
+      "stroma": "blood vessels, muscle fibrous stroma"
+    },
+    "templates": "presence of CLASSNAME."
+  },
+  "88": {
+    "classnames": {
+      "blood": "red blood corpuscles",
+      "cancer": "renal cancer",
+      "normal": "non-cancerous tissue",
+      "other": "torn adipose tissue, necrosis",
+      "stroma": "blood vessels, muscle fibrous stroma"
+    },
+    "templates": "CLASSNAME is present."
+  },
+  "89": {
+    "classnames": {
+      "blood": "red blood corpuscles",
+      "cancer": "renal cancer",
+      "normal": "normal tissue",
+      "other": "torn adipose tissue, necrosis",
+      "stroma": "muscle fibrous stroma blood vessels"
+    },
+    "templates": "an example of CLASSNAME."
+  },
+  "90": {
+    "classnames": {
+      "blood": "red blood cells",
+      "cancer": "renal cancer",
+      "normal": "non-tumor",
+      "other": "torn adipose tissue, necrosis",
+      "stroma": "muscle fibrous stroma blood vessels"
+    },
+    "templates": "CLASSNAME, H&E stain."
+  },
+  "91": {
+    "classnames": {
+      "blood": "red cells",
+      "cancer": "renal carcinoma",
+      "normal": "normal tissue",
+      "other": "adipose necrotic tissue",
+      "stroma": "muscle fibrous stroma blood vessels"
+    },
+    "templates": "this is CLASSNAME."
+  },
+  "92": {
+    "classnames": {
+      "blood": "red blood corpuscles",
+      "cancer": "renal neoplasm",
+      "normal": "non-tumor",
+      "other": "adipose necrotic tissue",
+      "stroma": "muscle fibrous stroma blood vessels"
+    },
+    "templates": "shows CLASSNAME."
+  },
+  "93": {
+    "classnames": {
+      "blood": "erythroid cells",
+      "cancer": "renal tumor",
+      "normal": "non-tumor",
+      "other": "torn adipose tissue, necrosis",
+      "stroma": "blood vessels, muscle fibrous stroma"
+    },
+    "templates": "presence of CLASSNAME."
+  },
+  "94": {
+    "classnames": {
+      "blood": "red blood corpuscles",
+      "cancer": "renal carcinoma",
+      "normal": "normal tissue",
+      "other": "torn adipose tissue, necrosis",
+      "stroma": "blood vessels, muscle fibrous stroma"
+    },
+    "templates": "a histopathological image showing CLASSNAME."
+  },
+  "95": {
+    "classnames": {
+      "blood": "erythroid cells",
+      "cancer": "renal neoplasm",
+      "normal": "non-tumor",
+      "other": "torn adipose necrotic tissue",
+      "stroma": "blood vessels, muscle fibrous stroma"
+    },
+    "templates": "an H&E stained image showing CLASSNAME."
+  },
+  "96": {
+    "classnames": {
+      "blood": "red cells",
+      "cancer": "renal cancer",
+      "normal": "non-cancerous tissue",
+      "other": "torn adipose tissue, necrosis",
+      "stroma": "blood vessels, muscle fibrous stroma"
+    },
+    "templates": "this is CLASSNAME."
+  },
+  "97": {
+    "classnames": {
+      "blood": "red cells",
+      "cancer": "renal cancer",
+      "normal": "non-tumor",
+      "other": "torn adipose necrotic tissue",
+      "stroma": "blood vessels, muscle fibrous stroma"
+    },
+    "templates": "an example of CLASSNAME."
+  },
+  "98": {
+    "classnames": {
+      "blood": "red blood cells",
+      "cancer": "renal carcinoma",
+      "normal": "non-tumor",
+      "other": "adipose necrotic tissue",
+      "stroma": "muscle fibers and blood vessels in stroma"
+    },
+    "templates": "an H&E image showing CLASSNAME."
+  },
+  "99": {
+    "classnames": {
+      "blood": "red blood corpuscles",
+      "cancer": "renal carcinoma",
+      "normal": "normal tissue",
+      "other": "torn adipose tissue, necrosis",
+      "stroma": "muscle fibers and blood vessels in stroma"
+    },
+    "templates": "a histopathological photograph of CLASSNAME."
+  }
+}

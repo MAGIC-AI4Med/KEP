@@ -1,0 +1,1002 @@
+{
+  "0": {
+    "classnames": {
+      "NC": "benign tissue",
+      "G3": "well-differentiated prostatic adenocarcinoma",
+      "G4": "prostate adenocarcinoma, moderately differentiated",
+      "G5": "gleason pattern 5",
+      "Tumor": "cancerous tissue"
+    },
+    "templates": "a photomicrograph showing CLASSNAME."
+  },
+  "1": {
+    "classnames": {
+      "NC": "benign tissue",
+      "G3": "prostate adenocarcinoma, well-differentiated",
+      "G4": "gleason grade 4",
+      "G5": "gleason pattern 5",
+      "Tumor": "prostate cancer"
+    },
+    "templates": "an H&E stained image showing CLASSNAME."
+  },
+  "2": {
+    "classnames": {
+      "NC": "benign prostate glands",
+      "G3": "prostate adenocarcinoma, well-differentiated",
+      "G4": "gleason pattern 4",
+      "G5": "gleason grade 5",
+      "Tumor": "cancerous tissue"
+    },
+    "templates": "an H&E stained image showing CLASSNAME."
+  },
+  "3": {
+    "classnames": {
+      "NC": "non-cancerous prostate tissue",
+      "G3": "well-differentiated prostatic adenocarcinoma",
+      "G4": "prostate cancer, gleason pattern 4",
+      "G5": "gleason grade 5",
+      "Tumor": "prostatic adenocarcinoma"
+    },
+    "templates": "CLASSNAME, H&E stain."
+  },
+  "4": {
+    "classnames": {
+      "NC": "non-cancerous tissue",
+      "G3": "gleason grade 3",
+      "G4": "gleason pattern 4",
+      "G5": "prostate adenocarcinoma, poorly differentiated",
+      "Tumor": "adenocarcinoma"
+    },
+    "templates": "a histopathological image showing CLASSNAME."
+  },
+  "5": {
+    "classnames": {
+      "NC": "benign prostate glands",
+      "G3": "prostate adenocarcinoma, well-differentiated",
+      "G4": "moderately differentiated prostatic adenocarcinoma",
+      "G5": "prostate cancer, gleason grade 5",
+      "Tumor": "tumor tissue"
+    },
+    "templates": "a photomicrograph showing CLASSNAME."
+  },
+  "6": {
+    "classnames": {
+      "NC": "benign tissue",
+      "G3": "gleason pattern 3",
+      "G4": "prostate adenocarcinoma, moderately differentiated",
+      "G5": "prostate adenocarcinoma, poorly differentiated",
+      "Tumor": "tumor tissue"
+    },
+    "templates": "a histopathological image of CLASSNAME."
+  },
+  "7": {
+    "classnames": {
+      "NC": "benign prostate tissue",
+      "G3": "prostate cancer, gleason pattern 3",
+      "G4": "prostate cancer, gleason pattern 4",
+      "G5": "gleason grade 5",
+      "Tumor": "tumor tissue"
+    },
+    "templates": "shows CLASSNAME."
+  },
+  "8": {
+    "classnames": {
+      "NC": "non-cancerous tissue",
+      "G3": "gleason grade 3",
+      "G4": "moderately differentiated prostatic adenocarcinoma",
+      "G5": "prostate cancer, gleason grade 5",
+      "Tumor": "adenocarcinoma"
+    },
+    "templates": "shows CLASSNAME."
+  },
+  "9": {
+    "classnames": {
+      "NC": "benign prostate tissue",
+      "G3": "prostate cancer, gleason pattern 3",
+      "G4": "moderately differentiated prostatic adenocarcinoma",
+      "G5": "prostate cancer, gleason pattern 5",
+      "Tumor": "tumor tissue"
+    },
+    "templates": "CLASSNAME is present."
+  },
+  "10": {
+    "classnames": {
+      "NC": "non-cancerous prostate tissue",
+      "G3": "well-differentiated prostatic adenocarcinoma",
+      "G4": "prostate adenocarcinoma, moderately differentiated",
+      "G5": "poorly differentiated prostatic adenocarcinoma",
+      "Tumor": "cancerous tissue"
+    },
+    "templates": "CLASSNAME is present."
+  },
+  "11": {
+    "classnames": {
+      "NC": "benign glands",
+      "G3": "well-differentiated prostatic adenocarcinoma",
+      "G4": "prostate cancer, gleason grade 4",
+      "G5": "gleason grade 5",
+      "Tumor": "cancerous tissue"
+    },
+    "templates": "an example of CLASSNAME."
+  },
+  "12": {
+    "classnames": {
+      "NC": "benign glands",
+      "G3": "gleason pattern 3",
+      "G4": "prostate cancer, gleason grade 4",
+      "G5": "prostate adenocarcinoma, poorly differentiated",
+      "Tumor": "prostatic adenocarcinoma"
+    },
+    "templates": "CLASSNAME is present."
+  },
+  "13": {
+    "classnames": {
+      "NC": "benign tissue",
+      "G3": "gleason grade 3",
+      "G4": "gleason pattern 4",
+      "G5": "prostate cancer, gleason grade 5",
+      "Tumor": "tumor tissue"
+    },
+    "templates": "CLASSNAME, H&E stain."
+  },
+  "14": {
+    "classnames": {
+      "NC": "benign prostate tissue",
+      "G3": "gleason pattern 3",
+      "G4": "gleason grade 4",
+      "G5": "gleason grade 5",
+      "Tumor": "prostatic adenocarcinoma"
+    },
+    "templates": "an H&E image of CLASSNAME."
+  },
+  "15": {
+    "classnames": {
+      "NC": "benign tissue",
+      "G3": "prostate cancer, gleason pattern 3",
+      "G4": "moderately differentiated prostatic adenocarcinoma",
+      "G5": "prostate cancer, gleason grade 5",
+      "Tumor": "prostatic adenocarcinoma"
+    },
+    "templates": "shows CLASSNAME."
+  },
+  "16": {
+    "classnames": {
+      "NC": "benign prostate glands",
+      "G3": "well-differentiated prostatic adenocarcinoma",
+      "G4": "moderately differentiated prostatic adenocarcinoma",
+      "G5": "prostate cancer, gleason grade 5",
+      "Tumor": "tumor tissue"
+    },
+    "templates": "CLASSNAME."
+  },
+  "17": {
+    "classnames": {
+      "NC": "non-cancerous tissue",
+      "G3": "gleason grade 3",
+      "G4": "prostate adenocarcinoma, moderately differentiated",
+      "G5": "gleason pattern 5",
+      "Tumor": "cancerous tissue"
+    },
+    "templates": "an H&E stained image showing CLASSNAME."
+  },
+  "18": {
+    "classnames": {
+      "NC": "benign glands",
+      "G3": "gleason pattern 3",
+      "G4": "moderately differentiated prostatic adenocarcinoma",
+      "G5": "prostate cancer, gleason pattern 5",
+      "Tumor": "prostate cancer"
+    },
+    "templates": "a histopathological photograph showing CLASSNAME."
+  },
+  "19": {
+    "classnames": {
+      "NC": "non-cancerous tissue",
+      "G3": "gleason pattern 3",
+      "G4": "prostate adenocarcinoma, moderately differentiated",
+      "G5": "prostate cancer, gleason grade 5",
+      "Tumor": "tumor tissue"
+    },
+    "templates": "a histopathological image showing CLASSNAME."
+  },
+  "20": {
+    "classnames": {
+      "NC": "benign prostate glands",
+      "G3": "prostate cancer, gleason pattern 3",
+      "G4": "prostate adenocarcinoma, moderately differentiated",
+      "G5": "prostate cancer, gleason grade 5",
+      "Tumor": "prostatic adenocarcinoma"
+    },
+    "templates": "an example of CLASSNAME."
+  },
+  "21": {
+    "classnames": {
+      "NC": "non-cancerous prostate tissue",
+      "G3": "prostate cancer, gleason pattern 3",
+      "G4": "prostate cancer, gleason pattern 4",
+      "G5": "prostate cancer, gleason grade 5",
+      "Tumor": "cancerous tissue"
+    },
+    "templates": "CLASSNAME, H&E."
+  },
+  "22": {
+    "classnames": {
+      "NC": "non-cancerous prostate tissue",
+      "G3": "prostate adenocarcinoma, well-differentiated",
+      "G4": "gleason grade 4",
+      "G5": "prostate adenocarcinoma, poorly differentiated",
+      "Tumor": "tumor tissue"
+    },
+    "templates": "an H&E image of CLASSNAME."
+  },
+  "23": {
+    "classnames": {
+      "NC": "benign prostate glands",
+      "G3": "gleason pattern 3",
+      "G4": "prostate cancer, gleason pattern 4",
+      "G5": "prostate cancer, gleason grade 5",
+      "Tumor": "prostatic adenocarcinoma"
+    },
+    "templates": "a photomicrograph showing CLASSNAME."
+  },
+  "24": {
+    "classnames": {
+      "NC": "benign prostate glands",
+      "G3": "gleason grade 3",
+      "G4": "gleason pattern 4",
+      "G5": "prostate adenocarcinoma, poorly differentiated",
+      "Tumor": "adenocarcinoma"
+    },
+    "templates": "CLASSNAME is shown."
+  },
+  "25": {
+    "classnames": {
+      "NC": "benign tissue",
+      "G3": "gleason pattern 3",
+      "G4": "prostate cancer, gleason pattern 4",
+      "G5": "gleason grade 5",
+      "Tumor": "tumor tissue"
+    },
+    "templates": "shows CLASSNAME."
+  },
+  "26": {
+    "classnames": {
+      "NC": "benign tissue",
+      "G3": "gleason grade 3",
+      "G4": "prostate adenocarcinoma, moderately differentiated",
+      "G5": "prostate cancer, gleason pattern 5",
+      "Tumor": "cancerous tissue"
+    },
+    "templates": "there is CLASSNAME."
+  },
+  "27": {
+    "classnames": {
+      "NC": "non-cancerous tissue",
+      "G3": "gleason pattern 3",
+      "G4": "prostate cancer, gleason pattern 4",
+      "G5": "prostate adenocarcinoma, poorly differentiated",
+      "Tumor": "cancerous tissue"
+    },
+    "templates": "CLASSNAME is shown."
+  },
+  "28": {
+    "classnames": {
+      "NC": "benign tissue",
+      "G3": "well-differentiated prostatic adenocarcinoma",
+      "G4": "prostate cancer, gleason pattern 4",
+      "G5": "gleason pattern 5",
+      "Tumor": "prostate cancer"
+    },
+    "templates": "an H&E image showing CLASSNAME."
+  },
+  "29": {
+    "classnames": {
+      "NC": "benign glands",
+      "G3": "gleason pattern 3",
+      "G4": "gleason grade 4",
+      "G5": "gleason grade 5",
+      "Tumor": "cancerous tissue"
+    },
+    "templates": "CLASSNAME is present."
+  },
+  "30": {
+    "classnames": {
+      "NC": "benign prostate tissue",
+      "G3": "prostate cancer, gleason pattern 3",
+      "G4": "prostate cancer, gleason grade 4",
+      "G5": "gleason grade 5",
+      "Tumor": "cancerous tissue"
+    },
+    "templates": "a histopathological image showing CLASSNAME."
+  },
+  "31": {
+    "classnames": {
+      "NC": "benign prostate glands",
+      "G3": "gleason grade 3",
+      "G4": "prostate adenocarcinoma, moderately differentiated",
+      "G5": "prostate cancer, gleason grade 5",
+      "Tumor": "prostatic adenocarcinoma"
+    },
+    "templates": "an H&E image showing CLASSNAME."
+  },
+  "32": {
+    "classnames": {
+      "NC": "non-cancerous tissue",
+      "G3": "prostate cancer, gleason pattern 3",
+      "G4": "prostate cancer, gleason pattern 4",
+      "G5": "prostate cancer, gleason pattern 5",
+      "Tumor": "prostatic adenocarcinoma"
+    },
+    "templates": "a histopathological image showing CLASSNAME."
+  },
+  "33": {
+    "classnames": {
+      "NC": "non-cancerous prostate tissue",
+      "G3": "gleason pattern 3",
+      "G4": "gleason grade 4",
+      "G5": "prostate cancer, gleason pattern 5",
+      "Tumor": "prostate cancer"
+    },
+    "templates": "a histopathological photograph showing CLASSNAME."
+  },
+  "34": {
+    "classnames": {
+      "NC": "non-cancerous prostate tissue",
+      "G3": "prostate cancer, gleason grade 3",
+      "G4": "moderately differentiated prostatic adenocarcinoma",
+      "G5": "poorly differentiated prostatic adenocarcinoma",
+      "Tumor": "tumor tissue"
+    },
+    "templates": "a histopathological image of CLASSNAME."
+  },
+  "35": {
+    "classnames": {
+      "NC": "benign prostate glands",
+      "G3": "gleason pattern 3",
+      "G4": "gleason pattern 4",
+      "G5": "gleason pattern 5",
+      "Tumor": "prostatic adenocarcinoma"
+    },
+    "templates": "a photomicrograph showing CLASSNAME."
+  },
+  "36": {
+    "classnames": {
+      "NC": "benign glands",
+      "G3": "well-differentiated prostatic adenocarcinoma",
+      "G4": "moderately differentiated prostatic adenocarcinoma",
+      "G5": "prostate adenocarcinoma, poorly differentiated",
+      "Tumor": "cancerous tissue"
+    },
+    "templates": "a photomicrograph showing CLASSNAME."
+  },
+  "37": {
+    "classnames": {
+      "NC": "benign prostate tissue",
+      "G3": "prostate cancer, gleason grade 3",
+      "G4": "moderately differentiated prostatic adenocarcinoma",
+      "G5": "gleason grade 5",
+      "Tumor": "prostatic adenocarcinoma"
+    },
+    "templates": "an H&E stained image of CLASSNAME."
+  },
+  "38": {
+    "classnames": {
+      "NC": "benign prostate tissue",
+      "G3": "gleason grade 3",
+      "G4": "gleason grade 4",
+      "G5": "prostate adenocarcinoma, poorly differentiated",
+      "Tumor": "cancerous tissue"
+    },
+    "templates": "CLASSNAME, H&E stain."
+  },
+  "39": {
+    "classnames": {
+      "NC": "benign prostate tissue",
+      "G3": "well-differentiated prostatic adenocarcinoma",
+      "G4": "gleason pattern 4",
+      "G5": "prostate cancer, gleason grade 5",
+      "Tumor": "prostate cancer"
+    },
+    "templates": "a histopathological photograph of CLASSNAME."
+  },
+  "40": {
+    "classnames": {
+      "NC": "non-cancerous prostate tissue",
+      "G3": "prostate cancer, gleason pattern 3",
+      "G4": "prostate cancer, gleason grade 4",
+      "G5": "prostate adenocarcinoma, poorly differentiated",
+      "Tumor": "cancerous tissue"
+    },
+    "templates": "a histopathological photograph of CLASSNAME."
+  },
+  "41": {
+    "classnames": {
+      "NC": "benign prostate glands",
+      "G3": "gleason pattern 3",
+      "G4": "moderately differentiated prostatic adenocarcinoma",
+      "G5": "prostate cancer, gleason pattern 5",
+      "Tumor": "prostatic adenocarcinoma"
+    },
+    "templates": "an example of CLASSNAME."
+  },
+  "42": {
+    "classnames": {
+      "NC": "benign glands",
+      "G3": "well-differentiated prostatic adenocarcinoma",
+      "G4": "moderately differentiated prostatic adenocarcinoma",
+      "G5": "prostate cancer, gleason pattern 5",
+      "Tumor": "adenocarcinoma"
+    },
+    "templates": "a histopathological image of CLASSNAME."
+  },
+  "43": {
+    "classnames": {
+      "NC": "benign prostate tissue",
+      "G3": "gleason pattern 3",
+      "G4": "gleason grade 4",
+      "G5": "prostate adenocarcinoma, poorly differentiated",
+      "Tumor": "cancerous tissue"
+    },
+    "templates": "a histopathological photograph showing CLASSNAME."
+  },
+  "44": {
+    "classnames": {
+      "NC": "benign prostate tissue",
+      "G3": "gleason pattern 3",
+      "G4": "gleason pattern 4",
+      "G5": "poorly differentiated prostatic adenocarcinoma",
+      "Tumor": "adenocarcinoma"
+    },
+    "templates": "there is CLASSNAME."
+  },
+  "45": {
+    "classnames": {
+      "NC": "benign prostate glands",
+      "G3": "well-differentiated prostatic adenocarcinoma",
+      "G4": "gleason grade 4",
+      "G5": "prostate cancer, gleason pattern 5",
+      "Tumor": "cancerous tissue"
+    },
+    "templates": "a photomicrograph of CLASSNAME."
+  },
+  "46": {
+    "classnames": {
+      "NC": "non-cancerous tissue",
+      "G3": "prostate cancer, gleason grade 3",
+      "G4": "prostate cancer, gleason grade 4",
+      "G5": "poorly differentiated prostatic adenocarcinoma",
+      "Tumor": "adenocarcinoma"
+    },
+    "templates": "an H&E stained image of CLASSNAME."
+  },
+  "47": {
+    "classnames": {
+      "NC": "non-cancerous tissue",
+      "G3": "prostate cancer, gleason pattern 3",
+      "G4": "prostate adenocarcinoma, moderately differentiated",
+      "G5": "prostate cancer, gleason grade 5",
+      "Tumor": "cancerous tissue"
+    },
+    "templates": "an image of CLASSNAME."
+  },
+  "48": {
+    "classnames": {
+      "NC": "benign prostate tissue",
+      "G3": "gleason pattern 3",
+      "G4": "prostate cancer, gleason pattern 4",
+      "G5": "gleason pattern 5",
+      "Tumor": "cancerous tissue"
+    },
+    "templates": "a photomicrograph showing CLASSNAME."
+  },
+  "49": {
+    "classnames": {
+      "NC": "benign prostate tissue",
+      "G3": "prostate cancer, gleason pattern 3",
+      "G4": "gleason pattern 4",
+      "G5": "gleason pattern 5",
+      "Tumor": "tumor tissue"
+    },
+    "templates": "an H&E stained image of CLASSNAME."
+  },
+  "50": {
+    "classnames": {
+      "NC": "benign prostate tissue",
+      "G3": "well-differentiated prostatic adenocarcinoma",
+      "G4": "gleason grade 4",
+      "G5": "poorly differentiated prostatic adenocarcinoma",
+      "Tumor": "adenocarcinoma"
+    },
+    "templates": "CLASSNAME, H&E."
+  },
+  "51": {
+    "classnames": {
+      "NC": "benign prostate glands",
+      "G3": "prostate adenocarcinoma, well-differentiated",
+      "G4": "gleason grade 4",
+      "G5": "poorly differentiated prostatic adenocarcinoma",
+      "Tumor": "prostatic adenocarcinoma"
+    },
+    "templates": "a histopathological photograph showing CLASSNAME."
+  },
+  "52": {
+    "classnames": {
+      "NC": "benign tissue",
+      "G3": "prostate cancer, gleason pattern 3",
+      "G4": "gleason pattern 4",
+      "G5": "gleason pattern 5",
+      "Tumor": "tumor tissue"
+    },
+    "templates": "CLASSNAME."
+  },
+  "53": {
+    "classnames": {
+      "NC": "benign tissue",
+      "G3": "well-differentiated prostatic adenocarcinoma",
+      "G4": "prostate cancer, gleason grade 4",
+      "G5": "gleason grade 5",
+      "Tumor": "prostatic adenocarcinoma"
+    },
+    "templates": "CLASSNAME is present."
+  },
+  "54": {
+    "classnames": {
+      "NC": "benign glands",
+      "G3": "prostate adenocarcinoma, well-differentiated",
+      "G4": "gleason grade 4",
+      "G5": "gleason pattern 5",
+      "Tumor": "prostate cancer"
+    },
+    "templates": "an image showing CLASSNAME."
+  },
+  "55": {
+    "classnames": {
+      "NC": "non-cancerous prostate tissue",
+      "G3": "prostate adenocarcinoma, well-differentiated",
+      "G4": "prostate adenocarcinoma, moderately differentiated",
+      "G5": "gleason pattern 5",
+      "Tumor": "prostate cancer"
+    },
+    "templates": "there is CLASSNAME."
+  },
+  "56": {
+    "classnames": {
+      "NC": "non-cancerous tissue",
+      "G3": "gleason pattern 3",
+      "G4": "prostate adenocarcinoma, moderately differentiated",
+      "G5": "gleason grade 5",
+      "Tumor": "prostate cancer"
+    },
+    "templates": "CLASSNAME is present."
+  },
+  "57": {
+    "classnames": {
+      "NC": "benign prostate glands",
+      "G3": "gleason grade 3",
+      "G4": "prostate cancer, gleason grade 4",
+      "G5": "gleason grade 5",
+      "Tumor": "prostate cancer"
+    },
+    "templates": "CLASSNAME."
+  },
+  "58": {
+    "classnames": {
+      "NC": "benign prostate tissue",
+      "G3": "prostate cancer, gleason pattern 3",
+      "G4": "gleason grade 4",
+      "G5": "prostate cancer, gleason pattern 5",
+      "Tumor": "tumor tissue"
+    },
+    "templates": "an example of CLASSNAME."
+  },
+  "59": {
+    "classnames": {
+      "NC": "non-cancerous prostate tissue",
+      "G3": "prostate cancer, gleason grade 3",
+      "G4": "gleason grade 4",
+      "G5": "gleason pattern 5",
+      "Tumor": "cancerous tissue"
+    },
+    "templates": "a photomicrograph showing CLASSNAME."
+  },
+  "60": {
+    "classnames": {
+      "NC": "benign glands",
+      "G3": "well-differentiated prostatic adenocarcinoma",
+      "G4": "gleason grade 4",
+      "G5": "gleason grade 5",
+      "Tumor": "prostatic adenocarcinoma"
+    },
+    "templates": "an image showing CLASSNAME."
+  },
+  "61": {
+    "classnames": {
+      "NC": "benign glands",
+      "G3": "prostate cancer, gleason grade 3",
+      "G4": "prostate adenocarcinoma, moderately differentiated",
+      "G5": "prostate adenocarcinoma, poorly differentiated",
+      "Tumor": "prostate cancer"
+    },
+    "templates": "a photomicrograph showing CLASSNAME."
+  },
+  "62": {
+    "classnames": {
+      "NC": "benign prostate glands",
+      "G3": "prostate cancer, gleason pattern 3",
+      "G4": "gleason pattern 4",
+      "G5": "poorly differentiated prostatic adenocarcinoma",
+      "Tumor": "prostate cancer"
+    },
+    "templates": "a histopathological photograph showing CLASSNAME."
+  },
+  "63": {
+    "classnames": {
+      "NC": "non-cancerous prostate tissue",
+      "G3": "prostate cancer, gleason pattern 3",
+      "G4": "gleason grade 4",
+      "G5": "prostate cancer, gleason grade 5",
+      "Tumor": "prostatic adenocarcinoma"
+    },
+    "templates": "this is CLASSNAME."
+  },
+  "64": {
+    "classnames": {
+      "NC": "benign glands",
+      "G3": "prostate cancer, gleason pattern 3",
+      "G4": "gleason grade 4",
+      "G5": "prostate adenocarcinoma, poorly differentiated",
+      "Tumor": "tumor tissue"
+    },
+    "templates": "CLASSNAME is shown."
+  },
+  "65": {
+    "classnames": {
+      "NC": "benign tissue",
+      "G3": "gleason grade 3",
+      "G4": "gleason pattern 4",
+      "G5": "poorly differentiated prostatic adenocarcinoma",
+      "Tumor": "cancerous tissue"
+    },
+    "templates": "CLASSNAME, H&E stain."
+  },
+  "66": {
+    "classnames": {
+      "NC": "benign prostate glands",
+      "G3": "well-differentiated prostatic adenocarcinoma",
+      "G4": "prostate cancer, gleason grade 4",
+      "G5": "prostate cancer, gleason pattern 5",
+      "Tumor": "prostatic adenocarcinoma"
+    },
+    "templates": "an H&E stained image of CLASSNAME."
+  },
+  "67": {
+    "classnames": {
+      "NC": "benign prostate tissue",
+      "G3": "prostate cancer, gleason pattern 3",
+      "G4": "gleason pattern 4",
+      "G5": "gleason grade 5",
+      "Tumor": "cancerous tissue"
+    },
+    "templates": "an H&E image showing CLASSNAME."
+  },
+  "68": {
+    "classnames": {
+      "NC": "benign prostate glands",
+      "G3": "prostate adenocarcinoma, well-differentiated",
+      "G4": "gleason pattern 4",
+      "G5": "prostate cancer, gleason pattern 5",
+      "Tumor": "adenocarcinoma"
+    },
+    "templates": "a histopathological image showing CLASSNAME."
+  },
+  "69": {
+    "classnames": {
+      "NC": "non-cancerous prostate tissue",
+      "G3": "prostate adenocarcinoma, well-differentiated",
+      "G4": "prostate cancer, gleason pattern 4",
+      "G5": "gleason pattern 5",
+      "Tumor": "cancerous tissue"
+    },
+    "templates": "an H&E stained image showing CLASSNAME."
+  },
+  "70": {
+    "classnames": {
+      "NC": "non-cancerous tissue",
+      "G3": "prostate cancer, gleason grade 3",
+      "G4": "moderately differentiated prostatic adenocarcinoma",
+      "G5": "prostate cancer, gleason grade 5",
+      "Tumor": "tumor tissue"
+    },
+    "templates": "there is CLASSNAME."
+  },
+  "71": {
+    "classnames": {
+      "NC": "benign tissue",
+      "G3": "gleason pattern 3",
+      "G4": "gleason pattern 4",
+      "G5": "poorly differentiated prostatic adenocarcinoma",
+      "Tumor": "cancerous tissue"
+    },
+    "templates": "CLASSNAME is present."
+  },
+  "72": {
+    "classnames": {
+      "NC": "benign prostate glands",
+      "G3": "prostate cancer, gleason pattern 3",
+      "G4": "prostate cancer, gleason grade 4",
+      "G5": "poorly differentiated prostatic adenocarcinoma",
+      "Tumor": "tumor tissue"
+    },
+    "templates": "CLASSNAME, H&E."
+  },
+  "73": {
+    "classnames": {
+      "NC": "non-cancerous prostate tissue",
+      "G3": "gleason pattern 3",
+      "G4": "gleason grade 4",
+      "G5": "gleason pattern 5",
+      "Tumor": "tumor tissue"
+    },
+    "templates": "an image of CLASSNAME."
+  },
+  "74": {
+    "classnames": {
+      "NC": "benign glands",
+      "G3": "gleason pattern 3",
+      "G4": "moderately differentiated prostatic adenocarcinoma",
+      "G5": "gleason pattern 5",
+      "Tumor": "adenocarcinoma"
+    },
+    "templates": "a histopathological image showing CLASSNAME."
+  },
+  "75": {
+    "classnames": {
+      "NC": "benign glands",
+      "G3": "gleason pattern 3",
+      "G4": "gleason grade 4",
+      "G5": "prostate adenocarcinoma, poorly differentiated",
+      "Tumor": "prostatic adenocarcinoma"
+    },
+    "templates": "CLASSNAME is present."
+  },
+  "76": {
+    "classnames": {
+      "NC": "benign tissue",
+      "G3": "prostate adenocarcinoma, well-differentiated",
+      "G4": "prostate cancer, gleason grade 4",
+      "G5": "gleason grade 5",
+      "Tumor": "cancerous tissue"
+    },
+    "templates": "CLASSNAME is shown."
+  },
+  "77": {
+    "classnames": {
+      "NC": "benign glands",
+      "G3": "prostate cancer, gleason pattern 3",
+      "G4": "moderately differentiated prostatic adenocarcinoma",
+      "G5": "gleason pattern 5",
+      "Tumor": "adenocarcinoma"
+    },
+    "templates": "a histopathological photograph of CLASSNAME."
+  },
+  "78": {
+    "classnames": {
+      "NC": "non-cancerous prostate tissue",
+      "G3": "gleason grade 3",
+      "G4": "moderately differentiated prostatic adenocarcinoma",
+      "G5": "prostate adenocarcinoma, poorly differentiated",
+      "Tumor": "adenocarcinoma"
+    },
+    "templates": "a histopathological image showing CLASSNAME."
+  },
+  "79": {
+    "classnames": {
+      "NC": "non-cancerous tissue",
+      "G3": "gleason pattern 3",
+      "G4": "prostate cancer, gleason pattern 4",
+      "G5": "prostate cancer, gleason pattern 5",
+      "Tumor": "cancerous tissue"
+    },
+    "templates": "an H&E image of CLASSNAME."
+  },
+  "80": {
+    "classnames": {
+      "NC": "benign prostate tissue",
+      "G3": "prostate adenocarcinoma, well-differentiated",
+      "G4": "gleason pattern 4",
+      "G5": "prostate cancer, gleason pattern 5",
+      "Tumor": "cancerous tissue"
+    },
+    "templates": "CLASSNAME is present."
+  },
+  "81": {
+    "classnames": {
+      "NC": "benign prostate tissue",
+      "G3": "prostate cancer, gleason pattern 3",
+      "G4": "prostate cancer, gleason grade 4",
+      "G5": "prostate cancer, gleason grade 5",
+      "Tumor": "cancerous tissue"
+    },
+    "templates": "an image showing CLASSNAME."
+  },
+  "82": {
+    "classnames": {
+      "NC": "benign prostate glands",
+      "G3": "gleason pattern 3",
+      "G4": "gleason grade 4",
+      "G5": "poorly differentiated prostatic adenocarcinoma",
+      "Tumor": "adenocarcinoma"
+    },
+    "templates": "CLASSNAME is present."
+  },
+  "83": {
+    "classnames": {
+      "NC": "non-cancerous tissue",
+      "G3": "gleason grade 3",
+      "G4": "prostate cancer, gleason grade 4",
+      "G5": "gleason pattern 5",
+      "Tumor": "tumor tissue"
+    },
+    "templates": "presence of CLASSNAME."
+  },
+  "84": {
+    "classnames": {
+      "NC": "non-cancerous tissue",
+      "G3": "prostate cancer, gleason pattern 3",
+      "G4": "prostate cancer, gleason grade 4",
+      "G5": "prostate cancer, gleason pattern 5",
+      "Tumor": "tumor tissue"
+    },
+    "templates": "CLASSNAME is present."
+  },
+  "85": {
+    "classnames": {
+      "NC": "non-cancerous tissue",
+      "G3": "prostate cancer, gleason grade 3",
+      "G4": "prostate cancer, gleason grade 4",
+      "G5": "prostate cancer, gleason pattern 5",
+      "Tumor": "adenocarcinoma"
+    },
+    "templates": "presence of CLASSNAME."
+  },
+  "86": {
+    "classnames": {
+      "NC": "non-cancerous prostate tissue",
+      "G3": "prostate cancer, gleason grade 3",
+      "G4": "moderately differentiated prostatic adenocarcinoma",
+      "G5": "prostate adenocarcinoma, poorly differentiated",
+      "Tumor": "tumor tissue"
+    },
+    "templates": "an image of CLASSNAME."
+  },
+  "87": {
+    "classnames": {
+      "NC": "benign prostate tissue",
+      "G3": "gleason grade 3",
+      "G4": "moderately differentiated prostatic adenocarcinoma",
+      "G5": "gleason pattern 5",
+      "Tumor": "prostate cancer"
+    },
+    "templates": "CLASSNAME is shown."
+  },
+  "88": {
+    "classnames": {
+      "NC": "benign tissue",
+      "G3": "gleason pattern 3",
+      "G4": "gleason grade 4",
+      "G5": "gleason grade 5",
+      "Tumor": "tumor tissue"
+    },
+    "templates": "an H&E stained image of CLASSNAME."
+  },
+  "89": {
+    "classnames": {
+      "NC": "benign prostate glands",
+      "G3": "prostate adenocarcinoma, well-differentiated",
+      "G4": "gleason pattern 4",
+      "G5": "prostate cancer, gleason pattern 5",
+      "Tumor": "tumor tissue"
+    },
+    "templates": "a photomicrograph showing CLASSNAME."
+  },
+  "90": {
+    "classnames": {
+      "NC": "benign prostate glands",
+      "G3": "prostate cancer, gleason grade 3",
+      "G4": "prostate cancer, gleason pattern 4",
+      "G5": "gleason grade 5",
+      "Tumor": "adenocarcinoma"
+    },
+    "templates": "an H&E image of CLASSNAME."
+  },
+  "91": {
+    "classnames": {
+      "NC": "benign prostate tissue",
+      "G3": "well-differentiated prostatic adenocarcinoma",
+      "G4": "gleason grade 4",
+      "G5": "prostate cancer, gleason grade 5",
+      "Tumor": "tumor tissue"
+    },
+    "templates": "CLASSNAME is shown."
+  },
+  "92": {
+    "classnames": {
+      "NC": "benign prostate tissue",
+      "G3": "prostate cancer, gleason grade 3",
+      "G4": "gleason pattern 4",
+      "G5": "prostate cancer, gleason pattern 5",
+      "Tumor": "prostate cancer"
+    },
+    "templates": "an image showing CLASSNAME."
+  },
+  "93": {
+    "classnames": {
+      "NC": "benign prostate glands",
+      "G3": "prostate adenocarcinoma, well-differentiated",
+      "G4": "prostate cancer, gleason pattern 4",
+      "G5": "prostate cancer, gleason pattern 5",
+      "Tumor": "cancerous tissue"
+    },
+    "templates": "CLASSNAME is present."
+  },
+  "94": {
+    "classnames": {
+      "NC": "benign tissue",
+      "G3": "well-differentiated prostatic adenocarcinoma",
+      "G4": "prostate adenocarcinoma, moderately differentiated",
+      "G5": "gleason grade 5",
+      "Tumor": "cancerous tissue"
+    },
+    "templates": "a photomicrograph of CLASSNAME."
+  },
+  "95": {
+    "classnames": {
+      "NC": "non-cancerous tissue",
+      "G3": "prostate adenocarcinoma, well-differentiated",
+      "G4": "gleason grade 4",
+      "G5": "gleason grade 5",
+      "Tumor": "tumor tissue"
+    },
+    "templates": "there is CLASSNAME."
+  },
+  "96": {
+    "classnames": {
+      "NC": "benign tissue",
+      "G3": "prostate adenocarcinoma, well-differentiated",
+      "G4": "gleason grade 4",
+      "G5": "prostate cancer, gleason grade 5",
+      "Tumor": "prostate cancer"
+    },
+    "templates": "a histopathological image of CLASSNAME."
+  },
+  "97": {
+    "classnames": {
+      "NC": "benign tissue",
+      "G3": "well-differentiated prostatic adenocarcinoma",
+      "G4": "prostate adenocarcinoma, moderately differentiated",
+      "G5": "prostate adenocarcinoma, poorly differentiated",
+      "Tumor": "tumor tissue"
+    },
+    "templates": "an H&E image showing CLASSNAME."
+  },
+  "98": {
+    "classnames": {
+      "NC": "benign tissue",
+      "G3": "gleason grade 3",
+      "G4": "prostate cancer, gleason pattern 4",
+      "G5": "gleason grade 5",
+      "Tumor": "prostate cancer"
+    },
+    "templates": "an image of CLASSNAME."
+  },
+  "99": {
+    "classnames": {
+      "NC": "benign prostate glands",
+      "G3": "gleason pattern 3",
+      "G4": "prostate adenocarcinoma, moderately differentiated",
+      "G5": "poorly differentiated prostatic adenocarcinoma",
+      "Tumor": "prostate cancer"
+    },
+    "templates": "an H&E image of CLASSNAME."
+  }
+}

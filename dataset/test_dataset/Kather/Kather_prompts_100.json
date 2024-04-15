@@ -1,0 +1,1402 @@
+{
+  "0": {
+    "classnames": {
+      "ADI": "fat",
+      "BACK": "background artifacts",
+      "DEB": "necrotic debris",
+      "LYM": "immune cells",
+      "MUC": "mucus",
+      "MUS": "muscularis mucosa",
+      "NORM": "benign colon mucosa",
+      "STR": "cancer-associated stroma",
+      "TUM": "colorectal adenocarcinoma epithelium"
+    },
+    "templates": "there is CLASSNAME."
+  },
+  "1": {
+    "classnames": {
+      "ADI": "fat cells",
+      "BACK": "background",
+      "DEB": "colorectal adenocarcinoma debris and necrosis",
+      "LYM": "lymphocytes",
+      "MUC": "mucus",
+      "MUS": "smooth muscle",
+      "NORM": "normal colon mucosa",
+      "STR": "tumor-associated stroma",
+      "TUM": "colorectal adenocarcinoma epithelium"
+    },
+    "templates": "this is CLASSNAME."
+  },
+  "2": {
+    "classnames": {
+      "ADI": "adipose tissue",
+      "BACK": "background",
+      "DEB": "necrotic debris",
+      "LYM": "inflammatory cells",
+      "MUC": "mucin",
+      "MUS": "muscularis propria",
+      "NORM": "benign epithelium",
+      "STR": "stromal tissue",
+      "TUM": "adenocarcinoma"
+    },
+    "templates": "this is CLASSNAME."
+  },
+  "3": {
+    "classnames": {
+      "ADI": "fat cells",
+      "BACK": "penmarking",
+      "DEB": "necrosis",
+      "LYM": "lymphoid aggregate",
+      "MUC": "mucus",
+      "MUS": "smooth muscle tissue",
+      "NORM": "benign epithelium",
+      "STR": "cancer-associated stroma",
+      "TUM": "colorectal adenocarcinoma epithelium"
+    },
+    "templates": "CLASSNAME is present."
+  },
+  "4": {
+    "classnames": {
+      "ADI": "adipose tissue",
+      "BACK": "background",
+      "DEB": "colorectal adenocarcinoma debris and necrosis",
+      "LYM": "lymphoid infiltrate",
+      "MUC": "mucus pool",
+      "MUS": "muscularis propria",
+      "NORM": "benign colon mucosa",
+      "STR": "stromal cells",
+      "TUM": "malignant epithelium"
+    },
+    "templates": "this is CLASSNAME."
+  },
+  "5": {
+    "classnames": {
+      "ADI": "fat cells",
+      "BACK": "empty space",
+      "DEB": "necrotic debris",
+      "LYM": "inflammatory cells",
+      "MUC": "mucus pool",
+      "MUS": "smooth muscle tissue",
+      "NORM": "benign colon mucosa",
+      "STR": "cancer-associated stroma",
+      "TUM": "colorectal adenocarcinoma epithelium"
+    },
+    "templates": "an H&E stained image of CLASSNAME."
+  },
+  "6": {
+    "classnames": {
+      "ADI": "adipose",
+      "BACK": "empty space",
+      "DEB": "necrosis",
+      "LYM": "lymphocytes",
+      "MUC": "mucin",
+      "MUS": "muscularis propria",
+      "NORM": "benign colon mucosa",
+      "STR": "cancer-associated stroma",
+      "TUM": "malignant epithelium"
+    },
+    "templates": "CLASSNAME is present."
+  },
+  "7": {
+    "classnames": {
+      "ADI": "fat",
+      "BACK": "empty space",
+      "DEB": "debris",
+      "LYM": "inflammatory cells",
+      "MUC": "mucus pool",
+      "MUS": "smooth muscle",
+      "NORM": "benign colon mucosa",
+      "STR": "tumor-associated stroma",
+      "TUM": "adenocarcinoma"
+    },
+    "templates": "an H&E image of CLASSNAME."
+  },
+  "8": {
+    "classnames": {
+      "ADI": "adipocytes",
+      "BACK": "background artifacts",
+      "DEB": "necrotic debris",
+      "LYM": "lymphocytes",
+      "MUC": "mucin pool",
+      "MUS": "muscle",
+      "NORM": "benign colon mucosa",
+      "STR": "stromal tissue",
+      "TUM": "colorectal adenocarcinoma"
+    },
+    "templates": "a histopathological image showing CLASSNAME."
+  },
+  "9": {
+    "classnames": {
+      "ADI": "fat",
+      "BACK": "background",
+      "DEB": "necrosis",
+      "LYM": "immune cells",
+      "MUC": "mucin pool",
+      "MUS": "muscle",
+      "NORM": "uninvolved colon mucosa",
+      "STR": "cancer-associated stroma",
+      "TUM": "colorectal adenocarcinoma"
+    },
+    "templates": "an image of CLASSNAME."
+  },
+  "10": {
+    "classnames": {
+      "ADI": "adipose tissue",
+      "BACK": "background",
+      "DEB": "debris",
+      "LYM": "lymphocytes",
+      "MUC": "mucin pool",
+      "MUS": "muscularis propria",
+      "NORM": "uninvolved colon mucosa",
+      "STR": "stroma",
+      "TUM": "colorectal adenocarcinoma epithelium"
+    },
+    "templates": "CLASSNAME, H&E."
+  },
+  "11": {
+    "classnames": {
+      "ADI": "fat cells",
+      "BACK": "empty space",
+      "DEB": "colorectal adenocarcinoma debris and necrosis",
+      "LYM": "lymphoid infiltrate",
+      "MUC": "mucin pool",
+      "MUS": "smooth muscle",
+      "NORM": "uninvolved colon mucosa",
+      "STR": "stromal cells",
+      "TUM": "colorectal adenocarcinoma epithelium"
+    },
+    "templates": "a histopathological image showing CLASSNAME."
+  },
+  "12": {
+    "classnames": {
+      "ADI": "adipose tissue",
+      "BACK": "empty space",
+      "DEB": "necrotic debris",
+      "LYM": "lymphocytes",
+      "MUC": "mucin pool",
+      "MUS": "muscle",
+      "NORM": "benign colon mucosa",
+      "STR": "stromal tissue",
+      "TUM": "colorectal adenocarcinoma epithelium"
+    },
+    "templates": "a histopathological photograph showing CLASSNAME."
+  },
+  "13": {
+    "classnames": {
+      "ADI": "adipose",
+      "BACK": "background artifacts",
+      "DEB": "necrosis",
+      "LYM": "lymphoid aggregate",
+      "MUC": "mucus",
+      "MUS": "muscle",
+      "NORM": "benign epithelium",
+      "STR": "stroma",
+      "TUM": "adenocarcinoma"
+    },
+    "templates": "shows CLASSNAME."
+  },
+  "14": {
+    "classnames": {
+      "ADI": "fat",
+      "BACK": "background artifacts",
+      "DEB": "debris",
+      "LYM": "inflammatory cells",
+      "MUC": "mucin",
+      "MUS": "muscle",
+      "NORM": "benign epithelium",
+      "STR": "stromal cells",
+      "TUM": "colorectal adenocarcinoma"
+    },
+    "templates": "an H&E image of CLASSNAME."
+  },
+  "15": {
+    "classnames": {
+      "ADI": "fat",
+      "BACK": "background",
+      "DEB": "necrotic debris",
+      "LYM": "inflammatory cells",
+      "MUC": "mucin",
+      "MUS": "smooth muscle",
+      "NORM": "normal colon mucosa",
+      "STR": "cancer-associated stroma",
+      "TUM": "tumor"
+    },
+    "templates": "an example of CLASSNAME."
+  },
+  "16": {
+    "classnames": {
+      "ADI": "adipose tissue",
+      "BACK": "background",
+      "DEB": "necrotic debris",
+      "LYM": "lymphocytes",
+      "MUC": "mucin pool",
+      "MUS": "muscularis propria",
+      "NORM": "benign epithelium",
+      "STR": "stroma",
+      "TUM": "colorectal adenocarcinoma"
+    },
+    "templates": "CLASSNAME is shown."
+  },
+  "17": {
+    "classnames": {
+      "ADI": "adipocytes",
+      "BACK": "background artifacts",
+      "DEB": "colorectal adenocarcinoma debris and necrosis",
+      "LYM": "lymphocytes",
+      "MUC": "mucin",
+      "MUS": "muscle",
+      "NORM": "uninvolved colon mucosa",
+      "STR": "stroma",
+      "TUM": "tumor"
+    },
+    "templates": "a histopathological photograph of CLASSNAME."
+  },
+  "18": {
+    "classnames": {
+      "ADI": "adipose",
+      "BACK": "background",
+      "DEB": "necrosis",
+      "LYM": "lymphocytes",
+      "MUC": "mucin pool",
+      "MUS": "muscle",
+      "NORM": "normal colon mucosa",
+      "STR": "stroma",
+      "TUM": "malignant epithelium"
+    },
+    "templates": "CLASSNAME is shown."
+  },
+  "19": {
+    "classnames": {
+      "ADI": "fat",
+      "BACK": "empty space",
+      "DEB": "necrotic debris",
+      "LYM": "lymphocytes",
+      "MUC": "mucus pool",
+      "MUS": "smooth muscle tissue",
+      "NORM": "benign epithelium",
+      "STR": "stroma",
+      "TUM": "colorectal adenocarcinoma"
+    },
+    "templates": "CLASSNAME is present."
+  },
+  "20": {
+    "classnames": {
+      "ADI": "adipose",
+      "BACK": "background artifacts",
+      "DEB": "necrotic debris",
+      "LYM": "lymphoid infiltrate",
+      "MUC": "mucus",
+      "MUS": "muscle",
+      "NORM": "benign epithelium",
+      "STR": "stromal tissue",
+      "TUM": "colorectal adenocarcinoma"
+    },
+    "templates": "shows CLASSNAME."
+  },
+  "21": {
+    "classnames": {
+      "ADI": "adipose",
+      "BACK": "empty space",
+      "DEB": "necrosis",
+      "LYM": "lymphoid infiltrate",
+      "MUC": "mucin",
+      "MUS": "smooth muscle",
+      "NORM": "normal colon mucosa",
+      "STR": "stroma",
+      "TUM": "tumor"
+    },
+    "templates": "a histopathological photograph showing CLASSNAME."
+  },
+  "22": {
+    "classnames": {
+      "ADI": "adipocytes",
+      "BACK": "background",
+      "DEB": "necrosis",
+      "LYM": "lymphoid aggregate",
+      "MUC": "mucus",
+      "MUS": "smooth muscle",
+      "NORM": "benign epithelium",
+      "STR": "tumor-associated stroma",
+      "TUM": "colorectal adenocarcinoma"
+    },
+    "templates": "CLASSNAME, H&E."
+  },
+  "23": {
+    "classnames": {
+      "ADI": "fat cells",
+      "BACK": "empty space",
+      "DEB": "debris",
+      "LYM": "inflammatory cells",
+      "MUC": "mucus",
+      "MUS": "muscularis mucosa",
+      "NORM": "benign colon mucosa",
+      "STR": "stromal cells",
+      "TUM": "malignant epithelium"
+    },
+    "templates": "presence of CLASSNAME."
+  },
+  "24": {
+    "classnames": {
+      "ADI": "fat",
+      "BACK": "penmarking",
+      "DEB": "necrosis",
+      "LYM": "lymphoid aggregate",
+      "MUC": "mucus pool",
+      "MUS": "muscle",
+      "NORM": "benign epithelium",
+      "STR": "stroma",
+      "TUM": "colorectal adenocarcinoma"
+    },
+    "templates": "a photomicrograph showing CLASSNAME."
+  },
+  "25": {
+    "classnames": {
+      "ADI": "adipocytes",
+      "BACK": "penmarking",
+      "DEB": "colorectal adenocarcinoma debris and necrosis",
+      "LYM": "lymphoid aggregate",
+      "MUC": "mucus pool",
+      "MUS": "muscularis propria",
+      "NORM": "benign colon mucosa",
+      "STR": "cancer-associated stroma",
+      "TUM": "tumor"
+    },
+    "templates": "CLASSNAME, H&E."
+  },
+  "26": {
+    "classnames": {
+      "ADI": "adipocytes",
+      "BACK": "background artifacts",
+      "DEB": "necrosis",
+      "LYM": "lymphocytes",
+      "MUC": "mucus",
+      "MUS": "smooth muscle tissue",
+      "NORM": "uninvolved colon mucosa",
+      "STR": "stromal tissue",
+      "TUM": "malignant epithelium"
+    },
+    "templates": "an H&E stained image of CLASSNAME."
+  },
+  "27": {
+    "classnames": {
+      "ADI": "fat",
+      "BACK": "background artifacts",
+      "DEB": "colorectal adenocarcinoma debris and necrosis",
+      "LYM": "inflammatory cells",
+      "MUC": "mucus pool",
+      "MUS": "smooth muscle tissue",
+      "NORM": "benign colon mucosa",
+      "STR": "stromal tissue",
+      "TUM": "malignant epithelium"
+    },
+    "templates": "CLASSNAME is shown."
+  },
+  "28": {
+    "classnames": {
+      "ADI": "fat",
+      "BACK": "penmarking",
+      "DEB": "necrosis",
+      "LYM": "lymphoid aggregate",
+      "MUC": "mucin",
+      "MUS": "muscle",
+      "NORM": "benign epithelium",
+      "STR": "stromal tissue",
+      "TUM": "colorectal adenocarcinoma"
+    },
+    "templates": "an image of CLASSNAME."
+  },
+  "29": {
+    "classnames": {
+      "ADI": "adipose",
+      "BACK": "empty space",
+      "DEB": "debris",
+      "LYM": "inflammatory cells",
+      "MUC": "mucin pool",
+      "MUS": "muscularis mucosa",
+      "NORM": "benign epithelium",
+      "STR": "cancer-associated stroma",
+      "TUM": "tumor"
+    },
+    "templates": "a histopathological photograph of CLASSNAME."
+  },
+  "30": {
+    "classnames": {
+      "ADI": "adipocytes",
+      "BACK": "penmarking",
+      "DEB": "colorectal adenocarcinoma debris and necrosis",
+      "LYM": "immune cells",
+      "MUC": "mucus",
+      "MUS": "smooth muscle tissue",
+      "NORM": "benign epithelium",
+      "STR": "cancer-associated stroma",
+      "TUM": "malignant epithelium"
+    },
+    "templates": "a photomicrograph showing CLASSNAME."
+  },
+  "31": {
+    "classnames": {
+      "ADI": "adipose",
+      "BACK": "penmarking",
+      "DEB": "necrotic debris",
+      "LYM": "lymphocytes",
+      "MUC": "mucin",
+      "MUS": "muscularis mucosa",
+      "NORM": "normal colon mucosa",
+      "STR": "cancer-associated stroma",
+      "TUM": "colorectal adenocarcinoma epithelium"
+    },
+    "templates": "presence of CLASSNAME."
+  },
+  "32": {
+    "classnames": {
+      "ADI": "fat cells",
+      "BACK": "background artifacts",
+      "DEB": "necrosis",
+      "LYM": "immune cells",
+      "MUC": "mucus",
+      "MUS": "muscularis mucosa",
+      "NORM": "benign epithelium",
+      "STR": "stromal cells",
+      "TUM": "tumor"
+    },
+    "templates": "an image showing CLASSNAME."
+  },
+  "33": {
+    "classnames": {
+      "ADI": "adipocytes",
+      "BACK": "background",
+      "DEB": "colorectal adenocarcinoma debris and necrosis",
+      "LYM": "lymphoid infiltrate",
+      "MUC": "mucin",
+      "MUS": "smooth muscle",
+      "NORM": "normal colon mucosa",
+      "STR": "tumor-associated stroma",
+      "TUM": "colorectal adenocarcinoma epithelium"
+    },
+    "templates": "CLASSNAME is shown."
+  },
+  "34": {
+    "classnames": {
+      "ADI": "fat cells",
+      "BACK": "empty space",
+      "DEB": "necrosis",
+      "LYM": "lymphocytes",
+      "MUC": "mucin pool",
+      "MUS": "smooth muscle",
+      "NORM": "uninvolved colon mucosa",
+      "STR": "tumor-associated stroma",
+      "TUM": "colorectal adenocarcinoma"
+    },
+    "templates": "CLASSNAME is present."
+  },
+  "35": {
+    "classnames": {
+      "ADI": "adipose tissue",
+      "BACK": "background",
+      "DEB": "debris",
+      "LYM": "lymphoid aggregate",
+      "MUC": "mucin pool",
+      "MUS": "smooth muscle tissue",
+      "NORM": "uninvolved colon mucosa",
+      "STR": "stromal tissue",
+      "TUM": "colorectal adenocarcinoma epithelium"
+    },
+    "templates": "an image showing CLASSNAME."
+  },
+  "36": {
+    "classnames": {
+      "ADI": "adipose",
+      "BACK": "penmarking",
+      "DEB": "necrotic debris",
+      "LYM": "inflammatory cells",
+      "MUC": "mucus pool",
+      "MUS": "muscularis mucosa",
+      "NORM": "benign colon mucosa",
+      "STR": "stromal cells",
+      "TUM": "malignant epithelium"
+    },
+    "templates": "an example of CLASSNAME."
+  },
+  "37": {
+    "classnames": {
+      "ADI": "fat",
+      "BACK": "background artifacts",
+      "DEB": "colorectal adenocarcinoma debris and necrosis",
+      "LYM": "immune cells",
+      "MUC": "mucus",
+      "MUS": "muscularis mucosa",
+      "NORM": "uninvolved colon mucosa",
+      "STR": "tumor-associated stroma",
+      "TUM": "tumor"
+    },
+    "templates": "CLASSNAME is present."
+  },
+  "38": {
+    "classnames": {
+      "ADI": "fat",
+      "BACK": "penmarking",
+      "DEB": "colorectal adenocarcinoma debris and necrosis",
+      "LYM": "lymphoid aggregate",
+      "MUC": "mucus",
+      "MUS": "muscularis mucosa",
+      "NORM": "normal colon mucosa",
+      "STR": "tumor-associated stroma",
+      "TUM": "adenocarcinoma"
+    },
+    "templates": "a histopathological photograph of CLASSNAME."
+  },
+  "39": {
+    "classnames": {
+      "ADI": "adipose tissue",
+      "BACK": "penmarking",
+      "DEB": "necrosis",
+      "LYM": "lymphocytes",
+      "MUC": "mucin pool",
+      "MUS": "smooth muscle tissue",
+      "NORM": "uninvolved colon mucosa",
+      "STR": "stromal cells",
+      "TUM": "adenocarcinoma"
+    },
+    "templates": "an image of CLASSNAME."
+  },
+  "40": {
+    "classnames": {
+      "ADI": "fat",
+      "BACK": "penmarking",
+      "DEB": "debris",
+      "LYM": "immune cells",
+      "MUC": "mucus pool",
+      "MUS": "muscularis propria",
+      "NORM": "benign colon mucosa",
+      "STR": "stromal tissue",
+      "TUM": "malignant epithelium"
+    },
+    "templates": "presence of CLASSNAME."
+  },
+  "41": {
+    "classnames": {
+      "ADI": "adipose",
+      "BACK": "empty space",
+      "DEB": "necrotic debris",
+      "LYM": "lymphoid aggregate",
+      "MUC": "mucus pool",
+      "MUS": "smooth muscle",
+      "NORM": "benign epithelium",
+      "STR": "tumor-associated stroma",
+      "TUM": "colorectal adenocarcinoma"
+    },
+    "templates": "an image showing CLASSNAME."
+  },
+  "42": {
+    "classnames": {
+      "ADI": "adipose tissue",
+      "BACK": "background artifacts",
+      "DEB": "necrosis",
+      "LYM": "lymphocytes",
+      "MUC": "mucin",
+      "MUS": "smooth muscle tissue",
+      "NORM": "benign colon mucosa",
+      "STR": "stromal cells",
+      "TUM": "colorectal adenocarcinoma"
+    },
+    "templates": "this is CLASSNAME."
+  },
+  "43": {
+    "classnames": {
+      "ADI": "fat cells",
+      "BACK": "background",
+      "DEB": "debris",
+      "LYM": "immune cells",
+      "MUC": "mucin",
+      "MUS": "muscle",
+      "NORM": "benign colon mucosa",
+      "STR": "stromal tissue",
+      "TUM": "tumor"
+    },
+    "templates": "this is CLASSNAME."
+  },
+  "44": {
+    "classnames": {
+      "ADI": "fat",
+      "BACK": "background",
+      "DEB": "debris",
+      "LYM": "lymphocytes",
+      "MUC": "mucus pool",
+      "MUS": "muscularis propria",
+      "NORM": "uninvolved colon mucosa",
+      "STR": "cancer-associated stroma",
+      "TUM": "adenocarcinoma"
+    },
+    "templates": "an image of CLASSNAME."
+  },
+  "45": {
+    "classnames": {
+      "ADI": "adipose tissue",
+      "BACK": "empty space",
+      "DEB": "colorectal adenocarcinoma debris and necrosis",
+      "LYM": "immune cells",
+      "MUC": "mucin pool",
+      "MUS": "muscularis propria",
+      "NORM": "benign colon mucosa",
+      "STR": "stromal cells",
+      "TUM": "adenocarcinoma"
+    },
+    "templates": "an H&E image showing CLASSNAME."
+  },
+  "46": {
+    "classnames": {
+      "ADI": "fat",
+      "BACK": "background artifacts",
+      "DEB": "debris",
+      "LYM": "immune cells",
+      "MUC": "mucus",
+      "MUS": "muscle",
+      "NORM": "benign colon mucosa",
+      "STR": "stromal cells",
+      "TUM": "adenocarcinoma"
+    },
+    "templates": "an H&E image showing CLASSNAME."
+  },
+  "47": {
+    "classnames": {
+      "ADI": "adipose tissue",
+      "BACK": "background artifacts",
+      "DEB": "colorectal adenocarcinoma debris and necrosis",
+      "LYM": "immune cells",
+      "MUC": "mucus pool",
+      "MUS": "muscle",
+      "NORM": "benign epithelium",
+      "STR": "tumor-associated stroma",
+      "TUM": "adenocarcinoma"
+    },
+    "templates": "a histopathological photograph showing CLASSNAME."
+  },
+  "48": {
+    "classnames": {
+      "ADI": "fat cells",
+      "BACK": "background artifacts",
+      "DEB": "necrotic debris",
+      "LYM": "lymphoid aggregate",
+      "MUC": "mucus",
+      "MUS": "muscularis propria",
+      "NORM": "benign colon mucosa",
+      "STR": "cancer-associated stroma",
+      "TUM": "malignant epithelium"
+    },
+    "templates": "CLASSNAME."
+  },
+  "49": {
+    "classnames": {
+      "ADI": "adipose",
+      "BACK": "empty space",
+      "DEB": "colorectal adenocarcinoma debris and necrosis",
+      "LYM": "lymphoid aggregate",
+      "MUC": "mucin",
+      "MUS": "muscularis mucosa",
+      "NORM": "benign epithelium",
+      "STR": "stromal cells",
+      "TUM": "malignant epithelium"
+    },
+    "templates": "there is CLASSNAME."
+  },
+  "50": {
+    "classnames": {
+      "ADI": "adipose",
+      "BACK": "background",
+      "DEB": "necrosis",
+      "LYM": "immune cells",
+      "MUC": "mucin",
+      "MUS": "muscularis propria",
+      "NORM": "normal colon mucosa",
+      "STR": "stromal tissue",
+      "TUM": "tumor"
+    },
+    "templates": "an H&E image showing CLASSNAME."
+  },
+  "51": {
+    "classnames": {
+      "ADI": "adipose",
+      "BACK": "empty space",
+      "DEB": "necrotic debris",
+      "LYM": "lymphoid infiltrate",
+      "MUC": "mucus",
+      "MUS": "smooth muscle tissue",
+      "NORM": "uninvolved colon mucosa",
+      "STR": "stroma",
+      "TUM": "tumor"
+    },
+    "templates": "a photomicrograph of CLASSNAME."
+  },
+  "52": {
+    "classnames": {
+      "ADI": "adipose tissue",
+      "BACK": "penmarking",
+      "DEB": "debris",
+      "LYM": "lymphoid infiltrate",
+      "MUC": "mucus pool",
+      "MUS": "muscle",
+      "NORM": "normal colon mucosa",
+      "STR": "cancer-associated stroma",
+      "TUM": "tumor"
+    },
+    "templates": "this is CLASSNAME."
+  },
+  "53": {
+    "classnames": {
+      "ADI": "adipose",
+      "BACK": "penmarking",
+      "DEB": "necrotic debris",
+      "LYM": "inflammatory cells",
+      "MUC": "mucus pool",
+      "MUS": "smooth muscle",
+      "NORM": "uninvolved colon mucosa",
+      "STR": "stromal cells",
+      "TUM": "malignant epithelium"
+    },
+    "templates": "a histopathological photograph of CLASSNAME."
+  },
+  "54": {
+    "classnames": {
+      "ADI": "adipocytes",
+      "BACK": "background",
+      "DEB": "colorectal adenocarcinoma debris and necrosis",
+      "LYM": "lymphoid aggregate",
+      "MUC": "mucin",
+      "MUS": "muscularis mucosa",
+      "NORM": "uninvolved colon mucosa",
+      "STR": "cancer-associated stroma",
+      "TUM": "adenocarcinoma"
+    },
+    "templates": "an H&E image showing CLASSNAME."
+  },
+  "55": {
+    "classnames": {
+      "ADI": "adipocytes",
+      "BACK": "background artifacts",
+      "DEB": "necrotic debris",
+      "LYM": "immune cells",
+      "MUC": "mucus",
+      "MUS": "muscularis propria",
+      "NORM": "benign epithelium",
+      "STR": "cancer-associated stroma",
+      "TUM": "malignant epithelium"
+    },
+    "templates": "presence of CLASSNAME."
+  },
+  "56": {
+    "classnames": {
+      "ADI": "adipose tissue",
+      "BACK": "penmarking",
+      "DEB": "colorectal adenocarcinoma debris and necrosis",
+      "LYM": "immune cells",
+      "MUC": "mucus pool",
+      "MUS": "muscularis propria",
+      "NORM": "uninvolved colon mucosa",
+      "STR": "tumor-associated stroma",
+      "TUM": "colorectal adenocarcinoma epithelium"
+    },
+    "templates": "an image of CLASSNAME."
+  },
+  "57": {
+    "classnames": {
+      "ADI": "fat",
+      "BACK": "background",
+      "DEB": "debris",
+      "LYM": "lymphoid aggregate",
+      "MUC": "mucin pool",
+      "MUS": "muscularis propria",
+      "NORM": "uninvolved colon mucosa",
+      "STR": "stromal tissue",
+      "TUM": "colorectal adenocarcinoma epithelium"
+    },
+    "templates": "shows CLASSNAME."
+  },
+  "58": {
+    "classnames": {
+      "ADI": "fat cells",
+      "BACK": "background",
+      "DEB": "necrotic debris",
+      "LYM": "lymphoid aggregate",
+      "MUC": "mucus pool",
+      "MUS": "muscularis propria",
+      "NORM": "benign epithelium",
+      "STR": "stroma",
+      "TUM": "malignant epithelium"
+    },
+    "templates": "a histopathological photograph showing CLASSNAME."
+  },
+  "59": {
+    "classnames": {
+      "ADI": "fat cells",
+      "BACK": "background",
+      "DEB": "necrotic debris",
+      "LYM": "lymphoid aggregate",
+      "MUC": "mucus",
+      "MUS": "smooth muscle tissue",
+      "NORM": "uninvolved colon mucosa",
+      "STR": "tumor-associated stroma",
+      "TUM": "colorectal adenocarcinoma"
+    },
+    "templates": "CLASSNAME."
+  },
+  "60": {
+    "classnames": {
+      "ADI": "adipose",
+      "BACK": "empty space",
+      "DEB": "debris",
+      "LYM": "inflammatory cells",
+      "MUC": "mucus pool",
+      "MUS": "muscle",
+      "NORM": "normal colon mucosa",
+      "STR": "tumor-associated stroma",
+      "TUM": "malignant epithelium"
+    },
+    "templates": "an H&E stained image of CLASSNAME."
+  },
+  "61": {
+    "classnames": {
+      "ADI": "fat",
+      "BACK": "empty space",
+      "DEB": "colorectal adenocarcinoma debris and necrosis",
+      "LYM": "lymphoid aggregate",
+      "MUC": "mucus",
+      "MUS": "muscularis propria",
+      "NORM": "benign epithelium",
+      "STR": "tumor-associated stroma",
+      "TUM": "tumor"
+    },
+    "templates": "an H&E image showing CLASSNAME."
+  },
+  "62": {
+    "classnames": {
+      "ADI": "adipose tissue",
+      "BACK": "empty space",
+      "DEB": "necrotic debris",
+      "LYM": "lymphoid aggregate",
+      "MUC": "mucus pool",
+      "MUS": "muscle",
+      "NORM": "uninvolved colon mucosa",
+      "STR": "stromal cells",
+      "TUM": "colorectal adenocarcinoma epithelium"
+    },
+    "templates": "an image of CLASSNAME."
+  },
+  "63": {
+    "classnames": {
+      "ADI": "adipose",
+      "BACK": "background artifacts",
+      "DEB": "necrotic debris",
+      "LYM": "immune cells",
+      "MUC": "mucus pool",
+      "MUS": "smooth muscle tissue",
+      "NORM": "normal colon mucosa",
+      "STR": "stroma",
+      "TUM": "adenocarcinoma"
+    },
+    "templates": "a histopathological image showing CLASSNAME."
+  },
+  "64": {
+    "classnames": {
+      "ADI": "fat cells",
+      "BACK": "background",
+      "DEB": "debris",
+      "LYM": "immune cells",
+      "MUC": "mucus pool",
+      "MUS": "muscularis mucosa",
+      "NORM": "normal colon mucosa",
+      "STR": "cancer-associated stroma",
+      "TUM": "malignant epithelium"
+    },
+    "templates": "a photomicrograph of CLASSNAME."
+  },
+  "65": {
+    "classnames": {
+      "ADI": "fat",
+      "BACK": "background",
+      "DEB": "colorectal adenocarcinoma debris and necrosis",
+      "LYM": "lymphocytes",
+      "MUC": "mucus pool",
+      "MUS": "muscularis mucosa",
+      "NORM": "uninvolved colon mucosa",
+      "STR": "stromal cells",
+      "TUM": "malignant epithelium"
+    },
+    "templates": "CLASSNAME is present."
+  },
+  "66": {
+    "classnames": {
+      "ADI": "adipose tissue",
+      "BACK": "background artifacts",
+      "DEB": "colorectal adenocarcinoma debris and necrosis",
+      "LYM": "lymphocytes",
+      "MUC": "mucus",
+      "MUS": "smooth muscle tissue",
+      "NORM": "uninvolved colon mucosa",
+      "STR": "stroma",
+      "TUM": "malignant epithelium"
+    },
+    "templates": "CLASSNAME, H&E stain."
+  },
+  "67": {
+    "classnames": {
+      "ADI": "adipocytes",
+      "BACK": "penmarking",
+      "DEB": "necrosis",
+      "LYM": "lymphocytes",
+      "MUC": "mucin pool",
+      "MUS": "muscularis propria",
+      "NORM": "benign colon mucosa",
+      "STR": "stromal cells",
+      "TUM": "malignant epithelium"
+    },
+    "templates": "an H&E image of CLASSNAME."
+  },
+  "68": {
+    "classnames": {
+      "ADI": "adipose tissue",
+      "BACK": "background",
+      "DEB": "necrosis",
+      "LYM": "immune cells",
+      "MUC": "mucin pool",
+      "MUS": "muscularis propria",
+      "NORM": "benign epithelium",
+      "STR": "stromal tissue",
+      "TUM": "tumor"
+    },
+    "templates": "an image showing CLASSNAME."
+  },
+  "69": {
+    "classnames": {
+      "ADI": "fat",
+      "BACK": "background",
+      "DEB": "debris",
+      "LYM": "immune cells",
+      "MUC": "mucin",
+      "MUS": "muscle",
+      "NORM": "benign epithelium",
+      "STR": "cancer-associated stroma",
+      "TUM": "tumor"
+    },
+    "templates": "CLASSNAME is present."
+  },
+  "70": {
+    "classnames": {
+      "ADI": "fat cells",
+      "BACK": "empty space",
+      "DEB": "debris",
+      "LYM": "immune cells",
+      "MUC": "mucin pool",
+      "MUS": "smooth muscle",
+      "NORM": "benign epithelium",
+      "STR": "stromal cells",
+      "TUM": "adenocarcinoma"
+    },
+    "templates": "CLASSNAME, H&E stain."
+  },
+  "71": {
+    "classnames": {
+      "ADI": "adipose",
+      "BACK": "empty space",
+      "DEB": "debris",
+      "LYM": "inflammatory cells",
+      "MUC": "mucus",
+      "MUS": "smooth muscle tissue",
+      "NORM": "normal colon mucosa",
+      "STR": "tumor-associated stroma",
+      "TUM": "adenocarcinoma"
+    },
+    "templates": "CLASSNAME, H&E stain."
+  },
+  "72": {
+    "classnames": {
+      "ADI": "adipocytes",
+      "BACK": "background",
+      "DEB": "necrosis",
+      "LYM": "inflammatory cells",
+      "MUC": "mucin",
+      "MUS": "smooth muscle",
+      "NORM": "normal colon mucosa",
+      "STR": "stromal cells",
+      "TUM": "adenocarcinoma"
+    },
+    "templates": "a histopathological photograph of CLASSNAME."
+  },
+  "73": {
+    "classnames": {
+      "ADI": "adipose tissue",
+      "BACK": "background",
+      "DEB": "necrosis",
+      "LYM": "lymphocytes",
+      "MUC": "mucin pool",
+      "MUS": "muscularis propria",
+      "NORM": "benign colon mucosa",
+      "STR": "tumor-associated stroma",
+      "TUM": "colorectal adenocarcinoma epithelium"
+    },
+    "templates": "an H&E image showing CLASSNAME."
+  },
+  "74": {
+    "classnames": {
+      "ADI": "adipose tissue",
+      "BACK": "empty space",
+      "DEB": "necrosis",
+      "LYM": "lymphoid aggregate",
+      "MUC": "mucus",
+      "MUS": "muscularis propria",
+      "NORM": "benign epithelium",
+      "STR": "stromal tissue",
+      "TUM": "colorectal adenocarcinoma"
+    },
+    "templates": "this is CLASSNAME."
+  },
+  "75": {
+    "classnames": {
+      "ADI": "adipocytes",
+      "BACK": "background",
+      "DEB": "colorectal adenocarcinoma debris and necrosis",
+      "LYM": "lymphoid aggregate",
+      "MUC": "mucus",
+      "MUS": "muscularis propria",
+      "NORM": "benign colon mucosa",
+      "STR": "stromal tissue",
+      "TUM": "colorectal adenocarcinoma"
+    },
+    "templates": "an H&E stained image of CLASSNAME."
+  },
+  "76": {
+    "classnames": {
+      "ADI": "fat cells",
+      "BACK": "background",
+      "DEB": "necrotic debris",
+      "LYM": "lymphocytes",
+      "MUC": "mucin pool",
+      "MUS": "smooth muscle tissue",
+      "NORM": "benign colon mucosa",
+      "STR": "tumor-associated stroma",
+      "TUM": "colorectal adenocarcinoma epithelium"
+    },
+    "templates": "CLASSNAME, H&E stain."
+  },
+  "77": {
+    "classnames": {
+      "ADI": "adipose tissue",
+      "BACK": "background artifacts",
+      "DEB": "debris",
+      "LYM": "inflammatory cells",
+      "MUC": "mucin",
+      "MUS": "muscle",
+      "NORM": "uninvolved colon mucosa",
+      "STR": "cancer-associated stroma",
+      "TUM": "colorectal adenocarcinoma"
+    },
+    "templates": "CLASSNAME."
+  },
+  "78": {
+    "classnames": {
+      "ADI": "fat cells",
+      "BACK": "background artifacts",
+      "DEB": "necrotic debris",
+      "LYM": "lymphoid aggregate",
+      "MUC": "mucin pool",
+      "MUS": "muscularis mucosa",
+      "NORM": "normal colon mucosa",
+      "STR": "stroma",
+      "TUM": "colorectal adenocarcinoma"
+    },
+    "templates": "an image showing CLASSNAME."
+  },
+  "79": {
+    "classnames": {
+      "ADI": "adipocytes",
+      "BACK": "penmarking",
+      "DEB": "colorectal adenocarcinoma debris and necrosis",
+      "LYM": "lymphocytes",
+      "MUC": "mucin pool",
+      "MUS": "smooth muscle tissue",
+      "NORM": "benign epithelium",
+      "STR": "stromal cells",
+      "TUM": "adenocarcinoma"
+    },
+    "templates": "a histopathological image showing CLASSNAME."
+  },
+  "80": {
+    "classnames": {
+      "ADI": "fat",
+      "BACK": "background",
+      "DEB": "debris",
+      "LYM": "inflammatory cells",
+      "MUC": "mucus pool",
+      "MUS": "muscularis propria",
+      "NORM": "uninvolved colon mucosa",
+      "STR": "stromal tissue",
+      "TUM": "colorectal adenocarcinoma"
+    },
+    "templates": "a histopathological photograph of CLASSNAME."
+  },
+  "81": {
+    "classnames": {
+      "ADI": "adipocytes",
+      "BACK": "background artifacts",
+      "DEB": "debris",
+      "LYM": "inflammatory cells",
+      "MUC": "mucus pool",
+      "MUS": "smooth muscle",
+      "NORM": "benign colon mucosa",
+      "STR": "stromal tissue",
+      "TUM": "adenocarcinoma"
+    },
+    "templates": "CLASSNAME, H&E."
+  },
+  "82": {
+    "classnames": {
+      "ADI": "adipocytes",
+      "BACK": "empty space",
+      "DEB": "necrosis",
+      "LYM": "lymphocytes",
+      "MUC": "mucus pool",
+      "MUS": "muscularis propria",
+      "NORM": "uninvolved colon mucosa",
+      "STR": "stroma",
+      "TUM": "malignant epithelium"
+    },
+    "templates": "an image of CLASSNAME."
+  },
+  "83": {
+    "classnames": {
+      "ADI": "fat cells",
+      "BACK": "empty space",
+      "DEB": "necrotic debris",
+      "LYM": "lymphocytes",
+      "MUC": "mucus",
+      "MUS": "smooth muscle",
+      "NORM": "normal colon mucosa",
+      "STR": "stroma",
+      "TUM": "colorectal adenocarcinoma epithelium"
+    },
+    "templates": "shows CLASSNAME."
+  },
+  "84": {
+    "classnames": {
+      "ADI": "adipose tissue",
+      "BACK": "penmarking",
+      "DEB": "colorectal adenocarcinoma debris and necrosis",
+      "LYM": "lymphoid infiltrate",
+      "MUC": "mucus pool",
+      "MUS": "muscularis propria",
+      "NORM": "uninvolved colon mucosa",
+      "STR": "stromal tissue",
+      "TUM": "colorectal adenocarcinoma epithelium"
+    },
+    "templates": "CLASSNAME."
+  },
+  "85": {
+    "classnames": {
+      "ADI": "adipocytes",
+      "BACK": "background",
+      "DEB": "debris",
+      "LYM": "immune cells",
+      "MUC": "mucus",
+      "MUS": "muscularis mucosa",
+      "NORM": "normal colon mucosa",
+      "STR": "stromal tissue",
+      "TUM": "tumor"
+    },
+    "templates": "a photomicrograph showing CLASSNAME."
+  },
+  "86": {
+    "classnames": {
+      "ADI": "fat cells",
+      "BACK": "penmarking",
+      "DEB": "necrosis",
+      "LYM": "lymphoid infiltrate",
+      "MUC": "mucus pool",
+      "MUS": "muscle",
+      "NORM": "benign epithelium",
+      "STR": "cancer-associated stroma",
+      "TUM": "malignant epithelium"
+    },
+    "templates": "this is CLASSNAME."
+  },
+  "87": {
+    "classnames": {
+      "ADI": "fat cells",
+      "BACK": "background artifacts",
+      "DEB": "necrotic debris",
+      "LYM": "immune cells",
+      "MUC": "mucus",
+      "MUS": "muscle",
+      "NORM": "benign epithelium",
+      "STR": "cancer-associated stroma",
+      "TUM": "colorectal adenocarcinoma"
+    },
+    "templates": "an H&E image showing CLASSNAME."
+  },
+  "88": {
+    "classnames": {
+      "ADI": "adipose",
+      "BACK": "background artifacts",
+      "DEB": "colorectal adenocarcinoma debris and necrosis",
+      "LYM": "inflammatory cells",
+      "MUC": "mucin",
+      "MUS": "smooth muscle",
+      "NORM": "uninvolved colon mucosa",
+      "STR": "stroma",
+      "TUM": "tumor"
+    },
+    "templates": "an H&E stained image showing CLASSNAME."
+  },
+  "89": {
+    "classnames": {
+      "ADI": "adipose tissue",
+      "BACK": "background",
+      "DEB": "necrosis",
+      "LYM": "lymphoid infiltrate",
+      "MUC": "mucus",
+      "MUS": "muscularis mucosa",
+      "NORM": "uninvolved colon mucosa",
+      "STR": "stromal cells",
+      "TUM": "colorectal adenocarcinoma"
+    },
+    "templates": "there is CLASSNAME."
+  },
+  "90": {
+    "classnames": {
+      "ADI": "adipocytes",
+      "BACK": "empty space",
+      "DEB": "necrosis",
+      "LYM": "lymphocytes",
+      "MUC": "mucin pool",
+      "MUS": "smooth muscle",
+      "NORM": "uninvolved colon mucosa",
+      "STR": "stromal tissue",
+      "TUM": "tumor"
+    },
+    "templates": "a histopathological image of CLASSNAME."
+  },
+  "91": {
+    "classnames": {
+      "ADI": "fat cells",
+      "BACK": "background",
+      "DEB": "colorectal adenocarcinoma debris and necrosis",
+      "LYM": "immune cells",
+      "MUC": "mucus pool",
+      "MUS": "muscularis mucosa",
+      "NORM": "benign epithelium",
+      "STR": "stroma",
+      "TUM": "adenocarcinoma"
+    },
+    "templates": "an H&E image showing CLASSNAME."
+  },
+  "92": {
+    "classnames": {
+      "ADI": "fat cells",
+      "BACK": "empty space",
+      "DEB": "debris",
+      "LYM": "inflammatory cells",
+      "MUC": "mucus pool",
+      "MUS": "smooth muscle tissue",
+      "NORM": "benign epithelium",
+      "STR": "tumor-associated stroma",
+      "TUM": "colorectal adenocarcinoma"
+    },
+    "templates": "CLASSNAME."
+  },
+  "93": {
+    "classnames": {
+      "ADI": "fat",
+      "BACK": "empty space",
+      "DEB": "necrotic debris",
+      "LYM": "lymphoid infiltrate",
+      "MUC": "mucin pool",
+      "MUS": "muscle",
+      "NORM": "benign epithelium",
+      "STR": "tumor-associated stroma",
+      "TUM": "adenocarcinoma"
+    },
+    "templates": "an H&E image showing CLASSNAME."
+  },
+  "94": {
+    "classnames": {
+      "ADI": "fat",
+      "BACK": "background artifacts",
+      "DEB": "colorectal adenocarcinoma debris and necrosis",
+      "LYM": "lymphoid infiltrate",
+      "MUC": "mucin",
+      "MUS": "smooth muscle tissue",
+      "NORM": "benign epithelium",
+      "STR": "tumor-associated stroma",
+      "TUM": "colorectal adenocarcinoma"
+    },
+    "templates": "presence of CLASSNAME."
+  },
+  "95": {
+    "classnames": {
+      "ADI": "adipocytes",
+      "BACK": "background",
+      "DEB": "necrosis",
+      "LYM": "lymphoid infiltrate",
+      "MUC": "mucin pool",
+      "MUS": "muscularis propria",
+      "NORM": "benign epithelium",
+      "STR": "stromal tissue",
+      "TUM": "malignant epithelium"
+    },
+    "templates": "a histopathological image showing CLASSNAME."
+  },
+  "96": {
+    "classnames": {
+      "ADI": "adipose tissue",
+      "BACK": "background artifacts",
+      "DEB": "necrotic debris",
+      "LYM": "lymphoid infiltrate",
+      "MUC": "mucin pool",
+      "MUS": "muscle",
+      "NORM": "normal colon mucosa",
+      "STR": "stroma",
+      "TUM": "tumor"
+    },
+    "templates": "a histopathological photograph of CLASSNAME."
+  },
+  "97": {
+    "classnames": {
+      "ADI": "fat cells",
+      "BACK": "background artifacts",
+      "DEB": "colorectal adenocarcinoma debris and necrosis",
+      "LYM": "immune cells",
+      "MUC": "mucin",
+      "MUS": "smooth muscle",
+      "NORM": "uninvolved colon mucosa",
+      "STR": "stromal tissue",
+      "TUM": "tumor"
+    },
+    "templates": "an image of CLASSNAME."
+  },
+  "98": {
+    "classnames": {
+      "ADI": "fat",
+      "BACK": "background",
+      "DEB": "necrosis",
+      "LYM": "lymphoid infiltrate",
+      "MUC": "mucus",
+      "MUS": "muscularis mucosa",
+      "NORM": "benign colon mucosa",
+      "STR": "tumor-associated stroma",
+      "TUM": "colorectal adenocarcinoma epithelium"
+    },
+    "templates": "this is CLASSNAME."
+  },
+  "99": {
+    "classnames": {
+      "ADI": "fat",
+      "BACK": "penmarking",
+      "DEB": "necrotic debris",
+      "LYM": "lymphocytes",
+      "MUC": "mucin pool",
+      "MUS": "muscle",
+      "NORM": "normal colon mucosa",
+      "STR": "stroma",
+      "TUM": "colorectal adenocarcinoma"
+    },
+    "templates": "a histopathological photograph showing CLASSNAME."
+  }
+}

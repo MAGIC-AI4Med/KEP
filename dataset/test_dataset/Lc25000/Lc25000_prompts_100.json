@@ -1,0 +1,1002 @@
+{
+  "0": {
+    "classnames": {
+      "lung_aca": "adenocarcinoma of the lung",
+      "lung_n": "benign lung",
+      "lung_scc": "squamous-cell carcinoma of the lung",
+      "colon_aca": "adenocarcinoma of the colon",
+      "colon_n": "non-malignant colon tissue"
+    },
+    "templates": "a photomicrograph of CLASSNAME."
+  },
+  "1": {
+    "classnames": {
+      "lung_aca": "lung adenocarcinoma",
+      "lung_n": "non-malignant lung tissue",
+      "lung_scc": "squamous cell lung cancer",
+      "colon_aca": "adenocarcinoma of the colon",
+      "colon_n": "benign colon"
+    },
+    "templates": "a histopathological photograph of CLASSNAME."
+  },
+  "2": {
+    "classnames": {
+      "lung_aca": "adenocarcinoma of the lung",
+      "lung_n": "benign lung tissues",
+      "lung_scc": "lung squamous cell carcinoma",
+      "colon_aca": "colon adenocarcinoma",
+      "colon_n": "benign colon"
+    },
+    "templates": "a histopathological photograph of CLASSNAME."
+  },
+  "3": {
+    "classnames": {
+      "lung_aca": "lung adenocarcinoma",
+      "lung_n": "benign lung tissues",
+      "lung_scc": "lung squamous cell carcinoma",
+      "colon_aca": "colon cancer, adenocarcinoma",
+      "colon_n": "benign colon"
+    },
+    "templates": "an H&E stained image showing CLASSNAME."
+  },
+  "4": {
+    "classnames": {
+      "lung_aca": "lung cancer, adenocarcinoma",
+      "lung_n": "benign lung",
+      "lung_scc": "lung squamous cell carcinoma",
+      "colon_aca": "colon adenocarcinoma",
+      "colon_n": "benign colonic tissue"
+    },
+    "templates": "an H&E image of CLASSNAME."
+  },
+  "5": {
+    "classnames": {
+      "lung_aca": "lung cancer, adenocarcinoma",
+      "lung_n": "benign lung tissues",
+      "lung_scc": "lung squamous cell carcinoma",
+      "colon_aca": "colon cancer, adenocarcinoma",
+      "colon_n": "benign colonic tissue"
+    },
+    "templates": "a histopathological image showing CLASSNAME."
+  },
+  "6": {
+    "classnames": {
+      "lung_aca": "lung cancer, adenocarcinoma",
+      "lung_n": "benign lung",
+      "lung_scc": "lung squamous cell carcinoma",
+      "colon_aca": "colon cancer, adenocarcinoma",
+      "colon_n": "non-malignant colon tissue"
+    },
+    "templates": "CLASSNAME is shown."
+  },
+  "7": {
+    "classnames": {
+      "lung_aca": "lung cancer, adenocarcinoma",
+      "lung_n": "benign lung tissues",
+      "lung_scc": "lung squamous cell carcinoma",
+      "colon_aca": "colon cancer, adenocarcinoma",
+      "colon_n": "non-malignant colon tissue"
+    },
+    "templates": "CLASSNAME is present."
+  },
+  "8": {
+    "classnames": {
+      "lung_aca": "adenocarcinoma of the lung",
+      "lung_n": "benign lung tissues",
+      "lung_scc": "lung squamous cell carcinoma",
+      "colon_aca": "colon cancer, adenocarcinoma",
+      "colon_n": "benign colon"
+    },
+    "templates": "an example of CLASSNAME."
+  },
+  "9": {
+    "classnames": {
+      "lung_aca": "lung adenocarcinoma",
+      "lung_n": "benign lung",
+      "lung_scc": "squamous-cell carcinoma of the lung",
+      "colon_aca": "adenocarcinoma of the colon",
+      "colon_n": "non-malignant colon tissue"
+    },
+    "templates": "presence of CLASSNAME."
+  },
+  "10": {
+    "classnames": {
+      "lung_aca": "adenocarcinoma of the lung",
+      "lung_n": "benign lung tissues",
+      "lung_scc": "squamous cell lung cancer",
+      "colon_aca": "colon adenocarcinoma",
+      "colon_n": "benign colonic tissue"
+    },
+    "templates": "a photomicrograph of CLASSNAME."
+  },
+  "11": {
+    "classnames": {
+      "lung_aca": "adenocarcinoma of the lung",
+      "lung_n": "benign lung tissues",
+      "lung_scc": "squamous-cell carcinoma of the lung",
+      "colon_aca": "colon adenocarcinoma",
+      "colon_n": "benign colon"
+    },
+    "templates": "an H&E image of CLASSNAME."
+  },
+  "12": {
+    "classnames": {
+      "lung_aca": "lung cancer, adenocarcinoma",
+      "lung_n": "non-malignant lung tissue",
+      "lung_scc": "lung squamous cell carcinoma",
+      "colon_aca": "colon cancer, adenocarcinoma",
+      "colon_n": "benign colonic tissue"
+    },
+    "templates": "an H&E stained image showing CLASSNAME."
+  },
+  "13": {
+    "classnames": {
+      "lung_aca": "lung cancer, adenocarcinoma",
+      "lung_n": "benign lung tissues",
+      "lung_scc": "lung squamous cell carcinoma",
+      "colon_aca": "adenocarcinoma of the colon",
+      "colon_n": "benign colonic tissue"
+    },
+    "templates": "CLASSNAME."
+  },
+  "14": {
+    "classnames": {
+      "lung_aca": "lung adenocarcinoma",
+      "lung_n": "benign lung",
+      "lung_scc": "lung squamous cell carcinoma",
+      "colon_aca": "colon adenocarcinoma",
+      "colon_n": "benign colonic tissue"
+    },
+    "templates": "a histopathological photograph of CLASSNAME."
+  },
+  "15": {
+    "classnames": {
+      "lung_aca": "lung adenocarcinoma",
+      "lung_n": "non-malignant lung tissue",
+      "lung_scc": "squamous cell lung cancer",
+      "colon_aca": "colon cancer, adenocarcinoma",
+      "colon_n": "benign colonic tissue"
+    },
+    "templates": "there is CLASSNAME."
+  },
+  "16": {
+    "classnames": {
+      "lung_aca": "adenocarcinoma of the lung",
+      "lung_n": "benign lung",
+      "lung_scc": "lung squamous cell carcinoma",
+      "colon_aca": "colon cancer, adenocarcinoma",
+      "colon_n": "benign colonic tissue"
+    },
+    "templates": "a histopathological image of CLASSNAME."
+  },
+  "17": {
+    "classnames": {
+      "lung_aca": "lung adenocarcinoma",
+      "lung_n": "benign lung tissues",
+      "lung_scc": "squamous cell lung cancer",
+      "colon_aca": "colon cancer, adenocarcinoma",
+      "colon_n": "benign colon"
+    },
+    "templates": "an H&E stained image showing CLASSNAME."
+  },
+  "18": {
+    "classnames": {
+      "lung_aca": "lung cancer, adenocarcinoma",
+      "lung_n": "benign lung tissues",
+      "lung_scc": "squamous-cell carcinoma of the lung",
+      "colon_aca": "colon cancer, adenocarcinoma",
+      "colon_n": "benign colon"
+    },
+    "templates": "CLASSNAME, H&E stain."
+  },
+  "19": {
+    "classnames": {
+      "lung_aca": "adenocarcinoma of the lung",
+      "lung_n": "benign lung tissues",
+      "lung_scc": "lung squamous cell carcinoma",
+      "colon_aca": "colon cancer, adenocarcinoma",
+      "colon_n": "benign colon"
+    },
+    "templates": "CLASSNAME is shown."
+  },
+  "20": {
+    "classnames": {
+      "lung_aca": "lung adenocarcinoma",
+      "lung_n": "benign lung tissues",
+      "lung_scc": "lung squamous cell carcinoma",
+      "colon_aca": "colon adenocarcinoma",
+      "colon_n": "non-malignant colon tissue"
+    },
+    "templates": "an image showing CLASSNAME."
+  },
+  "21": {
+    "classnames": {
+      "lung_aca": "lung cancer, adenocarcinoma",
+      "lung_n": "benign lung",
+      "lung_scc": "lung squamous cell carcinoma",
+      "colon_aca": "colon adenocarcinoma",
+      "colon_n": "non-malignant colon tissue"
+    },
+    "templates": "this is CLASSNAME."
+  },
+  "22": {
+    "classnames": {
+      "lung_aca": "lung cancer, adenocarcinoma",
+      "lung_n": "benign lung",
+      "lung_scc": "squamous cell lung cancer",
+      "colon_aca": "adenocarcinoma of the colon",
+      "colon_n": "benign colon"
+    },
+    "templates": "a photomicrograph of CLASSNAME."
+  },
+  "23": {
+    "classnames": {
+      "lung_aca": "adenocarcinoma of the lung",
+      "lung_n": "benign lung",
+      "lung_scc": "squamous cell lung cancer",
+      "colon_aca": "colon cancer, adenocarcinoma",
+      "colon_n": "benign colon"
+    },
+    "templates": "CLASSNAME."
+  },
+  "24": {
+    "classnames": {
+      "lung_aca": "adenocarcinoma of the lung",
+      "lung_n": "non-malignant lung tissue",
+      "lung_scc": "lung squamous cell carcinoma",
+      "colon_aca": "adenocarcinoma of the colon",
+      "colon_n": "benign colonic tissue"
+    },
+    "templates": "CLASSNAME is shown."
+  },
+  "25": {
+    "classnames": {
+      "lung_aca": "lung cancer, adenocarcinoma",
+      "lung_n": "benign lung tissues",
+      "lung_scc": "lung squamous cell carcinoma",
+      "colon_aca": "adenocarcinoma of the colon",
+      "colon_n": "non-malignant colon tissue"
+    },
+    "templates": "an image of CLASSNAME."
+  },
+  "26": {
+    "classnames": {
+      "lung_aca": "lung adenocarcinoma",
+      "lung_n": "benign lung tissues",
+      "lung_scc": "squamous-cell carcinoma of the lung",
+      "colon_aca": "colon cancer, adenocarcinoma",
+      "colon_n": "benign colon"
+    },
+    "templates": "CLASSNAME is shown."
+  },
+  "27": {
+    "classnames": {
+      "lung_aca": "lung adenocarcinoma",
+      "lung_n": "benign lung tissues",
+      "lung_scc": "lung squamous cell carcinoma",
+      "colon_aca": "colon cancer, adenocarcinoma",
+      "colon_n": "benign colon"
+    },
+    "templates": "this is CLASSNAME."
+  },
+  "28": {
+    "classnames": {
+      "lung_aca": "lung cancer, adenocarcinoma",
+      "lung_n": "benign lung",
+      "lung_scc": "squamous-cell carcinoma of the lung",
+      "colon_aca": "adenocarcinoma of the colon",
+      "colon_n": "non-malignant colon tissue"
+    },
+    "templates": "shows CLASSNAME."
+  },
+  "29": {
+    "classnames": {
+      "lung_aca": "adenocarcinoma of the lung",
+      "lung_n": "benign lung",
+      "lung_scc": "squamous-cell carcinoma of the lung",
+      "colon_aca": "adenocarcinoma of the colon",
+      "colon_n": "benign colon"
+    },
+    "templates": "a histopathological image of CLASSNAME."
+  },
+  "30": {
+    "classnames": {
+      "lung_aca": "lung cancer, adenocarcinoma",
+      "lung_n": "benign lung",
+      "lung_scc": "squamous cell lung cancer",
+      "colon_aca": "colon cancer, adenocarcinoma",
+      "colon_n": "benign colon"
+    },
+    "templates": "shows CLASSNAME."
+  },
+  "31": {
+    "classnames": {
+      "lung_aca": "lung cancer, adenocarcinoma",
+      "lung_n": "non-malignant lung tissue",
+      "lung_scc": "lung squamous cell carcinoma",
+      "colon_aca": "colon adenocarcinoma",
+      "colon_n": "non-malignant colon tissue"
+    },
+    "templates": "an H&E image of CLASSNAME."
+  },
+  "32": {
+    "classnames": {
+      "lung_aca": "lung adenocarcinoma",
+      "lung_n": "benign lung tissues",
+      "lung_scc": "squamous-cell carcinoma of the lung",
+      "colon_aca": "colon cancer, adenocarcinoma",
+      "colon_n": "non-malignant colon tissue"
+    },
+    "templates": "an H&E image showing CLASSNAME."
+  },
+  "33": {
+    "classnames": {
+      "lung_aca": "lung cancer, adenocarcinoma",
+      "lung_n": "benign lung",
+      "lung_scc": "lung squamous cell carcinoma",
+      "colon_aca": "colon cancer, adenocarcinoma",
+      "colon_n": "benign colon"
+    },
+    "templates": "this is CLASSNAME."
+  },
+  "34": {
+    "classnames": {
+      "lung_aca": "lung cancer, adenocarcinoma",
+      "lung_n": "non-malignant lung tissue",
+      "lung_scc": "squamous cell lung cancer",
+      "colon_aca": "adenocarcinoma of the colon",
+      "colon_n": "benign colonic tissue"
+    },
+    "templates": "a photomicrograph of CLASSNAME."
+  },
+  "35": {
+    "classnames": {
+      "lung_aca": "lung cancer, adenocarcinoma",
+      "lung_n": "non-malignant lung tissue",
+      "lung_scc": "squamous-cell carcinoma of the lung",
+      "colon_aca": "colon adenocarcinoma",
+      "colon_n": "benign colon"
+    },
+    "templates": "presence of CLASSNAME."
+  },
+  "36": {
+    "classnames": {
+      "lung_aca": "lung cancer, adenocarcinoma",
+      "lung_n": "benign lung tissues",
+      "lung_scc": "squamous cell lung cancer",
+      "colon_aca": "colon cancer, adenocarcinoma",
+      "colon_n": "benign colonic tissue"
+    },
+    "templates": "CLASSNAME."
+  },
+  "37": {
+    "classnames": {
+      "lung_aca": "lung cancer, adenocarcinoma",
+      "lung_n": "benign lung",
+      "lung_scc": "lung squamous cell carcinoma",
+      "colon_aca": "colon adenocarcinoma",
+      "colon_n": "benign colon"
+    },
+    "templates": "a histopathological photograph showing CLASSNAME."
+  },
+  "38": {
+    "classnames": {
+      "lung_aca": "adenocarcinoma of the lung",
+      "lung_n": "non-malignant lung tissue",
+      "lung_scc": "squamous-cell carcinoma of the lung",
+      "colon_aca": "adenocarcinoma of the colon",
+      "colon_n": "non-malignant colon tissue"
+    },
+    "templates": "an H&E stained image showing CLASSNAME."
+  },
+  "39": {
+    "classnames": {
+      "lung_aca": "lung cancer, adenocarcinoma",
+      "lung_n": "non-malignant lung tissue",
+      "lung_scc": "squamous-cell carcinoma of the lung",
+      "colon_aca": "colon cancer, adenocarcinoma",
+      "colon_n": "non-malignant colon tissue"
+    },
+    "templates": "an H&E image showing CLASSNAME."
+  },
+  "40": {
+    "classnames": {
+      "lung_aca": "lung adenocarcinoma",
+      "lung_n": "benign lung tissues",
+      "lung_scc": "squamous cell lung cancer",
+      "colon_aca": "colon cancer, adenocarcinoma",
+      "colon_n": "benign colonic tissue"
+    },
+    "templates": "CLASSNAME is present."
+  },
+  "41": {
+    "classnames": {
+      "lung_aca": "lung cancer, adenocarcinoma",
+      "lung_n": "non-malignant lung tissue",
+      "lung_scc": "squamous-cell carcinoma of the lung",
+      "colon_aca": "adenocarcinoma of the colon",
+      "colon_n": "benign colonic tissue"
+    },
+    "templates": "an H&E image of CLASSNAME."
+  },
+  "42": {
+    "classnames": {
+      "lung_aca": "lung adenocarcinoma",
+      "lung_n": "benign lung",
+      "lung_scc": "lung squamous cell carcinoma",
+      "colon_aca": "adenocarcinoma of the colon",
+      "colon_n": "non-malignant colon tissue"
+    },
+    "templates": "presence of CLASSNAME."
+  },
+  "43": {
+    "classnames": {
+      "lung_aca": "lung cancer, adenocarcinoma",
+      "lung_n": "benign lung tissues",
+      "lung_scc": "lung squamous cell carcinoma",
+      "colon_aca": "colon adenocarcinoma",
+      "colon_n": "benign colonic tissue"
+    },
+    "templates": "an H&E stained image of CLASSNAME."
+  },
+  "44": {
+    "classnames": {
+      "lung_aca": "lung adenocarcinoma",
+      "lung_n": "benign lung",
+      "lung_scc": "squamous cell lung cancer",
+      "colon_aca": "colon adenocarcinoma",
+      "colon_n": "non-malignant colon tissue"
+    },
+    "templates": "there is CLASSNAME."
+  },
+  "45": {
+    "classnames": {
+      "lung_aca": "lung adenocarcinoma",
+      "lung_n": "non-malignant lung tissue",
+      "lung_scc": "squamous-cell carcinoma of the lung",
+      "colon_aca": "colon cancer, adenocarcinoma",
+      "colon_n": "non-malignant colon tissue"
+    },
+    "templates": "an H&E stained image showing CLASSNAME."
+  },
+  "46": {
+    "classnames": {
+      "lung_aca": "lung adenocarcinoma",
+      "lung_n": "benign lung tissues",
+      "lung_scc": "lung squamous cell carcinoma",
+      "colon_aca": "colon adenocarcinoma",
+      "colon_n": "benign colon"
+    },
+    "templates": "presence of CLASSNAME."
+  },
+  "47": {
+    "classnames": {
+      "lung_aca": "adenocarcinoma of the lung",
+      "lung_n": "benign lung tissues",
+      "lung_scc": "squamous-cell carcinoma of the lung",
+      "colon_aca": "colon cancer, adenocarcinoma",
+      "colon_n": "benign colonic tissue"
+    },
+    "templates": "an H&E stained image of CLASSNAME."
+  },
+  "48": {
+    "classnames": {
+      "lung_aca": "lung adenocarcinoma",
+      "lung_n": "benign lung tissues",
+      "lung_scc": "lung squamous cell carcinoma",
+      "colon_aca": "colon adenocarcinoma",
+      "colon_n": "benign colonic tissue"
+    },
+    "templates": "CLASSNAME, H&E."
+  },
+  "49": {
+    "classnames": {
+      "lung_aca": "adenocarcinoma of the lung",
+      "lung_n": "non-malignant lung tissue",
+      "lung_scc": "squamous-cell carcinoma of the lung",
+      "colon_aca": "colon cancer, adenocarcinoma",
+      "colon_n": "benign colonic tissue"
+    },
+    "templates": "presence of CLASSNAME."
+  },
+  "50": {
+    "classnames": {
+      "lung_aca": "lung adenocarcinoma",
+      "lung_n": "benign lung tissues",
+      "lung_scc": "squamous cell lung cancer",
+      "colon_aca": "adenocarcinoma of the colon",
+      "colon_n": "non-malignant colon tissue"
+    },
+    "templates": "an image of CLASSNAME."
+  },
+  "51": {
+    "classnames": {
+      "lung_aca": "lung adenocarcinoma",
+      "lung_n": "non-malignant lung tissue",
+      "lung_scc": "squamous cell lung cancer",
+      "colon_aca": "colon cancer, adenocarcinoma",
+      "colon_n": "benign colonic tissue"
+    },
+    "templates": "there is CLASSNAME."
+  },
+  "52": {
+    "classnames": {
+      "lung_aca": "adenocarcinoma of the lung",
+      "lung_n": "benign lung tissues",
+      "lung_scc": "squamous cell lung cancer",
+      "colon_aca": "adenocarcinoma of the colon",
+      "colon_n": "benign colon"
+    },
+    "templates": "a histopathological photograph showing CLASSNAME."
+  },
+  "53": {
+    "classnames": {
+      "lung_aca": "lung adenocarcinoma",
+      "lung_n": "non-malignant lung tissue",
+      "lung_scc": "squamous-cell carcinoma of the lung",
+      "colon_aca": "adenocarcinoma of the colon",
+      "colon_n": "benign colonic tissue"
+    },
+    "templates": "an H&E stained image of CLASSNAME."
+  },
+  "54": {
+    "classnames": {
+      "lung_aca": "adenocarcinoma of the lung",
+      "lung_n": "non-malignant lung tissue",
+      "lung_scc": "squamous cell lung cancer",
+      "colon_aca": "adenocarcinoma of the colon",
+      "colon_n": "non-malignant colon tissue"
+    },
+    "templates": "a histopathological photograph showing CLASSNAME."
+  },
+  "55": {
+    "classnames": {
+      "lung_aca": "adenocarcinoma of the lung",
+      "lung_n": "non-malignant lung tissue",
+      "lung_scc": "squamous cell lung cancer",
+      "colon_aca": "colon adenocarcinoma",
+      "colon_n": "benign colonic tissue"
+    },
+    "templates": "a histopathological photograph showing CLASSNAME."
+  },
+  "56": {
+    "classnames": {
+      "lung_aca": "adenocarcinoma of the lung",
+      "lung_n": "non-malignant lung tissue",
+      "lung_scc": "squamous-cell carcinoma of the lung",
+      "colon_aca": "colon adenocarcinoma",
+      "colon_n": "benign colonic tissue"
+    },
+    "templates": "a photomicrograph of CLASSNAME."
+  },
+  "57": {
+    "classnames": {
+      "lung_aca": "lung adenocarcinoma",
+      "lung_n": "non-malignant lung tissue",
+      "lung_scc": "squamous cell lung cancer",
+      "colon_aca": "adenocarcinoma of the colon",
+      "colon_n": "non-malignant colon tissue"
+    },
+    "templates": "an H&E image of CLASSNAME."
+  },
+  "58": {
+    "classnames": {
+      "lung_aca": "lung cancer, adenocarcinoma",
+      "lung_n": "benign lung",
+      "lung_scc": "squamous-cell carcinoma of the lung",
+      "colon_aca": "adenocarcinoma of the colon",
+      "colon_n": "benign colonic tissue"
+    },
+    "templates": "this is CLASSNAME."
+  },
+  "59": {
+    "classnames": {
+      "lung_aca": "lung adenocarcinoma",
+      "lung_n": "benign lung",
+      "lung_scc": "squamous cell lung cancer",
+      "colon_aca": "colon cancer, adenocarcinoma",
+      "colon_n": "non-malignant colon tissue"
+    },
+    "templates": "this is CLASSNAME."
+  },
+  "60": {
+    "classnames": {
+      "lung_aca": "adenocarcinoma of the lung",
+      "lung_n": "benign lung tissues",
+      "lung_scc": "squamous-cell carcinoma of the lung",
+      "colon_aca": "colon cancer, adenocarcinoma",
+      "colon_n": "benign colon"
+    },
+    "templates": "a photomicrograph of CLASSNAME."
+  },
+  "61": {
+    "classnames": {
+      "lung_aca": "adenocarcinoma of the lung",
+      "lung_n": "non-malignant lung tissue",
+      "lung_scc": "squamous cell lung cancer",
+      "colon_aca": "adenocarcinoma of the colon",
+      "colon_n": "benign colonic tissue"
+    },
+    "templates": "CLASSNAME is shown."
+  },
+  "62": {
+    "classnames": {
+      "lung_aca": "adenocarcinoma of the lung",
+      "lung_n": "benign lung",
+      "lung_scc": "squamous cell lung cancer",
+      "colon_aca": "adenocarcinoma of the colon",
+      "colon_n": "non-malignant colon tissue"
+    },
+    "templates": "an H&E image showing CLASSNAME."
+  },
+  "63": {
+    "classnames": {
+      "lung_aca": "lung cancer, adenocarcinoma",
+      "lung_n": "non-malignant lung tissue",
+      "lung_scc": "squamous cell lung cancer",
+      "colon_aca": "adenocarcinoma of the colon",
+      "colon_n": "non-malignant colon tissue"
+    },
+    "templates": "a histopathological image showing CLASSNAME."
+  },
+  "64": {
+    "classnames": {
+      "lung_aca": "lung cancer, adenocarcinoma",
+      "lung_n": "benign lung tissues",
+      "lung_scc": "squamous-cell carcinoma of the lung",
+      "colon_aca": "colon cancer, adenocarcinoma",
+      "colon_n": "non-malignant colon tissue"
+    },
+    "templates": "a photomicrograph of CLASSNAME."
+  },
+  "65": {
+    "classnames": {
+      "lung_aca": "lung cancer, adenocarcinoma",
+      "lung_n": "non-malignant lung tissue",
+      "lung_scc": "squamous-cell carcinoma of the lung",
+      "colon_aca": "adenocarcinoma of the colon",
+      "colon_n": "non-malignant colon tissue"
+    },
+    "templates": "this is CLASSNAME."
+  },
+  "66": {
+    "classnames": {
+      "lung_aca": "lung cancer, adenocarcinoma",
+      "lung_n": "benign lung",
+      "lung_scc": "squamous cell lung cancer",
+      "colon_aca": "adenocarcinoma of the colon",
+      "colon_n": "benign colonic tissue"
+    },
+    "templates": "an image of CLASSNAME."
+  },
+  "67": {
+    "classnames": {
+      "lung_aca": "lung cancer, adenocarcinoma",
+      "lung_n": "benign lung",
+      "lung_scc": "squamous-cell carcinoma of the lung",
+      "colon_aca": "colon adenocarcinoma",
+      "colon_n": "non-malignant colon tissue"
+    },
+    "templates": "an H&E stained image of CLASSNAME."
+  },
+  "68": {
+    "classnames": {
+      "lung_aca": "adenocarcinoma of the lung",
+      "lung_n": "benign lung",
+      "lung_scc": "squamous-cell carcinoma of the lung",
+      "colon_aca": "adenocarcinoma of the colon",
+      "colon_n": "benign colon"
+    },
+    "templates": "an example of CLASSNAME."
+  },
+  "69": {
+    "classnames": {
+      "lung_aca": "adenocarcinoma of the lung",
+      "lung_n": "non-malignant lung tissue",
+      "lung_scc": "squamous cell lung cancer",
+      "colon_aca": "adenocarcinoma of the colon",
+      "colon_n": "benign colon"
+    },
+    "templates": "this is CLASSNAME."
+  },
+  "70": {
+    "classnames": {
+      "lung_aca": "lung cancer, adenocarcinoma",
+      "lung_n": "non-malignant lung tissue",
+      "lung_scc": "lung squamous cell carcinoma",
+      "colon_aca": "colon adenocarcinoma",
+      "colon_n": "non-malignant colon tissue"
+    },
+    "templates": "presence of CLASSNAME."
+  },
+  "71": {
+    "classnames": {
+      "lung_aca": "adenocarcinoma of the lung",
+      "lung_n": "benign lung tissues",
+      "lung_scc": "squamous-cell carcinoma of the lung",
+      "colon_aca": "colon cancer, adenocarcinoma",
+      "colon_n": "benign colon"
+    },
+    "templates": "CLASSNAME is shown."
+  },
+  "72": {
+    "classnames": {
+      "lung_aca": "adenocarcinoma of the lung",
+      "lung_n": "benign lung tissues",
+      "lung_scc": "squamous-cell carcinoma of the lung",
+      "colon_aca": "adenocarcinoma of the colon",
+      "colon_n": "benign colonic tissue"
+    },
+    "templates": "there is CLASSNAME."
+  },
+  "73": {
+    "classnames": {
+      "lung_aca": "lung adenocarcinoma",
+      "lung_n": "benign lung",
+      "lung_scc": "lung squamous cell carcinoma",
+      "colon_aca": "colon cancer, adenocarcinoma",
+      "colon_n": "benign colonic tissue"
+    },
+    "templates": "CLASSNAME is present."
+  },
+  "74": {
+    "classnames": {
+      "lung_aca": "lung adenocarcinoma",
+      "lung_n": "benign lung tissues",
+      "lung_scc": "squamous-cell carcinoma of the lung",
+      "colon_aca": "colon adenocarcinoma",
+      "colon_n": "benign colonic tissue"
+    },
+    "templates": "a histopathological image of CLASSNAME."
+  },
+  "75": {
+    "classnames": {
+      "lung_aca": "lung cancer, adenocarcinoma",
+      "lung_n": "non-malignant lung tissue",
+      "lung_scc": "lung squamous cell carcinoma",
+      "colon_aca": "colon adenocarcinoma",
+      "colon_n": "benign colonic tissue"
+    },
+    "templates": "there is CLASSNAME."
+  },
+  "76": {
+    "classnames": {
+      "lung_aca": "lung cancer, adenocarcinoma",
+      "lung_n": "non-malignant lung tissue",
+      "lung_scc": "lung squamous cell carcinoma",
+      "colon_aca": "colon adenocarcinoma",
+      "colon_n": "non-malignant colon tissue"
+    },
+    "templates": "an example of CLASSNAME."
+  },
+  "77": {
+    "classnames": {
+      "lung_aca": "lung cancer, adenocarcinoma",
+      "lung_n": "non-malignant lung tissue",
+      "lung_scc": "squamous cell lung cancer",
+      "colon_aca": "adenocarcinoma of the colon",
+      "colon_n": "benign colon"
+    },
+    "templates": "a histopathological photograph showing CLASSNAME."
+  },
+  "78": {
+    "classnames": {
+      "lung_aca": "lung adenocarcinoma",
+      "lung_n": "non-malignant lung tissue",
+      "lung_scc": "squamous cell lung cancer",
+      "colon_aca": "colon adenocarcinoma",
+      "colon_n": "non-malignant colon tissue"
+    },
+    "templates": "a histopathological photograph of CLASSNAME."
+  },
+  "79": {
+    "classnames": {
+      "lung_aca": "lung cancer, adenocarcinoma",
+      "lung_n": "benign lung tissues",
+      "lung_scc": "squamous cell lung cancer",
+      "colon_aca": "colon adenocarcinoma",
+      "colon_n": "benign colonic tissue"
+    },
+    "templates": "an H&E image showing CLASSNAME."
+  },
+  "80": {
+    "classnames": {
+      "lung_aca": "lung adenocarcinoma",
+      "lung_n": "non-malignant lung tissue",
+      "lung_scc": "lung squamous cell carcinoma",
+      "colon_aca": "adenocarcinoma of the colon",
+      "colon_n": "non-malignant colon tissue"
+    },
+    "templates": "a photomicrograph showing CLASSNAME."
+  },
+  "81": {
+    "classnames": {
+      "lung_aca": "adenocarcinoma of the lung",
+      "lung_n": "benign lung",
+      "lung_scc": "lung squamous cell carcinoma",
+      "colon_aca": "colon adenocarcinoma",
+      "colon_n": "benign colon"
+    },
+    "templates": "CLASSNAME, H&E stain."
+  },
+  "82": {
+    "classnames": {
+      "lung_aca": "lung cancer, adenocarcinoma",
+      "lung_n": "non-malignant lung tissue",
+      "lung_scc": "squamous cell lung cancer",
+      "colon_aca": "colon adenocarcinoma",
+      "colon_n": "benign colon"
+    },
+    "templates": "an H&E stained image showing CLASSNAME."
+  },
+  "83": {
+    "classnames": {
+      "lung_aca": "lung cancer, adenocarcinoma",
+      "lung_n": "benign lung tissues",
+      "lung_scc": "lung squamous cell carcinoma",
+      "colon_aca": "colon adenocarcinoma",
+      "colon_n": "benign colonic tissue"
+    },
+    "templates": "this is CLASSNAME."
+  },
+  "84": {
+    "classnames": {
+      "lung_aca": "adenocarcinoma of the lung",
+      "lung_n": "benign lung",
+      "lung_scc": "squamous-cell carcinoma of the lung",
+      "colon_aca": "colon adenocarcinoma",
+      "colon_n": "non-malignant colon tissue"
+    },
+    "templates": "an H&E image showing CLASSNAME."
+  },
+  "85": {
+    "classnames": {
+      "lung_aca": "lung cancer, adenocarcinoma",
+      "lung_n": "benign lung",
+      "lung_scc": "lung squamous cell carcinoma",
+      "colon_aca": "adenocarcinoma of the colon",
+      "colon_n": "benign colonic tissue"
+    },
+    "templates": "a photomicrograph of CLASSNAME."
+  },
+  "86": {
+    "classnames": {
+      "lung_aca": "lung adenocarcinoma",
+      "lung_n": "benign lung tissues",
+      "lung_scc": "lung squamous cell carcinoma",
+      "colon_aca": "colon cancer, adenocarcinoma",
+      "colon_n": "non-malignant colon tissue"
+    },
+    "templates": "there is CLASSNAME."
+  },
+  "87": {
+    "classnames": {
+      "lung_aca": "lung adenocarcinoma",
+      "lung_n": "non-malignant lung tissue",
+      "lung_scc": "squamous cell lung cancer",
+      "colon_aca": "adenocarcinoma of the colon",
+      "colon_n": "benign colon"
+    },
+    "templates": "CLASSNAME, H&E."
+  },
+  "88": {
+    "classnames": {
+      "lung_aca": "adenocarcinoma of the lung",
+      "lung_n": "benign lung",
+      "lung_scc": "lung squamous cell carcinoma",
+      "colon_aca": "colon cancer, adenocarcinoma",
+      "colon_n": "benign colonic tissue"
+    },
+    "templates": "shows CLASSNAME."
+  },
+  "89": {
+    "classnames": {
+      "lung_aca": "lung adenocarcinoma",
+      "lung_n": "non-malignant lung tissue",
+      "lung_scc": "squamous cell lung cancer",
+      "colon_aca": "adenocarcinoma of the colon",
+      "colon_n": "non-malignant colon tissue"
+    },
+    "templates": "an H&E stained image of CLASSNAME."
+  },
+  "90": {
+    "classnames": {
+      "lung_aca": "lung cancer, adenocarcinoma",
+      "lung_n": "benign lung tissues",
+      "lung_scc": "lung squamous cell carcinoma",
+      "colon_aca": "colon cancer, adenocarcinoma",
+      "colon_n": "benign colon"
+    },
+    "templates": "a photomicrograph showing CLASSNAME."
+  },
+  "91": {
+    "classnames": {
+      "lung_aca": "lung cancer, adenocarcinoma",
+      "lung_n": "non-malignant lung tissue",
+      "lung_scc": "lung squamous cell carcinoma",
+      "colon_aca": "colon adenocarcinoma",
+      "colon_n": "benign colonic tissue"
+    },
+    "templates": "an image of CLASSNAME."
+  },
+  "92": {
+    "classnames": {
+      "lung_aca": "adenocarcinoma of the lung",
+      "lung_n": "benign lung tissues",
+      "lung_scc": "squamous-cell carcinoma of the lung",
+      "colon_aca": "colon adenocarcinoma",
+      "colon_n": "non-malignant colon tissue"
+    },
+    "templates": "this is CLASSNAME."
+  },
+  "93": {
+    "classnames": {
+      "lung_aca": "lung cancer, adenocarcinoma",
+      "lung_n": "benign lung",
+      "lung_scc": "lung squamous cell carcinoma",
+      "colon_aca": "adenocarcinoma of the colon",
+      "colon_n": "benign colon"
+    },
+    "templates": "this is CLASSNAME."
+  },
+  "94": {
+    "classnames": {
+      "lung_aca": "lung adenocarcinoma",
+      "lung_n": "benign lung",
+      "lung_scc": "squamous cell lung cancer",
+      "colon_aca": "colon adenocarcinoma",
+      "colon_n": "non-malignant colon tissue"
+    },
+    "templates": "CLASSNAME is shown."
+  },
+  "95": {
+    "classnames": {
+      "lung_aca": "adenocarcinoma of the lung",
+      "lung_n": "benign lung",
+      "lung_scc": "squamous-cell carcinoma of the lung",
+      "colon_aca": "colon adenocarcinoma",
+      "colon_n": "benign colon"
+    },
+    "templates": "a histopathological image showing CLASSNAME."
+  },
+  "96": {
+    "classnames": {
+      "lung_aca": "adenocarcinoma of the lung",
+      "lung_n": "benign lung tissues",
+      "lung_scc": "squamous cell lung cancer",
+      "colon_aca": "adenocarcinoma of the colon",
+      "colon_n": "benign colon"
+    },
+    "templates": "a histopathological image of CLASSNAME."
+  },
+  "97": {
+    "classnames": {
+      "lung_aca": "adenocarcinoma of the lung",
+      "lung_n": "benign lung",
+      "lung_scc": "squamous cell lung cancer",
+      "colon_aca": "colon cancer, adenocarcinoma",
+      "colon_n": "non-malignant colon tissue"
+    },
+    "templates": "a histopathological image showing CLASSNAME."
+  },
+  "98": {
+    "classnames": {
+      "lung_aca": "lung cancer, adenocarcinoma",
+      "lung_n": "non-malignant lung tissue",
+      "lung_scc": "squamous-cell carcinoma of the lung",
+      "colon_aca": "colon cancer, adenocarcinoma",
+      "colon_n": "benign colon"
+    },
+    "templates": "CLASSNAME, H&E."
+  },
+  "99": {
+    "classnames": {
+      "lung_aca": "lung cancer, adenocarcinoma",
+      "lung_n": "benign lung tissues",
+      "lung_scc": "squamous-cell carcinoma of the lung",
+      "colon_aca": "colon adenocarcinoma",
+      "colon_n": "non-malignant colon tissue"
+    },
+    "templates": "CLASSNAME, H&E."
+  }
+}
