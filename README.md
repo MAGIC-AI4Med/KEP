@@ -95,7 +95,7 @@ The code for Zero-shot WSI Tumor Subtyping, please refer to [MI-Zero](https://gi
 ## Model Checkpoints
 
 We provide the models' checkpoints for KEP-32_OpenPath, KEP-16_OpenPath, KEP-CTP_OpenPath, KEP-32_Quilt1m, KEP-16_Quilt1m, KEP-CTP_Quilt1m, 
-which can be download from [BaiduPan](https://pan.baidu.com/s/1zweaQVQnW30IKm8xyrtsOg?pwd=u8nu) or from google drive with link: XXX.
+which can be download from [BaiduPan](https://pan.baidu.com/s/1zweaQVQnW30IKm8xyrtsOg?pwd=u8nu) or from google drive with link: (Coming soon).
 
 
 ## Citation
