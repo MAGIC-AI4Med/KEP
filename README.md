@@ -101,7 +101,12 @@ which can be download from XXX or from google drive with link: XXX.
 ## Citation
 If you use this code for your research or project, please cite:
 
-    @article{
-      
+    @misc{zhou2024knowledgeenhanced,
+      title={Knowledge-enhanced Visual-Language Pretraining for Computational Pathology}, 
+      author={Xiao Zhou and Xiaoman Zhang and Chaoyi Wu and Ya Zhang and Weidi Xie and Yanfeng Wang},
+      year={2024},
+      eprint={2404.09942},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV}
     }
 
