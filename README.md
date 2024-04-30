@@ -1,6 +1,6 @@
 # KEP
 
-The official codes for "[**Knowledge-enhanced Visual-Language Pretraining for Computational Pathology**](https://arxiv.org/list/cs.CV/recent)".
+The official codes for "[**Knowledge-enhanced Visual-Language Pretraining for Computational Pathology**](https://arxiv.org/abs/2404.09942)".
 
 ## Dependencies
 
