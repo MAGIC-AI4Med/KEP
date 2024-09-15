@@ -85,7 +85,7 @@ python -m path_training.main
 ```
 The main hyper-parameters of each model are summarized in `./S1_knowledge_encoding/configs`
 
-## Inference
+## Evaluation
 
 **1. Zero-shot Patch Classification and Cross-modal Retrieval**
 
