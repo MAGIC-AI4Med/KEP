@@ -53,7 +53,7 @@ Note: The WSIs of TCGA-RCC used in this study keeps the same as [MI-Zero](https:
 
 2. SSL-based: [CTransPath](https://github.com/Xiyue-Wang/TransPath), [PathSSL](https://github.com/lunit-io/benchmark-ssl-pathology#pre-trained-weights)
 
-## Pretraining
+## Training
 
 **1. Pathology Knowledge Encoding**
 
