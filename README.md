@@ -21,7 +21,8 @@ python easy_inference.py
 ## Model Checkpoints
 
 We provide the models' checkpoints for KEP-32_OpenPath, KEP-16_OpenPath, KEP-CTP_OpenPath, KEP-32_Quilt1m, KEP-16_Quilt1m, KEP-CTP_Quilt1m, 
-which can be download from [BaiduPan](https://pan.baidu.com/s/1zweaQVQnW30IKm8xyrtsOg?pwd=u8nu) or from google drive with link: [GoogleDrive](https://drive.google.com/drive/folders/1CUCE_m9yQuwdmAYxFnSi9W8LkCSGHCQ3?usp=sharing).
+which can be downloaded from [BaiduPan](https://pan.baidu.com/s/1zweaQVQnW30IKm8xyrtsOg?pwd=u8nu). 
+The checkpoints of KEP-CTP_OpenPath can be downloaded from google drive with link: [GoogleDrive](https://drive.google.com/drive/folders/1CUCE_m9yQuwdmAYxFnSi9W8LkCSGHCQ3?usp=sharing).
 
 
 ## Data
