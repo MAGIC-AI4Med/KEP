@@ -18,6 +18,11 @@ cd ./inference
 python easy_inference.py
 ```
 
+## Model Checkpoints
+
+We provide the models' checkpoints for KEP-32_OpenPath, KEP-16_OpenPath, KEP-CTP_OpenPath, KEP-32_Quilt1m, KEP-16_Quilt1m, KEP-CTP_Quilt1m, 
+which can be download from [BaiduPan](https://pan.baidu.com/s/1zweaQVQnW30IKm8xyrtsOg?pwd=u8nu) or from google drive with link: [GoogleDrive](https://drive.google.com/drive/folders/1CUCE_m9yQuwdmAYxFnSi9W8LkCSGHCQ3?usp=sharing).
+
 
 ## Data
 
@@ -70,6 +75,9 @@ python main.py
 ```
 The main hyper-parameters are summarized in `./S1_knowledge_encoding/bert_training/params.py`
 
+`Important`: Regarding the release of PathKT, we originally intended to make it public. However, we only have usage rights due to copyright restrictions and cannot share it with third parties.
+Please note that all pathology knowledge is derived from https://www.pathologyoutlines.com/. We encourage you to visit their website if you need related information or resources. Please make sure to review and adhere to their copyright policy.
+
 **2. Pathology Knowledge Enhanced Pretraining**
 
 Leverage the established knowledge encoder to guide visual-language pretraining for computational pathology.
@@ -99,12 +107,6 @@ python main.py
 **2. Zero-shot WSI Tumor Subtyping**
 
 The code for Zero-shot WSI Tumor Subtyping, please refer to [MI-Zero](https://github.com/mahmoodlab/MI-Zero). Note: You might first need to segment WSI into patches by using [CLAM](https://github.com/mahmoodlab/CLAM), and then implement zeroshot classification on each patch-level images by using [MI-Zero](https://github.com/mahmoodlab/MI-Zero).
-
-
-## Model Checkpoints
-
-We provide the models' checkpoints for KEP-32_OpenPath, KEP-16_OpenPath, KEP-CTP_OpenPath, KEP-32_Quilt1m, KEP-16_Quilt1m, KEP-CTP_Quilt1m, 
-which can be download from [BaiduPan](https://pan.baidu.com/s/1zweaQVQnW30IKm8xyrtsOg?pwd=u8nu) or from google drive with link: [GoogleDrive](https://drive.google.com/drive/folders/1CUCE_m9yQuwdmAYxFnSi9W8LkCSGHCQ3?usp=drive_link).
 
 
 ## Citation
