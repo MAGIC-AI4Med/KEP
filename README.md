@@ -65,6 +65,9 @@ Note: The WSIs of TCGA-RCC used in this study keeps the same as [MI-Zero](https:
 Projecting tree-structure pathological
 knowledge into a latent embedding space, where the synonyms, definitions, and corresponding histological/cytological features of the same disease are pulled together while those of different diseases are pushed apart. 
 
+:warning: **IMPORTANT** :exclamation: Regarding the release of PathKT, we originally intended to make it public. However, we only have usage rights due to copyright restrictions and cannot share it with third parties.
+Please note that all pathology knowledge is derived from https://www.pathologyoutlines.com/. We encourage you to visit their website if you need related information or resources. Please make sure to review and adhere to their copyright policy.
+
 <div align=center><img src="resources/knowledge_encoding.png" width="800px"/></div>
 
 Run the following command to perform Pathology Knowledge Encoding:
@@ -74,9 +77,6 @@ cd ./S1_knowledge_encoding
 python main.py 
 ```
 The main hyper-parameters are summarized in `./S1_knowledge_encoding/bert_training/params.py`
-
-:warning: **IMPORTANT** :exclamation: Regarding the release of PathKT, we originally intended to make it public. However, we only have usage rights due to copyright restrictions and cannot share it with third parties.
-Please note that all pathology knowledge is derived from https://www.pathologyoutlines.com/. We encourage you to visit their website if you need related information or resources. Please make sure to review and adhere to their copyright policy.
 
 **2. Pathology Knowledge Enhanced Pretraining**
 
