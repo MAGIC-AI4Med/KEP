@@ -75,7 +75,7 @@ python main.py
 ```
 The main hyper-parameters are summarized in `./S1_knowledge_encoding/bert_training/params.py`
 
-:warning: Important :exclamation: Regarding the release of PathKT, we originally intended to make it public. However, we only have usage rights due to copyright restrictions and cannot share it with third parties.
+:warning: **IMPORTANT** :exclamation: Regarding the release of PathKT, we originally intended to make it public. However, we only have usage rights due to copyright restrictions and cannot share it with third parties.
 Please note that all pathology knowledge is derived from https://www.pathologyoutlines.com/. We encourage you to visit their website if you need related information or resources. Please make sure to review and adhere to their copyright policy.
 
 **2. Pathology Knowledge Enhanced Pretraining**
