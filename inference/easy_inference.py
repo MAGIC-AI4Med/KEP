@@ -8,6 +8,7 @@ model_bin_path = 'Path/to/model/root/' + model_name
 
 device = 'gpu:0' if torch.cuda.is_available() else 'cpu'
 model,processor = load_KEP_model('ctp', model_name, model_bin_path, True, device)
+model.eval()
 
 example_image_path = './example.tif'
 example_text = 'an H&E image of breast invasive carcinoma.'
