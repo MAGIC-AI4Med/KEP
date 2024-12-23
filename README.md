@@ -2,6 +2,9 @@
 
 The official codes for "[**Knowledge-enhanced Visual-Language Pretraining for Computational Pathology**](https://arxiv.org/abs/2404.09942)".
 
+## News
+**[12/23/2024]**: Our new study of KEEP (KnowledgE-Enhanced Pathology foundation model) is now available on [Arxiv](https://arxiv.org/abs/2412.13126) and [Github](https://github.com/MAGIC-AI4Med/KEEP).
+
 ## Dependencies
 
 To install Python dependencies:
