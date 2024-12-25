@@ -3,7 +3,7 @@
 The official codes for "[**Knowledge-enhanced Visual-Language Pretraining for Computational Pathology**](https://arxiv.org/abs/2404.09942)".
 
 ## News
-**[12/23/2024]**: Our new study, termed KEEP (KnowledgE-Enhanced Pathology foundation model), is now available on [Arxiv](https://arxiv.org/abs/2412.13126) and [Github](https://github.com/MAGIC-AI4Med/KEEP), which adopts a larger knowledge graph, develops a refined vision-language alignment framework and benchmarks comprehensive cancer diagnostic tasks.
+**[12/23/2024]**: Our new study, termed KEEP (KnowledgE-Enhanced Pathology foundation model), is now available on [Arxiv](https://arxiv.org/abs/2412.13126), [Github](https://github.com/MAGIC-AI4Med/KEEP), and [Huggingface](https://huggingface.co/Astaxanthin/KEEP), which adopts a larger knowledge graph, develops a refined vision-language alignment framework and benchmarks comprehensive cancer diagnostic tasks.
 
 ## Dependencies
 
