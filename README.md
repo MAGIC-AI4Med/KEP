@@ -117,13 +117,14 @@ The code for Zero-shot WSI Tumor Subtyping, please refer to [MI-Zero](https://gi
 If you use this code for your research or project, please cite:
 
    @inproceedings{zhou2024knowledge,
-  title={Knowledge-enhanced visual-language pretraining for computational pathology},
-  author={Zhou, Xiao and Zhang, Xiaoman and Wu, Chaoyi and Zhang, Ya and Xie, Weidi and Wang, Yanfeng},
-  booktitle={European Conference on Computer Vision},
-  pages={345--362},
-  year={2024},
-  organization={Springer}
-}
+     title={Knowledge-enhanced visual-language pretraining for computational pathology},
+     author={Zhou, Xiao and Zhang, Xiaoman and Wu, Chaoyi and Zhang, Ya and Xie, Weidi and Wang, Yanfeng},
+     booktitle={European Conference on Computer Vision},
+     pages={345--362},
+     year={2024},
+     organization={Springer}
+   }
+
 
 
 
